@@ -282,7 +282,7 @@ SDFuserid	message	sendReceive
 1240	Sorry, I didn't get that.	1
 1240	Sorry, I didn't get that.	0
 1240	When would you like to come?	0
-1240	WHERE
+1240	WHERE	1
 1240	Sorry, I didn't get that.	1
 1240	Sorry, I didn't get that.	0
 1240	When would you like to come?	0
