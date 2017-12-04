@@ -1,0 +1,106 @@
+SDFuserid	message
+1235	hi
+1235	Hi! Thank you for your interest in our bank's credit cards! I can help you find the most suitable one for you! Let's begin! 
+1235	 Please tell me your name.
+1235	smitha
+1235	Good to see you, smitha. May I know your age?
+1235	25
+1235	 Is this the first time you are applying for any credit card?
+1235	Yes 
+1235	Are you a student?
+1235	No 
+1235	I suggest the Basic Credit Card.
+1235	Do you like my recommendation?
+1235	No 
+1235	Let's start over.
+1235	 Is this the first time you are applying for any credit card?
+1235	No 
+1235	What is your gross annual income?
+1235	1,000,00
+1235	Thank you. What kind of benefit is your priority?
+1235	general
+1235	I suggest the regular General Purpose Credit Card.
+1235	Do you like my recommendation?
+1235	Yes 
+1235	Thank you for using our chatbot. Please also answer the next 3 questions.
+1235	Q1: Would you use chatbot like this to receive recommendations on credit cards?
+1235	maybe
+1235	Q2: Did any question confuse you?
+1235	no
+1235	Q3: Any suggestions to improve the chatbot? 
+1235	no
+1235	Congrats, you are done! Your code is 5254810.
+1235	thankyou
+1235	Hi! Thank you for your interest in our bank's credit cards! I can help you find the most suitable one for you! Let's begin! 
+1235	 Please tell me your name.
+1235	smitha
+1235	Good to see you, smitha. May I know your age?
+1235	25
+1235	 Is this the first time you are applying for any credit card?
+1248	hello
+1248	Hi! Thank you for your interest in our bank's credit cards! I can help you find the most suitable one for you! Let's begin! 
+1248	 Please tell me your name.
+1248	sankar
+1248	Good to see you, sankar. May I know your age?
+1248	35
+1248	 Is this the first time you are applying for any credit card?
+1248	Yes 
+1248	Are you a student?
+1248	No 
+1248	I suggest the Basic Credit Card.
+1248	Do you like my recommendation?
+1248	Yes 
+1248	Thank you for using our chatbot. Please also answer the next 3 questions.
+1248	Q1: Would you use chatbot like this to receive recommendations on credit cards?
+1248	maybe
+1248	Q2: Did any question confuse you?
+1248	yes
+1248	Q3: Any suggestions to improve the chatbot? 
+1248	yes
+1248	Congrats, you are done! Your code is 1133979.
+1248	thank you
+1248	Hi! Thank you for your interest in our bank's credit cards! I can help you find the most suitable one for you! Let's begin! 
+1248	 Please tell me your name.
+1260	Hello
+1260	Hi! Thank you for your interest in our bank's credit cards! I can help you find the most suitable one for you! Let's begin! 
+1260	 Please tell me your name.
+1260	Lucas
+1260	Good to see you, Lucas. May I know your age?
+1260	24
+1260	 Is this the first time you are applying for any credit card?
+1260	No
+1260	What is your gross annual income?
+1270	hello
+1270	Hi! Thank you for your interest in our bank's credit cards! I can help you find the most suitable one for you! Let's begin! 
+1270	 Please tell me your name.
+1278	survey code?
+1278	Hi! Thank you for your interest in our bank's credit cards! I can help you find the most suitable one for you! Let's begin! 
+1278	 Please tell me your name.
+1278	robert
+1278	Good to see you, robert. May I know your age?
+1278	25
+1278	 Is this the first time you are applying for any credit card?
+1300	hi
+1300	Hi! Thank you for your interest in our bank's credit cards! I can help you find the most suitable one for you! Let's begin! 
+1300	 Please tell me your name.
+1300	vishnu
+1300	Good to see you, vishnu. May I know your age?
+1300	25
+1300	 Is this the first time you are applying for any credit card?
+1300	Yes 
+1300	Are you a student?
+1300	No 
+1300	I suggest the Basic Credit Card.
+1300	Do you like my recommendation?
+1300	Yes 
+1300	Thank you for using our chatbot. Please also answer the next 3 questions.
+1300	Q1: Would you use chatbot like this to receive recommendations on credit cards?
+1300	yes 
+1300	Q2: Did any question confuse you?
+1300	no,nothing
+1300	Q3: Any suggestions to improve the chatbot? 
+1300	change the user interface
+1300	Congrats, you are done! Your code is 5790097.
+1300	ok
+1300	Hi! Thank you for your interest in our bank's credit cards! I can help you find the most suitable one for you! Let's begin! 
+1300	 Please tell me your name.
