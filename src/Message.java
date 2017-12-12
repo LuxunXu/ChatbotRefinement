@@ -9,7 +9,7 @@ public class Message implements Serializable{
 	public Map<String, LinkedList<String>> qAndAMap;
 	
 	public Message() {
-		qAndAMap = new HashMap<String, LinkedList<String>>();
+		qAndAMap = new LinkedHashMap<String, LinkedList<String>>();
 	}
 	
 	public Map<String, LinkedList<String>> getMap() {

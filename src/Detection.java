@@ -6,10 +6,10 @@ public class Detection {
 	@SuppressWarnings("unchecked")
 	public static void main(String[] args) throws FileNotFoundException {
 		Map<Integer, Message> idMap = null;
-		idMap = process("DAFailTable.txt");
+		//idMap = process("DAFailTable.txt");
 		//store("DA", idMap);
 		idMap = (Map<Integer, Message>) read("DA");
-		Message test = idMap.get(1194);
+		Message test = idMap.get(1156);
 		System.out.println(test.toString());
 	}
 	
