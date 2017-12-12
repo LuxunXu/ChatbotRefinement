@@ -6,13 +6,13 @@ public class Message implements Serializable{
 	 * 
 	 */
 	private static final long serialVersionUID = 874087594914412994L;
-	public Map<String, LinkedList<String>> qAndAMap;
+	public Map<String, LinkedList<Response>> qAndAMap;
 	
 	public Message() {
-		qAndAMap = new LinkedHashMap<String, LinkedList<String>>();
+		qAndAMap = new HashMap<String, LinkedList<Response>>();
 	}
 	
-	public Map<String, LinkedList<String>> getMap() {
+	public Map<String, LinkedList<Response>> getMap() {
 		return qAndAMap;
 	}
 	
