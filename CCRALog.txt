@@ -1,0 +1,1274 @@
+SDFuserid	message	sendReceive
+1231	Hi there	1
+1231	Hi! Thank you for your interest in our bank's credit cards! I can help you find the most suitable one for you! Let's begin! 	0
+1231	 Please tell me your name.	0
+1231	Jill Crimpy	1
+1231	Good to see you, Jill Crimpy. May I know your age?	0
+1231	39	1
+1231	 Is this the first time you are applying for any credit card?	0
+1231	Yes 	1
+1231	Are you a student?	0
+1231	No 	1
+1231	I suggest the Basic Credit Card.	0
+1231	Do you like my recommendation?	0
+1231	No 	1
+1231	Let's start over.	0
+1231	 Is this the first time you are applying for any credit card?	0
+1231	No 	1
+1231	What is your gross annual income?	0
+1231	800000	1
+1231	Thank you. What kind of benefit is your priority?	0
+1231	travel 	1
+1231	I suggest the regular Travel Credit Card.	0
+1231	Do you like my recommendation?	0
+1231	Yes 	1
+1231	Thank you for using our chatbot. Please also answer the next 3 questions.	0
+1231	Q1: Would you use chatbot like this to receive recommendations on credit cards?	0
+1231	maybe	1
+1231	Q2: Did any question confuse you?	0
+1231	No	1
+1231	Q3: Any suggestions to improve the chatbot? 	0
+1231	Display more details on the creditcards suggested would be good	1
+1231	Congrats, you are done! Your code is 1604037.	0
+1237	hi	1
+1237	Hi! Thank you for your interest in our bank's credit cards! I can help you find the most suitable one for you! Let's begin! 	0
+1237	 Please tell me your name.	0
+1237	vicky	1
+1237	Good to see you, vicky. May I know your age?	0
+1237	25	1
+1237	Sorry, I didn't get that.	0
+1237	Good to see you, vicky. May I know your age?	0
+1237	25	1
+1237	 Is this the first time you are applying for any credit card?	0
+1237	Yes 	1
+1237	Are you a student?	0
+1237	No 	1
+1237	I suggest the Basic Credit Card.	0
+1237	Do you like my recommendation?	0
+1237	Yes 	1
+1237	Thank you for using our chatbot. Please also answer the next 3 questions.	0
+1237	Q1: Would you use chatbot like this to receive recommendations on credit cards?	0
+1237	yes 	1
+1237	Q2: Did any question confuse you?	0
+1237	no	1
+1237	Q3: Any suggestions to improve the chatbot? 	0
+1237	it can also give more details about its recommendation	1
+1237	Congrats, you are done! Your code is 7956142.	0
+1235	hi	1
+1235	Hi! Thank you for your interest in our bank's credit cards! I can help you find the most suitable one for you! Let's begin! 	0
+1235	 Please tell me your name.	0
+1235	smitha	1
+1235	Good to see you, smitha. May I know your age?	0
+1235	25	1
+1235	 Is this the first time you are applying for any credit card?	0
+1235	Yes 	1
+1235	Are you a student?	0
+1235	No 	1
+1235	I suggest the Basic Credit Card.	0
+1235	Do you like my recommendation?	0
+1235	No 	1
+1235	Let's start over.	0
+1235	 Is this the first time you are applying for any credit card?	0
+1235	No 	1
+1235	What is your gross annual income?	0
+1235	1,000,00	1
+1235	Thank you. What kind of benefit is your priority?	0
+1235	general	1
+1235	I suggest the regular General Purpose Credit Card.	0
+1235	Do you like my recommendation?	0
+1235	Yes 	1
+1235	Thank you for using our chatbot. Please also answer the next 3 questions.	0
+1235	Q1: Would you use chatbot like this to receive recommendations on credit cards?	0
+1235	maybe	1
+1235	Q2: Did any question confuse you?	0
+1235	no	1
+1235	Q3: Any suggestions to improve the chatbot? 	0
+1235	no	1
+1235	Congrats, you are done! Your code is 5254810.	0
+1235	thankyou	1
+1235	Hi! Thank you for your interest in our bank's credit cards! I can help you find the most suitable one for you! Let's begin! 	0
+1235	 Please tell me your name.	0
+1235	smitha	1
+1235	Good to see you, smitha. May I know your age?	0
+1235	25	1
+1235	 Is this the first time you are applying for any credit card?	0
+1238	hello	1
+1238	Hi! Thank you for your interest in our bank's credit cards! I can help you find the most suitable one for you! Let's begin! 	0
+1238	 Please tell me your name.	0
+1238	ramuvel	1
+1238	Good to see you, ramuvel. May I know your age?	0
+1238	28	1
+1238	 Is this the first time you are applying for any credit card?	0
+1238	Yes 	1
+1238	Are you a student?	0
+1238	No 	1
+1238	I suggest the Basic Credit Card.	0
+1238	Do you like my recommendation?	0
+1238	Yes 	1
+1238	Thank you for using our chatbot. Please also answer the next 3 questions.	0
+1238	Q1: Would you use chatbot like this to receive recommendations on credit cards?	0
+1238	maybe	1
+1238	Q2: Did any question confuse you?	0
+1238	not yet	1
+1238	Q3: Any suggestions to improve the chatbot? 	0
+1238	nope	1
+1238	Congrats, you are done! Your code is 8566344.	0
+1247	hi	1
+1247	Hi! Thank you for your interest in our bank's credit cards! I can help you find the most suitable one for you! Let's begin! 	0
+1247	 Please tell me your name.	0
+1247	Pix Ram	1
+1247	Good to see you, Pix Ram. May I know your age?	0
+1247	31	1
+1247	 Is this the first time you are applying for any credit card?	0
+1247	No 	1
+1247	What is your gross annual income?	0
+1247	50000$	1
+1247	Thank you. What kind of benefit is your priority?	0
+1247	travel 	1
+1247	I suggest the regular Travel Credit Card.	0
+1247	Do you like my recommendation?	0
+1247	Yes 	1
+1247	Thank you for using our chatbot. Please also answer the next 3 questions.	0
+1247	Q1: Would you use chatbot like this to receive recommendations on credit cards?	0
+1247	yes 	1
+1247	Q2: Did any question confuse you?	0
+1247	No	1
+1247	Q3: Any suggestions to improve the chatbot? 	0
+1247	It is just perfect.	1
+1247	Congrats, you are done! Your code is 6714429.	0
+1248	hello	1
+1248	Hi! Thank you for your interest in our bank's credit cards! I can help you find the most suitable one for you! Let's begin! 	0
+1248	 Please tell me your name.	0
+1248	sankar	1
+1248	Good to see you, sankar. May I know your age?	0
+1248	35	1
+1248	 Is this the first time you are applying for any credit card?	0
+1248	Yes 	1
+1248	Are you a student?	0
+1248	No 	1
+1248	I suggest the Basic Credit Card.	0
+1248	Do you like my recommendation?	0
+1248	Yes 	1
+1248	Thank you for using our chatbot. Please also answer the next 3 questions.	0
+1248	Q1: Would you use chatbot like this to receive recommendations on credit cards?	0
+1248	maybe	1
+1248	Q2: Did any question confuse you?	0
+1248	yes	1
+1248	Q3: Any suggestions to improve the chatbot? 	0
+1248	yes	1
+1248	Congrats, you are done! Your code is 1133979.	0
+1248	thank you	1
+1248	Hi! Thank you for your interest in our bank's credit cards! I can help you find the most suitable one for you! Let's begin! 	0
+1248	 Please tell me your name.	0
+1202	hello	1
+1202	hi	1
+1202	Hi! Thank you for your interest in our bank's credit cards! I can help you find the most suitable one for you! Let's begin! 	0
+1202	 Please tell me your name.	0
+1202	harold	1
+1202	Good to see you, harold. May I know your age?	0
+1202	40	1
+1202	 Is this the first time you are applying for any credit card?	0
+1202	Yes 	1
+1202	Are you a student?	0
+1202	No 	1
+1202	I suggest the Basic Credit Card.	0
+1202	Do you like my recommendation?	0
+1202	Yes 	1
+1202	Thank you for using our chatbot. Please also answer the next 3 questions.	0
+1202	Q1: Would you use chatbot like this to receive recommendations on credit cards?	0
+1202	yes 	1
+1202	Q2: Did any question confuse you?	0
+1202	no	1
+1202	Q3: Any suggestions to improve the chatbot? 	0
+1202	nothing	1
+1202	Congrats, you are done! Your code is 6860626.	0
+1260	Hello	1
+1260	Hi! Thank you for your interest in our bank's credit cards! I can help you find the most suitable one for you! Let's begin! 	0
+1260	 Please tell me your name.	0
+1260	Lucas	1
+1260	Good to see you, Lucas. May I know your age?	0
+1260	24	1
+1260	 Is this the first time you are applying for any credit card?	0
+1260	No	1
+1260	What is your gross annual income?	0
+1261	hello, I would like to pick a credit card	1
+1261	Hi! Thank you for your interest in our bank's credit cards! I can help you find the most suitable one for you! Let's begin! 	0
+1261	 Please tell me your name.	0
+1261	Jane	1
+1261	Good to see you, Jane. May I know your age?	0
+1261	32	1
+1261	 Is this the first time you are applying for any credit card?	0
+1261	No 	1
+1261	What is your gross annual income?	0
+1261	22000	1
+1261	Thank you. What kind of benefit is your priority?	0
+1261	general	1
+1261	I suggest the regular General Purpose Credit Card.	0
+1261	Do you like my recommendation?	0
+1261	Yes 	1
+1261	Thank you for using our chatbot. Please also answer the next 3 questions.	0
+1261	Q1: Would you use chatbot like this to receive recommendations on credit cards?	0
+1261	maybe	1
+1261	Q2: Did any question confuse you?	0
+1261	no	1
+1261	Q3: Any suggestions to improve the chatbot? 	0
+1261	present more than one option	1
+1261	Congrats, you are done! Your code is 6062997.	0
+1265	Hi	1
+1265	Hi! Thank you for your interest in our bank's credit cards! I can help you find the most suitable one for you! Let's begin! 	0
+1265	 Please tell me your name.	0
+1265	Linda	1
+1265	Good to see you, Linda. May I know your age?	0
+1265	32	1
+1265	 Is this the first time you are applying for any credit card?	0
+1265	No	1
+1265	What is your gross annual income?	0
+1265	$32,000	1
+1265	Thank you. What kind of benefit is your priority?	0
+1265	cashback	1
+1265	I suggest the regular Cashback Credit Card.	0
+1265	Do you like my recommendation?	0
+1265	No	1
+1265	Let's start over.	0
+1265	 Is this the first time you are applying for any credit card?	0
+1265	yes	1
+1265	Are you a student?	0
+1265	no	1
+1265	I suggest the Basic Credit Card.	0
+1265	Do you like my recommendation?	0
+1265	no	1
+1265	Let's start over.	0
+1265	 Is this the first time you are applying for any credit card?	0
+1265	no	1
+1265	What is your gross annual income?	0
+1265	$32,000	1
+1265	Thank you. What kind of benefit is your priority?	0
+1265	cashback	1
+1265	I suggest the regular Cashback Credit Card.	0
+1265	Do you like my recommendation?	0
+1265	yes	1
+1265	Thank you for using our chatbot. Please also answer the next 3 questions.	0
+1265	Q1: Would you use chatbot like this to receive recommendations on credit cards?	0
+1265	maybe	1
+1265	Q2: Did any question confuse you?	0
+1265	"What kind of benefit is your priority?" is worded oddly. If you are not a native speaker of English, you could work with someone who has editing/proofreading experience.	1
+1265	Q3: Any suggestions to improve the chatbot? 	0
+1268	hello	1
+1268	Hi! Thank you for your interest in our bank's credit cards! I can help you find the most suitable one for you! Let's begin! 	0
+1268	 Please tell me your name.	0
+1268	john	1
+1268	Good to see you, john. May I know your age?	0
+1268	25	1
+1268	 Is this the first time you are applying for any credit card?	0
+1268	Yes 	1
+1268	Are you a student?	0
+1268	No 	1
+1268	I suggest the Basic Credit Card.	0
+1268	Do you like my recommendation?	0
+1268	Yes 	1
+1268	Thank you for using our chatbot. Please also answer the next 3 questions.	0
+1268	Q1: Would you use chatbot like this to receive recommendations on credit cards?	0
+1268	maybe	1
+1268	Q2: Did any question confuse you?	0
+1268	no	1
+1268	Q3: Any suggestions to improve the chatbot? 	0
+1268	offer federal credit union as suggestions. Ask for location via Zip code to offer a location to inquiry more about offered bank,credit union.	1
+1268	Congrats, you are done! Your code is 4903653.	0
+1269	Hi chat bot, I'm in the market for a credit card with a low APR, no annual fee, and good rewards	1
+1269	Hi! Thank you for your interest in our bank's credit cards! I can help you find the most suitable one for you! Let's begin! 	0
+1269	 Please tell me your name.	0
+1269	V	1
+1269	Good to see you, V. May I know your age?	0
+1269	24	1
+1269	 Is this the first time you are applying for any credit card?	0
+1269	No 	1
+1269	What is your gross annual income?	0
+1269	15,000	1
+1269	Thank you. What kind of benefit is your priority?	0
+1269	cashback 	1
+1269	I suggest the regular Cashback Credit Card.	0
+1269	Do you like my recommendation?	0
+1269	No 	1
+1269	Let's start over.	0
+1269	 Is this the first time you are applying for any credit card?	0
+1269	No 	1
+1269	What is your gross annual income?	0
+1269	15,000	1
+1269	Thank you. What kind of benefit is your priority?	0
+1269	cashback 	1
+1269	I suggest the regular Cashback Credit Card.	0
+1269	Do you like my recommendation?	0
+1269	Yes 	1
+1269	Thank you for using our chatbot. Please also answer the next 3 questions.	0
+1269	Q1: Would you use chatbot like this to receive recommendations on credit cards?	0
+1269	maybe	1
+1269	Q2: Did any question confuse you?	0
+1269	No	1
+1269	Q3: Any suggestions to improve the chatbot? 	0
+1269	I would say have an option if people say they don't like a credit card, have a second ranking recommendation rather than starting over again with the same questions	1
+1269	Congrats, you are done! Your code is 2930896.	0
+1270	hello	1
+1270	Hi! Thank you for your interest in our bank's credit cards! I can help you find the most suitable one for you! Let's begin! 	0
+1270	 Please tell me your name.	0
+1273	I would like a new credit card recomendation please	1
+1273	Hi! Thank you for your interest in our bank's credit cards! I can help you find the most suitable one for you! Let's begin! 	0
+1273	 Please tell me your name.	0
+1273	Jonny	1
+1273	Good to see you, Jonny. May I know your age?	0
+1273	21	1
+1273	 Is this the first time you are applying for any credit card?	0
+1273	Yes 	1
+1273	Are you a student?	0
+1273	No 	1
+1273	I suggest the Basic Credit Card.	0
+1273	Do you like my recommendation?	0
+1273	No 	1
+1273	Let's start over.	0
+1273	 Is this the first time you are applying for any credit card?	0
+1273	Yes 	1
+1273	Are you a student?	0
+1273	No 	1
+1273	I suggest the Basic Credit Card.	0
+1273	Do you like my recommendation?	0
+1273	No 	1
+1273	Let's start over.	0
+1273	 Is this the first time you are applying for any credit card?	0
+1273	No 	1
+1273	What is your gross annual income?	0
+1273	38000	1
+1273	Thank you. What kind of benefit is your priority?	0
+1273	cashback 	1
+1273	I suggest the regular Cashback Credit Card.	0
+1273	Do you like my recommendation?	0
+1273	What brand should I go for?	1
+1273	Sorry, I didn't get that.	0
+1273	Do you like my recommendation?	0
+1273	What company should I get	1
+1273	Sorry, I didn't get that.	0
+1273	Do you like my recommendation?	0
+1273	No 	1
+1273	Let's start over.	0
+1273	 Is this the first time you are applying for any credit card?	0
+1273	Yes 	1
+1273	Are you a student?	0
+1273	Yes 	1
+1273	I suggest the Student Credit Card.	0
+1273	Do you like my recommendation?	0
+1273	No 	1
+1273	Let's start over.	0
+1273	 Is this the first time you are applying for any credit card?	0
+1273	Yes 	1
+1273	Are you a student?	0
+1273	No 	1
+1273	I suggest the Basic Credit Card.	0
+1273	Do you like my recommendation?	0
+1273	No 	1
+1273	Let's start over.	0
+1273	 Is this the first time you are applying for any credit card?	0
+1273	No 	1
+1273	What is your gross annual income?	0
+1273	100000	1
+1273	Thank you. What kind of benefit is your priority?	0
+1273	cashback 	1
+1273	I suggest the regular Cashback Credit Card.	0
+1273	Do you like my recommendation?	0
+1273	Yes 	1
+1273	Thank you for using our chatbot. Please also answer the next 3 questions.	0
+1273	Q1: Would you use chatbot like this to receive recommendations on credit cards?	0
+1273	maybe	1
+1273	Q2: Did any question confuse you?	0
+1273	No	1
+1273	Q3: Any suggestions to improve the chatbot? 	0
+1273	More detail	1
+1273	Congrats, you are done! Your code is 7687770.	0
+1278	survey code?	1
+1278	Hi! Thank you for your interest in our bank's credit cards! I can help you find the most suitable one for you! Let's begin! 	0
+1278	 Please tell me your name.	0
+1278	robert	1
+1278	Good to see you, robert. May I know your age?	0
+1278	25	1
+1278	 Is this the first time you are applying for any credit card?	0
+1280	Hello	1
+1280	Hi! Thank you for your interest in our bank's credit cards! I can help you find the most suitable one for you! Let's begin! 	0
+1280	 Please tell me your name.	0
+1280	Anna	1
+1280	Good to see you, Anna. May I know your age?	0
+1280	35	1
+1280	 Is this the first time you are applying for any credit card?	0
+1280	No 	1
+1280	What is your gross annual income?	0
+1280	28000	1
+1280	Thank you. What kind of benefit is your priority?	0
+1280	general	1
+1280	I suggest the regular General Purpose Credit Card.	0
+1280	Do you like my recommendation?	0
+1280	Yes 	1
+1280	Thank you for using our chatbot. Please also answer the next 3 questions.	0
+1280	Q1: Would you use chatbot like this to receive recommendations on credit cards?	0
+1280	no 	1
+1280	Q2: Did any question confuse you?	0
+1280	no	1
+1280	Q3: Any suggestions to improve the chatbot? 	0
+1280	none	1
+1280	Congrats, you are done! Your code is 5691340.	0
+1283	Hello	1
+1283	Hi! Thank you for your interest in our bank's credit cards! I can help you find the most suitable one for you! Let's begin! 	0
+1283	 Please tell me your name.	0
+1283	Yogesh	1
+1283	Good to see you, Yogesh. May I know your age?	0
+1283	28	1
+1283	 Is this the first time you are applying for any credit card?	0
+1283	No 	1
+1283	What is your gross annual income?	0
+1283	90000	1
+1283	Thank you. What kind of benefit is your priority?	0
+1283	cashback 	1
+1283	I suggest the regular Cashback Credit Card.	0
+1283	Do you like my recommendation?	0
+1283	Yes 	1
+1283	Thank you for using our chatbot. Please also answer the next 3 questions.	0
+1283	Q1: Would you use chatbot like this to receive recommendations on credit cards?	0
+1283	maybe	1
+1283	Q2: Did any question confuse you?	0
+1283	Yes	1
+1283	Q3: Any suggestions to improve the chatbot? 	0
+1283	Could provide more information	1
+1283	Congrats, you are done! Your code is 7674588.	0
+1286	hi	1
+1286	Hi! Thank you for your interest in our bank's credit cards! I can help you find the most suitable one for you! Let's begin! 	0
+1286	 Please tell me your name.	0
+1286	karthick	1
+1286	Good to see you, karthick. May I know your age?	0
+1286	26	1
+1286	 Is this the first time you are applying for any credit card?	0
+1286	Yes 	1
+1286	Are you a student?	0
+1286	No 	1
+1286	I suggest the Basic Credit Card.	0
+1286	Do you like my recommendation?	0
+1286	Yes 	1
+1286	Thank you for using our chatbot. Please also answer the next 3 questions.	0
+1286	Q1: Would you use chatbot like this to receive recommendations on credit cards?	0
+1286	maybe	1
+1286	Q2: Did any question confuse you?	0
+1286	no	1
+1286	Q3: Any suggestions to improve the chatbot? 	0
+1199	hi	1
+1199	Hi! Thank you for your interest in our bank's credit cards! I can help you find the most suitable one for you! Let's begin! 	0
+1199	 Please tell me your name.	0
+1199	omprakash	1
+1199	Good to see you, omprakash. May I know your age?	0
+1199	34	1
+1199	 Is this the first time you are applying for any credit card?	0
+1199	Yes 	1
+1199	Are you a student?	0
+1199	No 	1
+1199	I suggest the Basic Credit Card.	0
+1199	Do you like my recommendation?	0
+1199	Yes 	1
+1199	Thank you for using our chatbot. Please also answer the next 3 questions.	0
+1199	Q1: Would you use chatbot like this to receive recommendations on credit cards?	0
+1199	yes 	1
+1199	Q2: Did any question confuse you?	0
+1199	no	1
+1199	Q3: Any suggestions to improve the chatbot? 	0
+1199	no	1
+1199	Congrats, you are done! Your code is 5023687.	0
+1199	hi	1
+1199	Hi! Thank you for your interest in our bank's credit cards! I can help you find the most suitable one for you! Let's begin! 	0
+1199	 Please tell me your name.	0
+1199	omprakash subramanian	1
+1199	Good to see you, omprakash subramanian. May I know your age?	0
+1199	35	1
+1199	 Is this the first time you are applying for any credit card?	0
+1199	No 	1
+1199	What is your gross annual income?	0
+1199	50000	1
+1199	Thank you. What kind of benefit is your priority?	0
+1199	cashback 	1
+1199	I suggest the regular Cashback Credit Card.	0
+1199	Do you like my recommendation?	0
+1199	Yes 	1
+1199	Thank you for using our chatbot. Please also answer the next 3 questions.	0
+1199	Q1: Would you use chatbot like this to receive recommendations on credit cards?	0
+1199	yes 	1
+1199	Q2: Did any question confuse you?	0
+1199	no	1
+1199	Q3: Any suggestions to improve the chatbot? 	0
+1199	no	1
+1199	Congrats, you are done! Your code is 4373725.	0
+1293	HI	1
+1293	Hi! Thank you for your interest in our bank's credit cards! I can help you find the most suitable one for you! Let's begin! 	0
+1293	 Please tell me your name.	0
+1293	SOW	1
+1293	Good to see you, SOW. May I know your age?	0
+1293	22	1
+1293	 Is this the first time you are applying for any credit card?	0
+1293	No 	1
+1293	What is your gross annual income?	0
+1293	15000	1
+1293	Thank you. What kind of benefit is your priority?	0
+1293	general	1
+1293	I suggest the regular General Purpose Credit Card.	0
+1293	Do you like my recommendation?	0
+1293	No 	1
+1293	Let's start over.	0
+1293	 Is this the first time you are applying for any credit card?	0
+1293	No 	1
+1293	What is your gross annual income?	0
+1293	15000	1
+1293	Thank you. What kind of benefit is your priority?	0
+1293	general	1
+1293	I suggest the regular General Purpose Credit Card.	0
+1293	Do you like my recommendation?	0
+1293	Yes 	1
+1293	Thank you for using our chatbot. Please also answer the next 3 questions.	0
+1293	Q1: Would you use chatbot like this to receive recommendations on credit cards?	0
+1293	yes 	1
+1293	Q2: Did any question confuse you?	0
+1293	NO	1
+1293	Q3: Any suggestions to improve the chatbot? 	0
+1293	NO	1
+1293	Congrats, you are done! Your code is 5643185.	0
+1298	Hello	1
+1298	Hi! Thank you for your interest in our bank's credit cards! I can help you find the most suitable one for you! Let's begin! 	0
+1298	 Please tell me your name.	0
+1298	Olivia	1
+1298	Good to see you, Olivia. May I know your age?	0
+1298	26	1
+1298	 Is this the first time you are applying for any credit card?	0
+1298	Yes 	1
+1298	Are you a student?	0
+1298	Yes 	1
+1298	I suggest the Student Credit Card.	0
+1298	Do you like my recommendation?	0
+1298	No 	1
+1298	Let's start over.	0
+1298	 Is this the first time you are applying for any credit card?	0
+1298	Yes 	1
+1298	Are you a student?	0
+1298	No 	1
+1298	I suggest the Basic Credit Card.	0
+1298	Do you like my recommendation?	0
+1298	Yes 	1
+1298	Thank you for using our chatbot. Please also answer the next 3 questions.	0
+1298	Q1: Would you use chatbot like this to receive recommendations on credit cards?	0
+1298	maybe	1
+1298	Q2: Did any question confuse you?	0
+1298	No	1
+1298	Q3: Any suggestions to improve the chatbot? 	0
+1298	Ask more questions before suggesting a credit card	1
+1298	Congrats, you are done! Your code is 4915016.	0
+1300	hi	1
+1300	Hi! Thank you for your interest in our bank's credit cards! I can help you find the most suitable one for you! Let's begin! 	0
+1300	 Please tell me your name.	0
+1300	vishnu	1
+1300	Good to see you, vishnu. May I know your age?	0
+1300	25	1
+1300	 Is this the first time you are applying for any credit card?	0
+1300	Yes 	1
+1300	Are you a student?	0
+1300	No 	1
+1300	I suggest the Basic Credit Card.	0
+1300	Do you like my recommendation?	0
+1300	Yes 	1
+1300	Thank you for using our chatbot. Please also answer the next 3 questions.	0
+1300	Q1: Would you use chatbot like this to receive recommendations on credit cards?	0
+1300	yes 	1
+1300	Q2: Did any question confuse you?	0
+1300	no,nothing	1
+1300	Q3: Any suggestions to improve the chatbot? 	0
+1300	change the user interface	1
+1300	Congrats, you are done! Your code is 5790097.	0
+1300	ok	1
+1300	Hi! Thank you for your interest in our bank's credit cards! I can help you find the most suitable one for you! Let's begin! 	0
+1300	 Please tell me your name.	0
+1304	hello?	1
+1304	Hi! Thank you for your interest in our bank's credit cards! I can help you find the most suitable one for you! Let's begin! 	0
+1304	 Please tell me your name.	0
+1304	Michael	1
+1304	Good to see you, Michael. May I know your age?	0
+1304	27	1
+1304	 Is this the first time you are applying for any credit card?	0
+1304	no	1
+1304	What is your gross annual income?	0
+1304	50,000	1
+1304	Thank you. What kind of benefit is your priority?	0
+1304	cashback 	1
+1304	I suggest the regular Cashback Credit Card.	0
+1304	Do you like my recommendation?	0
+1304	Yes 	1
+1304	Thank you for using our chatbot. Please also answer the next 3 questions.	0
+1304	Q1: Would you use chatbot like this to receive recommendations on credit cards?	0
+1304	yes 	1
+1304	Q2: Did any question confuse you?	0
+1304	no	1
+1304	Q3: Any suggestions to improve the chatbot? 	0
+1304	no	1
+1304	Congrats, you are done! Your code is 2233649.	0
+1305	Hello	1
+1305	Hi! Thank you for your interest in our bank's credit cards! I can help you find the most suitable one for you! Let's begin! 	0
+1305	 Please tell me your name.	0
+1305	Rick	1
+1305	Good to see you, Rick. May I know your age?	0
+1305	24	1
+1305	 Is this the first time you are applying for any credit card?	0
+1305	No 	1
+1305	What is your gross annual income?	0
+1305	40000	1
+1305	Thank you. What kind of benefit is your priority?	0
+1305	cashback 	1
+1305	I suggest the regular Cashback Credit Card.	0
+1305	Do you like my recommendation?	0
+1305	Yes 	1
+1305	Thank you for using our chatbot. Please also answer the next 3 questions.	0
+1305	Q1: Would you use chatbot like this to receive recommendations on credit cards?	0
+1305	no 	1
+1305	Q2: Did any question confuse you?	0
+1305	no	1
+1305	Q3: Any suggestions to improve the chatbot? 	0
+1305	honestly, when it comes to getting a credit card i'd rather speak to a real person.	1
+1305	Congrats, you are done! Your code is 6924208.	0
+1308	Hello	1
+1308	Hi! Thank you for your interest in our bank's credit cards! I can help you find the most suitable one for you! Let's begin! 	0
+1308	 Please tell me your name.	0
+1308	Stephanie	1
+1308	Good to see you, Stephanie. May I know your age?	0
+1308	37	1
+1308	 Is this the first time you are applying for any credit card?	0
+1308	No 	1
+1308	What is your gross annual income?	0
+1308	39000	1
+1308	Thank you. What kind of benefit is your priority?	0
+1308	cashback 	1
+1308	I suggest the regular Cashback Credit Card.	0
+1308	Do you like my recommendation?	0
+1308	Yes 	1
+1308	Thank you for using our chatbot. Please also answer the next 3 questions.	0
+1308	Q1: Would you use chatbot like this to receive recommendations on credit cards?	0
+1308	maybe	1
+1308	Q2: Did any question confuse you?	0
+1308	No	1
+1308	Q3: Any suggestions to improve the chatbot? 	0
+1308	Not that I can think of!	1
+1308	Congrats, you are done! Your code is 5785196.	0
+1309	hey	1
+1309	Hi! Thank you for your interest in our bank's credit cards! I can help you find the most suitable one for you! Let's begin! 	0
+1309	 Please tell me your name.	0
+1309	i want lowest apr or milage bonus	1
+1309	Good to see you, i want lowest apr or milage bonus. May I know your age?	0
+1309	where can i find one?	1
+1309	 Is this the first time you are applying for any credit card?	0
+1309	my age is 45 & i am applying for the first time	1
+1309	Sorry, I didn't get that.	0
+1309	 Is this the first time you are applying for any credit card?	0
+1309	yes	1
+1309	Are you a student?	0
+1309	nope	1
+1309	I suggest the Basic Credit Card.	0
+1309	Do you like my recommendation?	0
+1309	no	1
+1309	Let's start over.	0
+1309	 Is this the first time you are applying for any credit card?	0
+1309	yes	1
+1309	Are you a student?	0
+1309	yes	1
+1309	I suggest the Student Credit Card.	0
+1309	Do you like my recommendation?	0
+1309	yes	1
+1309	Thank you for using our chatbot. Please also answer the next 3 questions.	0
+1309	Q1: Would you use chatbot like this to receive recommendations on credit cards?	0
+1309	yes	1
+1309	Q2: Did any question confuse you?	0
+1309	nope	1
+1309	Q3: Any suggestions to improve the chatbot? 	0
+1309	please make it more realistic	1
+1309	Congrats, you are done! Your code is 8659797.	0
+1311	HI	1
+1311	Hi! Thank you for your interest in our bank's credit cards! I can help you find the most suitable one for you! Let's begin! 	0
+1311	 Please tell me your name.	0
+1311	I AM AMMU	1
+1311	Good to see you, I AM AMMU. May I know your age?	0
+1311	23	1
+1311	 Is this the first time you are applying for any credit card?	0
+1311	No 	1
+1311	What is your gross annual income?	0
+1311	100000	1
+1311	Thank you. What kind of benefit is your priority?	0
+1311	general	1
+1311	I suggest the regular General Purpose Credit Card.	0
+1311	Do you like my recommendation?	0
+1311	No 	1
+1311	Let's start over.	0
+1311	 Is this the first time you are applying for any credit card?	0
+1311	Yes 	1
+1311	Are you a student?	0
+1311	No 	1
+1311	I suggest the Basic Credit Card.	0
+1311	Do you like my recommendation?	0
+1311	Yes 	1
+1311	Thank you for using our chatbot. Please also answer the next 3 questions.	0
+1311	Q1: Would you use chatbot like this to receive recommendations on credit cards?	0
+1311	maybe	1
+1311	Q2: Did any question confuse you?	0
+1311	NO	1
+1311	Q3: Any suggestions to improve the chatbot? 	0
+1311	NO	1
+1311	Congrats, you are done! Your code is 4332591.	0
+1316	i need a new credit card	1
+1316	i want low interest rates	1
+1316	hi	1
+1316	Hi! Thank you for your interest in our bank's credit cards! I can help you find the most suitable one for you! Let's begin! 	0
+1316	 Please tell me your name.	0
+1316	ma	1
+1316	Good to see you, ma. May I know your age?	0
+1316	20	1
+1316	 Is this the first time you are applying for any credit card?	0
+1316	Yes 	1
+1316	Are you a student?	0
+1316	Yes 	1
+1316	I suggest the Student Credit Card.	0
+1316	Do you like my recommendation?	0
+1316	Yes 	1
+1316	Thank you for using our chatbot. Please also answer the next 3 questions.	0
+1316	Q1: Would you use chatbot like this to receive recommendations on credit cards?	0
+1316	yes 	1
+1316	Q2: Did any question confuse you?	0
+1316	yes	1
+1316	Q3: Any suggestions to improve the chatbot? 	0
+1316	more suggestion for credit card	1
+1316	Congrats, you are done! Your code is 7103273.	0
+1319	Hi	1
+1319	Hi! Thank you for your interest in our bank's credit cards! I can help you find the most suitable one for you! Let's begin! 	0
+1319	 Please tell me your name.	0
+1319	help me to choose a credit card which gives good reward points for online shopping	1
+1319	Good to see you, help me to choose a credit card which gives good reward points for online shopping. May I know your age?	0
+1319	49	1
+1319	 Is this the first time you are applying for any credit card?	0
+1319	No 	1
+1319	What is your gross annual income?	0
+1319	USD 25000	1
+1319	Thank you. What kind of benefit is your priority?	0
+1319	cashback 	1
+1319	I suggest the regular Cashback Credit Card.	0
+1319	Do you like my recommendation?	0
+1319	No 	1
+1319	Let's start over.	0
+1319	 Is this the first time you are applying for any credit card?	0
+1319	No 	1
+1319	What is your gross annual income?	0
+1319	USD 25000	1
+1319	Thank you. What kind of benefit is your priority?	0
+1319	cashback 	1
+1319	I suggest the regular Cashback Credit Card.	0
+1319	Do you like my recommendation?	0
+1319	Yes 	1
+1319	Thank you for using our chatbot. Please also answer the next 3 questions.	0
+1319	Q1: Would you use chatbot like this to receive recommendations on credit cards?	0
+1319	no 	1
+1319	Q2: Did any question confuse you?	0
+1319	while choosing the Kind of benefit -there are only 3 choices, no other options	1
+1319	Q3: Any suggestions to improve the chatbot? 	0
+1319	While giving options include one extra as - others, so that we can continue to get to our preference	1
+1319	Congrats, you are done! Your code is 6669780.	0
+1321	I want a credit card with no annual fee and low apr	1
+1321	Hi! Thank you for your interest in our bank's credit cards! I can help you find the most suitable one for you! Let's begin! 	0
+1321	 Please tell me your name.	0
+1321	Steve-O	1
+1321	Good to see you, Steve-O. May I know your age?	0
+1321	36	1
+1321	Sorry, I didn't get that.	0
+1321	Good to see you, Steve-O. May I know your age?	0
+1321	69	1
+1321	 Is this the first time you are applying for any credit card?	0
+1321	Yes 	1
+1321	Are you a student?	0
+1321	No 	1
+1321	I suggest the Basic Credit Card.	0
+1321	Do you like my recommendation?	0
+1321	No 	1
+1321	Let's start over.	0
+1321	 Is this the first time you are applying for any credit card?	0
+1321	Yes 	1
+1321	Are you a student?	0
+1321	No 	1
+1321	I suggest the Basic Credit Card.	0
+1321	Do you like my recommendation?	0
+1321	Yes 	1
+1321	Thank you for using our chatbot. Please also answer the next 3 questions.	0
+1321	Q1: Would you use chatbot like this to receive recommendations on credit cards?	0
+1321	maybe	1
+1321	Q2: Did any question confuse you?	0
+1321	no	1
+1321	Q3: Any suggestions to improve the chatbot? 	0
+1321	give more card suggestions and also specific details about them	1
+1321	Congrats, you are done! Your code is 1261769.	0
+1330	hello	1
+1330	Hi! Thank you for your interest in our bank's credit cards! I can help you find the most suitable one for you! Let's begin! 	0
+1330	 Please tell me your name.	0
+1330	john smith	1
+1330	Good to see you, john smith. May I know your age?	0
+1330	984 years old	1
+1330	 Is this the first time you are applying for any credit card?	0
+1330	Yes 	1
+1330	Are you a student?	0
+1330	No 	1
+1330	I suggest the Basic Credit Card.	0
+1330	Do you like my recommendation?	0
+1330	Yes 	1
+1330	Thank you for using our chatbot. Please also answer the next 3 questions.	0
+1330	Q1: Would you use chatbot like this to receive recommendations on credit cards?	0
+1330	maybe	1
+1330	Q2: Did any question confuse you?	0
+1330	no	1
+1330	Q3: Any suggestions to improve the chatbot? 	0
+1330	no	1
+1330	Congrats, you are done! Your code is 6634425.	0
+1335	HELLO HOW ARE YOU THIS EVENING	1
+1335	Hi! Thank you for your interest in our bank's credit cards! I can help you find the most suitable one for you! Let's begin! 	0
+1335	 Please tell me your name.	0
+1335	DEBBIE	1
+1335	Good to see you, DEBBIE. May I know your age?	0
+1335	51	1
+1335	 Is this the first time you are applying for any credit card?	0
+1335	No 	1
+1335	What is your gross annual income?	0
+1335	56,000	1
+1335	Thank you. What kind of benefit is your priority?	0
+1335	general	1
+1335	I suggest the regular General Purpose Credit Card.	0
+1335	Do you like my recommendation?	0
+1335	Yes 	1
+1335	Thank you for using our chatbot. Please also answer the next 3 questions.	0
+1335	Q1: Would you use chatbot like this to receive recommendations on credit cards?	0
+1335	maybe	1
+1335	Q2: Did any question confuse you?	0
+1335	NO	1
+1335	Q3: Any suggestions to improve the chatbot? 	0
+1335	MORE INFO ON THE DIFFERENT CARDS=RATE, ANY BENEFITS ETC	1
+1335	Congrats, you are done! Your code is 8846412.	0
+1336	I'm looking for a credit ard	1
+1336	Hi! Thank you for your interest in our bank's credit cards! I can help you find the most suitable one for you! Let's begin! 	0
+1336	 Please tell me your name.	0
+1336	bill	1
+1336	Good to see you, bill. May I know your age?	0
+1336	54	1
+1336	 Is this the first time you are applying for any credit card?	0
+1336	No 	1
+1336	What is your gross annual income?	0
+1336	64,000	1
+1336	Thank you. What kind of benefit is your priority?	0
+1336	cashback 	1
+1336	I suggest the regular Cashback Credit Card.	0
+1336	Do you like my recommendation?	0
+1336	No 	1
+1336	Let's start over.	0
+1336	 Is this the first time you are applying for any credit card?	0
+1336	No 	1
+1336	What is your gross annual income?	0
+1336	64,000	1
+1336	Thank you. What kind of benefit is your priority?	0
+1336	travel 	1
+1336	I suggest the regular Travel Credit Card.	0
+1336	Do you like my recommendation?	0
+1336	Yes 	1
+1336	Thank you for using our chatbot. Please also answer the next 3 questions.	0
+1336	Q1: Would you use chatbot like this to receive recommendations on credit cards?	0
+1336	no 	1
+1336	Q2: Did any question confuse you?	0
+1336	no	1
+1336	Q3: Any suggestions to improve the chatbot? 	0
+1336	Perhaps make the responses seem more organic and less robotic	1
+1336	Congrats, you are done! Your code is 4119330.	0
+1336	also, provide more details	1
+1336	Hi! Thank you for your interest in our bank's credit cards! I can help you find the most suitable one for you! Let's begin! 	0
+1336	 Please tell me your name.	0
+1170	hi	1
+1170	Hi! Thank you for your interest in our bank's credit cards! I can help you find the most suitable one for you! Let's begin! 	0
+1170	 Please tell me your name.	0
+1170	kumar	1
+1170	Good to see you, kumar. May I know your age?	0
+1170	27	1
+1170	 Is this the first time you are applying for any credit card?	0
+1170	Yes 	1
+1170	Are you a student?	0
+1170	No 	1
+1170	I suggest the Basic Credit Card.	0
+1170	Do you like my recommendation?	0
+1170	No 	1
+1170	Let's start over.	0
+1170	 Is this the first time you are applying for any credit card?	0
+1170	Yes 	1
+1170	Are you a student?	0
+1170	No 	1
+1170	I suggest the Basic Credit Card.	0
+1170	Do you like my recommendation?	0
+1170	Yes 	1
+1170	Thank you for using our chatbot. Please also answer the next 3 questions.	0
+1170	Q1: Would you use chatbot like this to receive recommendations on credit cards?	0
+1170	yes 	1
+1170	Q2: Did any question confuse you?	0
+1170	yes	1
+1170	Q3: Any suggestions to improve the chatbot? 	0
+1170	no	1
+1170	Congrats, you are done! Your code is 9126456.	0
+1342	hi	1
+1342	Hi! Thank you for your interest in our bank's credit cards! I can help you find the most suitable one for you! Let's begin! 	0
+1342	 Please tell me your name.	0
+1342	boo boo	1
+1342	Good to see you, boo boo. May I know your age?	0
+1342	25	1
+1342	 Is this the first time you are applying for any credit card?	0
+1342	Yes 	1
+1342	Are you a student?	0
+1342	No 	1
+1342	I suggest the Basic Credit Card.	0
+1342	Do you like my recommendation?	0
+1342	Yes 	1
+1342	Thank you for using our chatbot. Please also answer the next 3 questions.	0
+1342	Q1: Would you use chatbot like this to receive recommendations on credit cards?	0
+1342	yes 	1
+1342	Q2: Did any question confuse you?	0
+1342	no	1
+1342	Q3: Any suggestions to improve the chatbot? 	0
+1342	no	1
+1342	Congrats, you are done! Your code is 9472991.	0
+1345	hello	1
+1345	Hi! Thank you for your interest in our bank's credit cards! I can help you find the most suitable one for you! Let's begin! 	0
+1345	 Please tell me your name.	0
+1345	Ashley	1
+1345	Good to see you, Ashley. May I know your age?	0
+1345	26	1
+1345	 Is this the first time you are applying for any credit card?	0
+1345	Yes 	1
+1345	Are you a student?	0
+1345	Yes 	1
+1345	I suggest the Student Credit Card.	0
+1345	Do you like my recommendation?	0
+1345	No 	1
+1345	Let's start over.	0
+1345	 Is this the first time you are applying for any credit card?	0
+1345	Yes 	1
+1345	Are you a student?	0
+1345	Yes 	1
+1345	I suggest the Student Credit Card.	0
+1345	Do you like my recommendation?	0
+1345	No 	1
+1345	Let's start over.	0
+1345	 Is this the first time you are applying for any credit card?	0
+1345	I am looking for a card with low apr	1
+1345	Sorry, I didn't get that.	0
+1345	 Is this the first time you are applying for any credit card?	0
+1345	No 	1
+1345	What is your gross annual income?	0
+1345	54,000	1
+1345	Thank you. What kind of benefit is your priority?	0
+1345	cashback 	1
+1345	I suggest the regular Cashback Credit Card.	0
+1345	Do you like my recommendation?	0
+1345	No 	1
+1345	Let's start over.	0
+1345	 Is this the first time you are applying for any credit card?	0
+1345	I want cash back with a low interest rate and travel miles	1
+1345	Sorry, I didn't get that.	0
+1345	 Is this the first time you are applying for any credit card?	0
+1346	Hi	1
+1346	Hi! Thank you for your interest in our bank's credit cards! I can help you find the most suitable one for you! Let's begin! 	0
+1346	 Please tell me your name.	0
+1348	Hello	1
+1348	Hi! Thank you for your interest in our bank's credit cards! I can help you find the most suitable one for you! Let's begin! 	0
+1348	 Please tell me your name.	0
+1348	Dawn	1
+1348	Good to see you, Dawn. May I know your age?	0
+1348	43	1
+1348	 Is this the first time you are applying for any credit card?	0
+1348	Yes 	1
+1348	Are you a student?	0
+1348	No 	1
+1348	I suggest the Basic Credit Card.	0
+1348	Do you like my recommendation?	0
+1348	Yes 	1
+1348	Thank you for using our chatbot. Please also answer the next 3 questions.	0
+1348	Q1: Would you use chatbot like this to receive recommendations on credit cards?	0
+1348	maybe	1
+1348	Q2: Did any question confuse you?	0
+1348	no	1
+1348	Q3: Any suggestions to improve the chatbot? 	0
+1348	not at this time	1
+1348	Congrats, you are done! Your code is 6456486.	0
+1350	Hello	1
+1350	I would like to have some idea about credit card	1
+1350	Hi	1
+1350	Hi! Thank you for your interest in our bank's credit cards! I can help you find the most suitable one for you! Let's begin! 	0
+1350	 Please tell me your name.	0
+1350	Naveen	1
+1350	Good to see you, Naveen. May I know your age?	0
+1350	24	1
+1350	 Is this the first time you are applying for any credit card?	0
+1350	Yes 	1
+1350	Are you a student?	0
+1350	Yes 	1
+1350	I suggest the Student Credit Card.	0
+1350	Do you like my recommendation?	0
+1350	No 	1
+1350	Let's start over.	0
+1350	 Is this the first time you are applying for any credit card?	0
+1350	Yes 	1
+1350	Are you a student?	0
+1350	No 	1
+1350	I suggest the Basic Credit Card.	0
+1350	Do you like my recommendation?	0
+1350	No 	1
+1350	Let's start over.	0
+1350	 Is this the first time you are applying for any credit card?	0
+1350	No 	1
+1350	What is your gross annual income?	0
+1350	10K	1
+1350	Thank you. What kind of benefit is your priority?	0
+1350	travel 	1
+1350	I suggest the regular Travel Credit Card.	0
+1350	Do you like my recommendation?	0
+1350	Yes 	1
+1350	Thank you for using our chatbot. Please also answer the next 3 questions.	0
+1350	Q1: Would you use chatbot like this to receive recommendations on credit cards?	0
+1350	yes 	1
+1350	Q2: Did any question confuse you?	0
+1350	no	1
+1350	Q3: Any suggestions to improve the chatbot? 	0
+1350	There can be options to select the credit cards by me instead of giving one credit card suggestion by the Bot. suggestions may have options	1
+1350	Congrats, you are done! Your code is 3584728.	0
+1351	smartbot is an Al-powered tool that helps you to build powerful chatbots and easily monitor control their execution	1
+1351	Hi! Thank you for your interest in our bank's credit cards! I can help you find the most suitable one for you! Let's begin! 	0
+1351	 Please tell me your name.	0
+1351	kanchana	1
+1351	Good to see you, kanchana. May I know your age?	0
+1351	23	1
+1351	 Is this the first time you are applying for any credit card?	0
+1351	Yes 	1
+1351	Are you a student?	0
+1351	No 	1
+1351	I suggest the Basic Credit Card.	0
+1351	Do you like my recommendation?	0
+1351	No 	1
+1351	Let's start over.	0
+1351	 Is this the first time you are applying for any credit card?	0
+1351	Yes 	1
+1351	Are you a student?	0
+1351	No 	1
+1351	I suggest the Basic Credit Card.	0
+1351	Do you like my recommendation?	0
+1351	Yes 	1
+1351	Thank you for using our chatbot. Please also answer the next 3 questions.	0
+1351	Q1: Would you use chatbot like this to receive recommendations on credit cards?	0
+1351	maybe	1
+1351	Q2: Did any question confuse you?	0
+1351	no	1
+1351	Q3: Any suggestions to improve the chatbot? 	0
+1351	noo	1
+1351	Congrats, you are done! Your code is 7203400.	0
+1352	Hi	1
+1352	Hi! Thank you for your interest in our bank's credit cards! I can help you find the most suitable one for you! Let's begin! 	0
+1352	 Please tell me your name.	0
+1352	Vyas Reddy	1
+1352	Good to see you, Vyas Reddy. May I know your age?	0
+1352	22	1
+1352	 Is this the first time you are applying for any credit card?	0
+1352	Yes 	1
+1352	Are you a student?	0
+1352	Yes 	1
+1352	I suggest the Student Credit Card.	0
+1352	Do you like my recommendation?	0
+1352	No 	1
+1352	Let's start over.	0
+1352	 Is this the first time you are applying for any credit card?	0
+1352	Yes 	1
+1352	Are you a student?	0
+1352	Yes 	1
+1352	I suggest the Student Credit Card.	0
+1352	Do you like my recommendation?	0
+1352	Yes 	1
+1352	Thank you for using our chatbot. Please also answer the next 3 questions.	0
+1352	Q1: Would you use chatbot like this to receive recommendations on credit cards?	0
+1352	yes 	1
+1352	Q2: Did any question confuse you?	0
+1352	Yes when I selected " No "  for this question " I suggest the Student Credit Card. Do you like my recommendation?" .	1
+1352	Q3: Any suggestions to improve the chatbot? 	0
+1357	Hello	1
+1357	Hi! Thank you for your interest in our bank's credit cards! I can help you find the most suitable one for you! Let's begin! 	0
+1357	 Please tell me your name.	0
+1357	Jane Doe	1
+1357	Good to see you, Jane Doe. May I know your age?	0
+1357	28	1
+1357	 Is this the first time you are applying for any credit card?	0
+1357	No 	1
+1357	What is your gross annual income?	0
+1357	$20,000	1
+1357	Thank you. What kind of benefit is your priority?	0
+1357	cashback 	1
+1357	I suggest the regular Cashback Credit Card.	0
+1357	Do you like my recommendation?	0
+1357	No 	1
+1357	Let's start over.	0
+1357	 Is this the first time you are applying for any credit card?	0
+1357	Yes 	1
+1357	Are you a student?	0
+1357	No 	1
+1357	I suggest the Basic Credit Card.	0
+1357	Do you like my recommendation?	0
+1357	No 	1
+1357	Let's start over.	0
+1357	 Is this the first time you are applying for any credit card?	0
+1357	No 	1
+1357	What is your gross annual income?	0
+1357	$20,000	1
+1357	Thank you. What kind of benefit is your priority?	0
+1357	general	1
+1357	I suggest the regular General Purpose Credit Card.	0
+1357	Do you like my recommendation?	0
+1357	Yes 	1
+1357	Thank you for using our chatbot. Please also answer the next 3 questions.	0
+1357	Q1: Would you use chatbot like this to receive recommendations on credit cards?	0
+1357	yes 	1
+1357	Q2: Did any question confuse you?	0
+1357	no	1
+1357	Q3: Any suggestions to improve the chatbot? 	0
+1357	no	1
+1357	Congrats, you are done! Your code is 2942715.	0
+1358	Hi, How are you?	1
+1358	Hi! Thank you for your interest in our bank's credit cards! I can help you find the most suitable one for you! Let's begin! 	0
+1358	 Please tell me your name.	0
+1358	Lisa W	1
+1358	Good to see you, Lisa W. May I know your age?	0
+1358	Why?	1
+1358	 Is this the first time you are applying for any credit card?	0
+1358	No 	1
+1358	What is your gross annual income?	0
+1358	Im not applying, sorry.	1
+1358	Sorry, I didn't get that.	0
+1358	What is your gross annual income?	0
+1358	I prefer not to answer.	1
+1358	Sorry, I didn't get that.	0
+1358	What is your gross annual income?	0
+1358	0	1
+1358	Thank you. What kind of benefit is your priority?	0
+1358	general	1
+1358	I suggest the regular General Purpose Credit Card.	0
+1358	Do you like my recommendation?	0
+1358	No 	1
+1358	Let's start over.	0
+1358	 Is this the first time you are applying for any credit card?	0
+1358	No 	1
+1358	What is your gross annual income?	0
+1358	0	1
+1358	Thank you. What kind of benefit is your priority?	0
+1358	general	1
+1358	I suggest the regular General Purpose Credit Card.	0
+1358	Do you like my recommendation?	0
+1358	No 	1
+1358	Let's start over.	0
+1358	 Is this the first time you are applying for any credit card?	0
+1358	No 	1
+1358	What is your gross annual income?	0
+1358	N/A	1
+1358	Sorry, I didn't get that.	0
+1358	What is your gross annual income?	0
+1359	Hi I am interested in a card with low interest rates/	1
+1359	Hi! Thank you for your interest in our bank's credit cards! I can help you find the most suitable one for you! Let's begin! 	0
+1359	 Please tell me your name.	0
+1359	Natasha	1
+1359	Good to see you, Natasha. May I know your age?	0
+1359	30	1
+1359	 Is this the first time you are applying for any credit card?	0
+1359	No 	1
+1359	What is your gross annual income?	0
+1359	27650	1
+1359	Thank you. What kind of benefit is your priority?	0
+1359	general	1
+1359	I suggest the regular General Purpose Credit Card.	0
+1359	Do you like my recommendation?	0
+1359	yes	1
+1359	Thank you for using our chatbot. Please also answer the next 3 questions.	0
+1359	Q1: Would you use chatbot like this to receive recommendations on credit cards?	0
+1359	maybe	1
+1359	Q2: Did any question confuse you?	0
+1359	no	1
+1359	Q3: Any suggestions to improve the chatbot? 	0
+1359	more suggested cards and the benefits	1
+1359	Congrats, you are done! Your code is 3222928.	0
+1360	hi	1
+1360	Hi! Thank you for your interest in our bank's credit cards! I can help you find the most suitable one for you! Let's begin! 	0
+1360	 Please tell me your name.	0
+1360	jeff	1
+1360	Good to see you, jeff. May I know your age?	0
+1360	42	1
+1360	 Is this the first time you are applying for any credit card?	0
+1360	No 	1
+1360	What is your gross annual income?	0
+1360	10000000	1
+1360	Thank you. What kind of benefit is your priority?	0
+1360	travel 	1
+1360	I suggest the Premium Travel Credit Card.	0
+1360	Do you like my recommendation?	0
+1360	Yes 	1
+1360	Thank you for using our chatbot. Please also answer the next 3 questions.	0
+1360	Q1: Would you use chatbot like this to receive recommendations on credit cards?	0
+1360	no 	1
+1360	Q2: Did any question confuse you?	0
+1360	no	1
+1360	Q3: Any suggestions to improve the chatbot? 	0
+1360	seemed very robotic. give more of a human touch	1
+1360	Congrats, you are done! Your code is 5317059.	0
+1361	Hello	1
+1361	Hi! Thank you for your interest in our bank's credit cards! I can help you find the most suitable one for you! Let's begin! 	0
+1361	 Please tell me your name.	0
+1361	Samantha	1
+1361	Good to see you, Samantha. May I know your age?	0
+1361	24	1
+1361	 Is this the first time you are applying for any credit card?	0
+1361	No 	1
+1361	What is your gross annual income?	0
+1361	32500	1
+1361	Thank you. What kind of benefit is your priority?	0
+1361	travel 	1
+1361	I suggest the regular Travel Credit Card.	0
+1361	Do you like my recommendation?	0
+1361	Yes 	1
+1361	Thank you for using our chatbot. Please also answer the next 3 questions.	0
+1361	Q1: Would you use chatbot like this to receive recommendations on credit cards?	0
+1361	yes 	1
+1361	Q2: Did any question confuse you?	0
+1361	no	1
+1361	Q3: Any suggestions to improve the chatbot? 	0
+1361	no	1
+1361	Congrats, you are done! Your code is 7882062.	0
+1367	Hello	1
+1367	Hi! Thank you for your interest in our bank's credit cards! I can help you find the most suitable one for you! Let's begin! 	0
+1367	 Please tell me your name.	0
+1367	Barbara	1
+1367	Good to see you, Barbara. May I know your age?	0
+1367	49	1
+1367	 Is this the first time you are applying for any credit card?	0
+1367	No 	1
+1367	What is your gross annual income?	0
+1367	I am currently unemployed	1
+1367	Sorry, I didn't get that.	0
+1367	What is your gross annual income?	0
+1367	35000	1
+1367	Thank you. What kind of benefit is your priority?	0
+1367	general	1
+1367	I suggest the regular General Purpose Credit Card.	0
+1367	Do you like my recommendation?	0
+1367	Yes 	1
+1367	Thank you for using our chatbot. Please also answer the next 3 questions.	0
+1367	Q1: Would you use chatbot like this to receive recommendations on credit cards?	0
+1367	yes 	1
+1367	Q2: Did any question confuse you?	0
+1367	no	1
+1367	Q3: Any suggestions to improve the chatbot? 	0
+1367	no it seems to be very useful and quick	1
+1367	Congrats, you are done! Your code is 5505349.	0
+1368	A1I3NGRUCVOW14	1
+1368	Hi! Thank you for your interest in our bank's credit cards! I can help you find the most suitable one for you! Let's begin! 	0
+1368	 Please tell me your name.	0
+1368	no	1
+1368	Good to see you, no. May I know your age?	0
