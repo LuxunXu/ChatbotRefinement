@@ -7,10 +7,10 @@ public class Detection {
 	public static void main(String[] args) throws FileNotFoundException {
 		Map<Integer, Message> idMap = null;
 		Map<String, LinkedList<Response>> qAndAMap = null;
-		//idMap = processLog("DALog.txt");
-		//store("DA", idMap);
-		//idMap = (Map<Integer, Message>) read("DA");
-		//tallyQAndA(idMap, "DAResponsesMap");
+		//idMap = processLog("CCRALog.txt");
+		//store("CCRA", idMap);
+		//idMap = (Map<Integer, Message>) read("CCRA");
+		//tallyQAndA(idMap, "CCRAResponsesMap");
 		qAndAMap = (Map<String, LinkedList<Response>>) read("DAResponsesMap");
 		findOutliers(qAndAMap, 10);
 		//Message test = idMap.get(1231);
@@ -128,13 +128,12 @@ public class Detection {
 	}
 	
 	public static void findOutliers(Map<String, LinkedList<Response>> qaMap, int cutOffPercentage) {
-		/*
-		String toPrint = "";
+		String toPrint = "Q and A Map:\n";
 		for (String key : qaMap.keySet()) {
 			toPrint += key + "\t" + qaMap.get(key).toString() + "\n";
 		}
-		System.out.println(toPrint);
-		*/
+		//System.out.println(toPrint);
+		
 		
 		// For outliers with abnormal length
 		System.out.println("Outliers by length:");
@@ -151,7 +150,7 @@ public class Detection {
 					countLength.put(length, countLength.get(length) + 1);
 				}
 			}
-			//System.out.println(countLength);
+			//System.out.println(countLength);	//Print Length-Frequency Map
 			Set<Integer> counts = new TreeSet<Integer>();
 			for (int i : countLength.keySet()) {
 				counts.add(countLength.get(i));
@@ -160,7 +159,7 @@ public class Detection {
 			int cnt = 0;
 			//System.out.println("---------------" + counts.size()*cutOffPercentage/100);
 			for (int i : counts) {
-				if (cnt > counts.size()*cutOffPercentage/100) {
+				if (counts.size() == 1 || cnt > counts.size()*cutOffPercentage/100) {
 					break;
 				}
 				cnt++;
@@ -193,7 +192,7 @@ public class Detection {
 					countLength.put(length, countLength.get(length) + 1);
 				}
 			}
-			//System.out.println(countLength);
+			//System.out.println(countLength);	//Print NumberOfWords-Frequency Map
 			Set<Integer> counts = new TreeSet<Integer>();
 			for (int i : countLength.keySet()) {
 				counts.add(countLength.get(i));
@@ -202,7 +201,7 @@ public class Detection {
 			int cnt = 0;
 			//System.out.println("---------------" + counts.size()*cutOffPercentage/100);
 			for (int i : counts) {
-				if (cnt > counts.size()*cutOffPercentage/100) {
+				if (counts.size() == 1 || cnt > counts.size()*cutOffPercentage/100) {
 					break;
 				}
 				cnt++;
