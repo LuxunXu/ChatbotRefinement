@@ -4,7 +4,7 @@ import java.util.*;
 public class Detection {
 
 	@SuppressWarnings("unchecked")
-	public static void main(String[] args) throws IOException {
+	public static void main(String[] args) throws FileNotFoundException {
 		Map<Integer, Message> idMap = null;
 		Map<String, LinkedList<Response>> qAndAMap = null;
 		idMap = processLog("DALog.txt");
@@ -16,7 +16,6 @@ public class Detection {
 		kmeans(qAndAMap, 2, 1000);
 		//Message test = idMap.get(1231);
 		//System.out.println(test.toString());
-		//System.out.println(lDistance("22/8/1995", "23"));
 	}
 	
 	public static Object read(String fileName) {
