@@ -1,0 +1,2507 @@
+HI
+Hi! I can help you make an appointment!
+Is this your first time visiting our office?
+Yes
+What is your name?
+MALAR
+Thanks. MALAR, please tell me your date of birth.
+22/8/1995
+Sorry, I didn't get that.
+Thanks. MALAR, please tell me your date of birth.
+23
+Sorry, I didn't get that.
+Thanks. MALAR, please tell me your date of birth.
+23-9-1995
+Sorry, I didn't get that.
+Thanks. MALAR, please tell me your date of birth.
+1994
+I got it, please tell me your phone number so we can contact you in the future.
+NOTHING
+Sorry, I didn't get that.
+I got it, please tell me your phone number so we can contact you in the future.
+HI
+Hi! I can help you make an appointment!
+Is this your first time visiting our office?
+Yes
+What is your name?
+THILAGA
+Thanks. THILAGA, please tell me your date of birth.
+FEB 23 1993
+I got it, please tell me your phone number so we can contact you in the future.
+7010597488
+THILAGA, which department would you like to visit?
+Neurology
+When would you like to come?
+WE'RE GOING TO PARTY
+Sorry, I didn't get that.
+When would you like to come?
+JUST VISIT
+Sorry, I didn't get that.
+When would you like to come?
+JUST VISIT
+Sorry, I didn't get that.
+When would you like to come?
+JUST VISITT
+Sorry, I didn't get that.
+When would you like to come?
+JUST VISIT THAT'S ALL
+Sorry, I didn't get that.
+When would you like to come?
+WE'RE GOING TO NIGHT PARTY
+Sorry, I didn't get that.
+When would you like to come?
+SO JUST VISIT
+Sorry, I didn't get that.
+When would you like to come?
+HELP ME
+Sorry, I didn't get that.
+When would you like to come?
+HELLO
+Sorry, I didn't get that.
+When would you like to come?
+I SEE U LATER
+Sorry, I didn't get that.
+When would you like to come?
+I SEE U LATER
+Sorry, I didn't get that.
+When would you like to come?
+I SEE U LATER
+Sorry, I didn't get that.
+When would you like to come?
+I SEE U LATER
+Sorry, I didn't get that.
+When would you like to come?
+Hi, I need to see the doctor
+Hi! I can help you make an appointment!
+Is this your first time visiting our office?
+Yes
+What is your name?
+Person people
+Thanks. Person people, please tell me your date of birth.
+12/22/1980
+I got it, please tell me your phone number so we can contact you in the future.
+2357679876
+Person people, which department would you like to visit?
+I am not sure
+When would you like to come?
+I am not Sure. I have some swellings on my neck
+Sorry, I didn't get that.
+When would you like to come?
+Today or tomorrow
+Please select a time slot for 2017-11-16.
+1030am
+Appointment successful at Department of I am not sure for 2017-11-16 at 1030am
+Thank you for using our chatbot. Please also answer the next 3 questions.
+Q1: Would you use chatbot like this to make an appointment with your doctor?
+maybe
+Q2: Did any question confuse you?
+Not question but it didn't set me up with an actual doctor or department
+Q3: Any suggestions to improve the chatbot?
+It needs to ask questions to help when someone doesn't know what doctor to see.
+Congrats, you are done! Your code is 6194117.
+Good Morning
+Hi! I can help you make an appointment!
+Is this your first time visiting our office?
+Yes
+What is your name?
+John
+Thanks. John, please tell me your date of birth.
+6 May 2000
+Sorry, I didn't get that.
+Thanks. John, please tell me your date of birth.
+6th May 2000
+I got it, please tell me your phone number so we can contact you in the future.
+076373888388838
+John, which department would you like to visit?
+Neurology
+When would you like to come?
+asap
+Sorry, I didn't get that.
+When would you like to come?
+Now
+Please select a time slot for 2017-11-16.
+1000am
+Appointment successful at Department of Neurology for 2017-11-16 at 1000am
+Thank you for using our chatbot. Please also answer the next 3 questions.
+Q1: Would you use chatbot like this to make an appointment with your doctor?
+yes
+Q2: Did any question confuse you?
+no
+Q3: Any suggestions to improve the chatbot?
+Make it a little more pleasant. Not blunt. And pause between answering
+Congrats, you are done! Your code is 7921964.
+hii
+Hi! I can help you make an appointment!
+Is this your first time visiting our office?
+Yes
+What is your name?
+suba
+Thanks. suba, please tell me your date of birth.
+25-08-1998
+Sorry, I didn't get that.
+Thanks. suba, please tell me your date of birth.
+28 August 1998
+I got it, please tell me your phone number so we can contact you in the future.
+no need
+Sorry, I didn't get that.
+I got it, please tell me your phone number so we can contact you in the future.
+1234567891
+suba, which department would you like to visit?
+Cardiology
+When would you like to come?
+any time
+Sorry, I didn't get that.
+When would you like to come?
+tomorrow
+Please select a time slot for 2017-11-17.
+0900am
+Appointment successful at Department of Cardiology for 2017-11-17 at 0900am
+Thank you for using our chatbot. Please also answer the next 3 questions.
+Q1: Would you use chatbot like this to make an appointment with your doctor?
+yes
+Q2: Did any question confuse you?
+no
+Q3: Any suggestions to improve the chatbot?
+nothing
+Congrats, you are done! Your code is 6376017.
+Hi there.
+Hi! I can help you make an appointment!
+Is this your first time visiting our office?
+Yes
+What is your name?
+Deepak
+Thanks. Deepak, please tell me your date of birth.
+Its 2nd of May 1992
+I got it, please tell me your phone number so we can contact you in the future.
+I cant give you my phone number but I would like to know the survey code
+Sorry, I didn't get that.
+I got it, please tell me your phone number so we can contact you in the future.
+Its 9999999999
+Deepak, which department would you like to visit?
+Psychiatry
+When would you like to come?
+Next week.
+Please select a time slot for 2017-11-20.
+0900am
+Appointment successful at Department of Psychiatry for 2017-11-20 at 0900am
+Thank you for using our chatbot. Please also answer the next 3 questions.
+Q1: Would you use chatbot like this to make an appointment with your doctor?
+yes
+Q2: Did any question confuse you?
+Not really. You are pretty smart.
+Q3: Any suggestions to improve the chatbot?
+Yes. Be more responsive to the guest's words and try not to end conversations abruptly by asking a whole new question.
+Congrats, you are done! Your code is 3618584.
+HI
+Hi! I can help you make an appointment!
+Is this your first time visiting our office?
+Yes
+What is your name?
+BALA
+Thanks. BALA, please tell me your date of birth.
+8/5/1996
+I got it, please tell me your phone number so we can contact you in the future.
+9629163729
+BALA, which department would you like to visit?
+Neurology
+When would you like to come?
+WORK
+Sorry, I didn't get that.
+When would you like to come?
+NEW GK
+Sorry, I didn't get that.
+When would you like to come?
+i am having neck pain
+Hi! I can help you make an appointment!
+Is this your first time visiting our office?
+No
+Please enter your name.
+karthik
+karthik, which department would you like to visit?
+Psychiatry
+When would you like to come?
+after two days
+when the doctor is available?
+Sorry, I didn't get that.
+When would you like to come?
+monday
+Please select a time slot for 2017-11-20.
+1030am
+Appointment successful at Department of Psychiatry for 2017-11-20 at 1030am
+Thank you for using our chatbot. Please also answer the next 3 questions.
+Q1: Would you use chatbot like this to make an appointment with your doctor?
+no
+Q2: Did any question confuse you?
+no
+Q3: Any suggestions to improve the chatbot?
+add more departments
+Congrats, you are done! Your code is 7999961.
+hi
+Hi! I can help you make an appointment!
+Is this your first time visiting our office?
+Yes
+What is your name?
+ashok
+Thanks. ashok, please tell me your date of birth.
+09/01
+I got it, please tell me your phone number so we can contact you in the future.
+7899816043
+ashok, which department would you like to visit?
+Psychiatry
+When would you like to come?
+today
+Please select a time slot for 2017-12-03.
+1030am
+Appointment successful at Department of Psychiatry for 2017-12-03 at 1030am
+Thank you for using our chatbot. Please also answer the next 3 questions.
+Q1: Would you use chatbot like this to make an appointment with your doctor?
+yes
+Q2: Did any question confuse you?
+no
+Q3: Any suggestions to improve the chatbot?
+nothing i am feeling like it is working good
+Congrats, you are done! Your code is 9580724.
+Good morning!
+Hi! I can help you make an appointment!
+Is this your first time visiting our office?
+Yes
+What is your name?
+Kristin
+Thanks. Kristin, please tell me your date of birth.
+1/6/82
+I got it, please tell me your phone number so we can contact you in the future.
+5439678842
+Kristin, which department would you like to visit?
+Neurology
+When would you like to come?
+10 AM
+Please select a time slot for 2017-11-16.
+1000am
+Appointment successful at Department of Neurology for 2017-11-16 at 1000am
+Thank you for using our chatbot. Please also answer the next 3 questions.
+Q1: Would you use chatbot like this to make an appointment with your doctor?
+yes
+Q2: Did any question confuse you?
+Nope
+Q3: Any suggestions to improve the chatbot?
+None
+Congrats, you are done! Your code is 3106878.
+Thanks!
+Hi! I can help you make an appointment!
+Is this your first time visiting our office?
+hi
+Hi! I can help you make an appointment!
+Is this your first time visiting our office?
+Yes
+What is your name?
+ran
+Thanks. ran, please tell me your date of birth.
+06081984
+Sorry, I didn't get that.
+Thanks. ran, please tell me your date of birth.
+6 th june
+I got it, please tell me your phone number so we can contact you in the future.
+09874527199
+ran, which department would you like to visit?
+Ophthalmology
+When would you like to come?
+evening
+Sorry, I didn't get that.
+When would you like to come?
+8 p.m
+Please select a time slot for 2017-11-16.
+0800am
+Appointment successful at Department of Ophthalmology for 2017-11-16 at 0800am
+Thank you for using our chatbot. Please also answer the next 3 questions.
+Q1: Would you use chatbot like this to make an appointment with your doctor?
+yes
+Q2: Did any question confuse you?
+no
+Q3: Any suggestions to improve the chatbot?
+no
+Congrats, you are done! Your code is 5820660.
+hello
+Hi! I can help you make an appointment!
+Is this your first time visiting our office?
+Yes
+What is your name?
+john
+Thanks. john, please tell me your date of birth.
+1/1/1980
+I got it, please tell me your phone number so we can contact you in the future.
+123546235
+john, which department would you like to visit?
+Ophthalmology
+When would you like to come?
+Tomorrow evening
+is there an appointment
+Sorry, I didn't get that.
+When would you like to come?
+tomorrow
+Please select a time slot for 2017-11-17.
+1030am
+Appointment successful at Department of Ophthalmology for 2017-11-17 at 1030am
+Thank you for using our chatbot. Please also answer the next 3 questions.
+Q1: Would you use chatbot like this to make an appointment with your doctor?
+yes
+Q2: Did any question confuse you?
+no
+Q3: Any suggestions to improve the chatbot?
+Give some options for basic questions like when would you like to come?
+Congrats, you are done! Your code is 6362291.
+HI
+Hi! I can help you make an appointment!
+Is this your first time visiting our office?
+Yes
+What is your name?
+SIMS
+Thanks. SIMS, please tell me your date of birth.
+06/07/1990
+I got it, please tell me your phone number so we can contact you in the future.
+9587451241
+SIMS, which department would you like to visit?
+Cardiology
+When would you like to come?
+FOR CHECKUP
+Sorry, I didn't get that.
+When would you like to come?
+FULL CHECK UP
+Sorry, I didn't get that.
+When would you like to come?
+SKIN RASH
+Sorry, I didn't get that.
+When would you like to come?
+HEART ATTACK
+Sorry, I didn't get that.
+When would you like to come?
+TOMORROW
+Please select a time slot for 2017-11-25.
+0800am
+Appointment successful at Department of Cardiology for 2017-11-25 at 0800am
+Thank you for using our chatbot. Please also answer the next 3 questions.
+Q1: Would you use chatbot like this to make an appointment with your doctor?
+yes
+Q2: Did any question confuse you?
+NO
+Q3: Any suggestions to improve the chatbot?
+NOTHING
+Congrats, you are done! Your code is 9977994.
+Hi
+Hi! I can help you make an appointment!
+Is this your first time visiting our office?
+Yes
+What is your name?
+My Name is John
+Thanks. My Name is John, please tell me your date of birth.
+28 nov 1999
+I got it, please tell me your phone number so we can contact you in the future.
+9650526978
+My Name is John, which department would you like to visit?
+Cardiology
+When would you like to come?
+I would like to come on coming sunday
+Please select a time slot for 2017-11-26.
+i prefer 0200pm
+Sorry, I didn't get that.
+Please select a time slot for 2017-11-26.
+1030am
+Appointment successful at Department of Cardiology for 2017-11-26 at 1030am
+Thank you for using our chatbot. Please also answer the next 3 questions.
+Q1: Would you use chatbot like this to make an appointment with your doctor?
+maybe
+Q2: Did any question confuse you?
+yes
+Q3: Any suggestions to improve the chatbot?
+Can it enable for some more options for department, scheule?
+Congrats, you are done! Your code is 1936994.
+hello
+Hi! I can help you make an appointment!
+Is this your first time visiting our office?
+Yes
+What is your name?
+My name is Albert
+Thanks. My name is Albert, please tell me your date of birth.
+23/08/1990
+Sorry, I didn't get that.
+Thanks. My name is Albert, please tell me your date of birth.
+1990
+I got it, please tell me your phone number so we can contact you in the future.
+6936783554
+My name is Albert, which department would you like to visit?
+i have a problem with acne
+When would you like to come?
+on next Monady
+Sorry, I didn't get that.
+When would you like to come?
+at 10 a.m. on Monday
+Please select a time slot for 2017-11-27.
+1000am
+Appointment successful at Department of i have a problem with acne for 2017-11-27 at 1000am
+Thank you for using our chatbot. Please also answer the next 3 questions.
+Q1: Would you use chatbot like this to make an appointment with your doctor?
+maybe
+Q2: Did any question confuse you?
+questions no
+Q3: Any suggestions to improve the chatbot?
+improve the a.i. obviously.
+Congrats, you are done! Your code is 8368983.
+bye
+hello
+Hi! I can help you make an appointment!
+Is this your first time visiting our office?
+Yes
+What is your name?
+sudesh
+Thanks. sudesh, please tell me your date of birth.
+8th dec 1988
+I got it, please tell me your phone number so we can contact you in the future.
++971553985118
+sudesh, which department would you like to visit?
+Cardiology
+When would you like to come?
+tommorow
+Please select a time slot for 2017-11-25.
+8
+Sorry, I didn't get that.
+Please select a time slot for 2017-11-25.
+0800am
+Appointment successful at Department of Cardiology for 2017-11-25 at 0800am
+Thank you for using our chatbot. Please also answer the next 3 questions.
+Q1: Would you use chatbot like this to make an appointment with your doctor?
+yes
+Q2: Did any question confuse you?
+no
+Q3: Any suggestions to improve the chatbot?
+Yes it should have more question about our current question
+Congrats, you are done! Your code is 8725003.
+Hello!
+Hi! I can help you make an appointment!
+Is this your first time visiting our office?
+Yes
+What is your name?
+Vinny H
+Thanks. Vinny H, please tell me your date of birth.
+6th June 1976
+I got it, please tell me your phone number so we can contact you in the future.
+9542368457
+Vinny H, which department would you like to visit?
+Psychiatry
+When would you like to come?
+The earliest Friday.
+Please select a time slot for 2017-12-01.
+1030am
+Appointment successful at Department of Psychiatry for 2017-12-01 at 1030am
+Thank you for using our chatbot. Please also answer the next 3 questions.
+Q1: Would you use chatbot like this to make an appointment with your doctor?
+yes
+Q2: Did any question confuse you?
+No
+Q3: Any suggestions to improve the chatbot?
+A printed memo could have confirmed the appointment positively.
+Congrats, you are done! Your code is 4314987.
+Thank You!
+Hi! I can help you make an appointment!
+Is this your first time visiting our office?
+hello!
+Hi! I can help you make an appointment!
+Is this your first time visiting our office?
+Yes
+What is your name?
+Alicia
+Thanks. Alicia, please tell me your date of birth.
+16/08/1990
+Sorry, I didn't get that.
+Thanks. Alicia, please tell me your date of birth.
+August 16th 1990
+I got it, please tell me your phone number so we can contact you in the future.
+it's 812 584 7344
+Alicia, which department would you like to visit?
+Cardiology
+When would you like to come?
+as soon as possible, I've noticed my heartbeat is not as usual, it appears to be faster for the past few days
+would tomorrow work?
+Please select a time slot for 2017-11-25.
+0800am
+Appointment successful at Department of Cardiology for 2017-11-25 at 0800am
+Thank you for using our chatbot. Please also answer the next 3 questions.
+Q1: Would you use chatbot like this to make an appointment with your doctor?
+yes
+Q2: Did any question confuse you?
+not at all
+Q3: Any suggestions to improve the chatbot?
+hi
+Hi! I can help you make an appointment!
+Is this your first time visiting our office?
+yes
+What is your name?
+cyby
+Thanks. cyby, please tell me your date of birth.
+01-09-1976
+Sorry, I didn't get that.
+Thanks. cyby, please tell me your date of birth.
+01 sep 1976
+I got it, please tell me your phone number so we can contact you in the future.
+8898959246
+cyby, which department would you like to visit?
+psychiatry
+When would you like to come?
+evening
+Sorry, I didn't get that.
+When would you like to come?
+evening around 9 pm
+Please select a time slot for 2017-11-24.
+none
+We don't other time slots available for 2017-11-24. Please try another date.
+When would you like to come?
+2017 -11 - 27
+Sorry, I didn't get that.
+When would you like to come?
+27 sep
+Please select a time slot for 2018-09-27.
+noone
+Sorry, I didn't get that.
+Please select a time slot for 2018-09-27.
+i want evening
+Sorry, I didn't get that.
+Please select a time slot for 2018-09-27.
+none
+We don't other time slots available for 2018-09-27. Please try another date.
+When would you like to come?
+evening any day
+Sorry, I didn't get that.
+When would you like to come?
+evening
+Sorry, I didn't get that.
+When would you like to come?
+9 pm
+Please select a time slot for 2017-11-24.
+1030am
+Appointment successful at Department of psychiatry for 2017-11-24 at 1030am
+Thank you for using our chatbot. Please also answer the next 3 questions.
+Q1: Would you use chatbot like this to make an appointment with your doctor?
+maybe
+Q2: Did any question confuse you?
+yes
+Q3: Any suggestions to improve the chatbot?
+it was not able to understand  dd-mm-yyyy date formats
+Congrats, you are done! Your code is 1872253.
+Hi....
+Hi! I can help you make an appointment!
+Is this your first time visiting our office?
+Yes
+What is your name?
+I am John
+Thanks. I am John, please tell me your date of birth.
+15/04/1980
+Sorry, I didn't get that.
+Thanks. I am John, please tell me your date of birth.
+15th April 1980
+I got it, please tell me your phone number so we can contact you in the future.
+Sorry....I want an appointment for discussing about my headache
+Sorry, I didn't get that.
+I got it, please tell me your phone number so we can contact you in the future.
+What is the use of my phone number
+Sorry, I didn't get that.
+I got it, please tell me your phone number so we can contact you in the future.
+Why do you want my phone number?
+Sorry, I didn't get that.
+I got it, please tell me your phone number so we can contact you in the future.
+hi
+Hi! I can help you make an appointment!
+Is this your first time visiting our office?
+Yes
+What is your name?
+prakash
+Thanks. prakash, please tell me your date of birth.
+1985
+I got it, please tell me your phone number so we can contact you in the future.
+9036770777
+prakash, which department would you like to visit?
+Neurology
+When would you like to come?
+onemonth after
+Sorry, I didn't get that.
+When would you like to come?
+next month
+Please select a time slot for 2017-12-01.
+1030am
+Appointment successful at Department of Neurology for 2017-12-01 at 1030am
+Thank you for using our chatbot. Please also answer the next 3 questions.
+Q1: Would you use chatbot like this to make an appointment with your doctor?
+maybe
+Q2: Did any question confuse you?
+no
+Q3: Any suggestions to improve the chatbot?
+no
+Congrats, you are done! Your code is 8103004.
+hi
+Hi! I can help you make an appointment!
+Is this your first time visiting our office?
+Yes
+What is your name?
+omprakash
+Thanks. omprakash, please tell me your date of birth.
+1984
+I got it, please tell me your phone number so we can contact you in the future.
+9036770766
+omprakash, which department would you like to visit?
+Ophthalmology
+When would you like to come?
+hello
+Hi! I can help you make an appointment!
+Is this your first time visiting our office?
+No
+Please enter your name.
+Yen
+Yen, which department would you like to visit?
+Cardiology
+When would you like to come?
+Sunday evening 7pm
+Please select a time slot for 2017-11-26.
+none
+We don't other time slots available for 2017-11-26. Please try another date.
+When would you like to come?
+27 november
+Please select a time slot for 2017-11-27.
+nothing in the afternoon?
+Sorry, I didn't get that.
+Please select a time slot for 2017-11-27.
+none
+We don't other time slots available for 2017-11-27. Please try another date.
+When would you like to come?
+in the afternoon is it possible?
+?
+Sorry, I didn't get that.
+When would you like to come?
+27/11
+Sorry, I didn't get that.
+When would you like to come?
+on 27 november
+Please select a time slot for 2017-11-27.
+1030am
+Appointment successful at Department of Cardiology for 2017-11-27 at 1030am
+Thank you for using our chatbot. Please also answer the next 3 questions.
+Q1: Would you use chatbot like this to make an appointment with your doctor?
+no
+Q2: Did any question confuse you?
+no
+Q3: Any suggestions to improve the chatbot?
+teach him to understand concept of morning and afternoon
+Congrats, you are done! Your code is 9756794.
+thanks
+ho
+Hi! I can help you make an appointment!
+Is this your first time visiting our office?
+Yes
+What is your name?
+jd
+Thanks. jd, please tell me your date of birth.
+26/11/1991
+Sorry, I didn't get that.
+Thanks. jd, please tell me your date of birth.
+26 november
+I got it, please tell me your phone number so we can contact you in the future.
+no
+Sorry, I didn't get that.
+I got it, please tell me your phone number so we can contact you in the future.
+272828
+jd, which department would you like to visit?
+Cardiology
+When would you like to come?
+tommorow
+Please select a time slot for 2017-11-25.
+1000am
+Appointment successful at Department of Cardiology for 2017-11-25 at 1000am
+Thank you for using our chatbot. Please also answer the next 3 questions.
+Q1: Would you use chatbot like this to make an appointment with your doctor?
+yes
+Q2: Did any question confuse you?
+no
+Q3: Any suggestions to improve the chatbot?
+no
+Congrats, you are done! Your code is 3785417.
+hi
+Hi! I can help you make an appointment!
+Is this your first time visiting our office?
+Yes
+What is your name?
+ash
+Thanks. ash, please tell me your date of birth.
+dec 12
+I got it, please tell me your phone number so we can contact you in the future.
+870 645 3214
+ash, which department would you like to visit?
+Ophthalmology
+When would you like to come?
+tomorrow
+Please select a time slot for 2017-11-25.
+1030am
+Appointment successful at Department of Ophthalmology for 2017-11-25 at 1030am
+Thank you for using our chatbot. Please also answer the next 3 questions.
+Q1: Would you use chatbot like this to make an appointment with your doctor?
+yes
+Q2: Did any question confuse you?
+no
+Q3: Any suggestions to improve the chatbot?
+make it much simplier
+Congrats, you are done! Your code is 6210131.
+ok
+hello
+Hi! I can help you make an appointment!
+Is this your first time visiting our office?
+Yes
+What is your name?
+carlos
+Thanks. carlos, please tell me your date of birth.
+02/08/1979
+I got it, please tell me your phone number so we can contact you in the future.
+0000000000
+carlos, which department would you like to visit?
+Cardiology
+When would you like to come?
+tomorrow
+Please select a time slot for 2017-11-25.
+0900am
+Appointment successful at Department of Cardiology for 2017-11-25 at 0900am
+Thank you for using our chatbot. Please also answer the next 3 questions.
+Q1: Would you use chatbot like this to make an appointment with your doctor?
+yes
+Q2: Did any question confuse you?
+no
+Q3: Any suggestions to improve the chatbot?
+no, its great
+Congrats, you are done! Your code is 6858468.
+thank you
+Hello
+Hi! I can help you make an appointment!
+Is this your first time visiting our office?
+Yes
+What is your name?
+Eric
+Thanks. Eric, please tell me your date of birth.
+05231919
+Sorry, I didn't get that.
+Thanks. Eric, please tell me your date of birth.
+05-23-1992
+I got it, please tell me your phone number so we can contact you in the future.
+544-454-4444
+Sorry, I didn't get that.
+I got it, please tell me your phone number so we can contact you in the future.
+417-718-2333
+Eric, which department would you like to visit?
+Cardiology
+When would you like to come?
+1pm
+Please select a time slot for 2017-11-25.
+1000am
+Appointment successful at Department of Cardiology for 2017-11-25 at 1000am
+Thank you for using our chatbot. Please also answer the next 3 questions.
+Q1: Would you use chatbot like this to make an appointment with your doctor?
+no
+Q2: Did any question confuse you?
+no
+Q3: Any suggestions to improve the chatbot?
+no
+Congrats, you are done! Your code is 8680473.
+hi
+Hi! I can help you make an appointment!
+Is this your first time visiting our office?
+Yes
+What is your name?
+Ana Winter
+Thanks. Ana Winter, please tell me your date of birth.
+05/08/1997
+I got it, please tell me your phone number so we can contact you in the future.
+555-555-5555
+Sorry, I didn't get that.
+I got it, please tell me your phone number so we can contact you in the future.
+5555555555
+Sorry, I didn't get that.
+I got it, please tell me your phone number so we can contact you in the future.
+8599678798
+Ana Winter, which department would you like to visit?
+Psychiatry
+When would you like to come?
+05/05/17
+Please select a time slot for 2017-05-05.
+1030am
+Appointment successful at Department of Psychiatry for 2017-05-05 at 1030am
+Thank you for using our chatbot. Please also answer the next 3 questions.
+Q1: Would you use chatbot like this to make an appointment with your doctor?
+yes
+Q2: Did any question confuse you?
+no
+Q3: Any suggestions to improve the chatbot?
+No
+Congrats, you are done! Your code is 8557172.
+Hello
+Hi! I can help you make an appointment!
+Is this your first time visiting our office?
+Yes
+What is your name?
+Alyssa
+Thanks. Alyssa, please tell me your date of birth.
+April 12th, 1980
+I got it, please tell me your phone number so we can contact you in the future.
+555-5555
+Alyssa, which department would you like to visit?
+Cardiology
+When would you like to come?
+Anytime
+Sorry, I didn't get that.
+When would you like to come?
+Tomorrow
+Please select a time slot for 2017-11-25.
+0900am
+Appointment successful at Department of Cardiology for 2017-11-25 at 0900am
+Thank you for using our chatbot. Please also answer the next 3 questions.
+Q1: Would you use chatbot like this to make an appointment with your doctor?
+yes
+Q2: Did any question confuse you?
+No
+Q3: Any suggestions to improve the chatbot?
+The chatbot could suggest available appointment times instead of asking you
+Congrats, you are done! Your code is 7638745.
+hi
+Hi! I can help you make an appointment!
+Is this your first time visiting our office?
+Yes
+What is your name?
+john
+Thanks. john, please tell me your date of birth.
+my feet smells very bad
+Sorry, I didn't get that.
+Thanks. john, please tell me your date of birth.
+5-2-1995
+Sorry, I didn't get that.
+Thanks. john, please tell me your date of birth.
+5th february 1995
+I got it, please tell me your phone number so we can contact you in the future.
+i don't want to share it
+Sorry, I didn't get that.
+I got it, please tell me your phone number so we can contact you in the future.
+thanks
+Sorry, I didn't get that.
+I got it, please tell me your phone number so we can contact you in the future.
+listen me
+Sorry, I didn't get that.
+I got it, please tell me your phone number so we can contact you in the future.
+4578457854
+john, which department would you like to visit?
+Psychiatry
+When would you like to come?
+5th of december
+Sorry, I didn't get that.
+When would you like to come?
+next month
+Please select a time slot for 2017-12-01.
+1030am
+Appointment successful at Department of Psychiatry for 2017-12-01 at 1030am
+Thank you for using our chatbot. Please also answer the next 3 questions.
+Q1: Would you use chatbot like this to make an appointment with your doctor?
+maybe
+Q2: Did any question confuse you?
+yes, the bot didnot proceeds without getting answering to their question
+Q3: Any suggestions to improve the chatbot?
+no, overall good
+Congrats, you are done! Your code is 4216995.
+Hello
+Hi! I can help you make an appointment!
+Is this your first time visiting our office?
+Yes
+What is your name?
+Ciera
+Thanks. Ciera, please tell me your date of birth.
+July 24 1991
+I got it, please tell me your phone number so we can contact you in the future.
+I don't want to do that. I'm just chatting with you as a mturk worker.
+Sorry, I didn't get that.
+I got it, please tell me your phone number so we can contact you in the future.
+I can't do that.
+Sorry, I didn't get that.
+I got it, please tell me your phone number so we can contact you in the future.
+No thanks
+Sorry, I didn't get that.
+I got it, please tell me your phone number so we can contact you in the future.
+Hello
+Hi! I can help you make an appointment!
+Is this your first time visiting our office?
+Yes
+What is your name?
+Peter
+Thanks. Peter, please tell me your date of birth.
+7/8/1992
+I got it, please tell me your phone number so we can contact you in the future.
+678962912
+Peter, which department would you like to visit?
+Ophthalmology
+When would you like to come?
+Wednesday
+Please select a time slot for 2017-11-29.
+1000am
+Appointment successful at Department of Ophthalmology for 2017-11-29 at 1000am
+Thank you for using our chatbot. Please also answer the next 3 questions.
+Q1: Would you use chatbot like this to make an appointment with your doctor?
+maybe
+Q2: Did any question confuse you?
+No
+Q3: Any suggestions to improve the chatbot?
+Letmetypespaces
+Congrats, you are done! Your code is 5654930.
+I am having a problem with my knee
+Hi! I can help you make an appointment!
+Is this your first time visiting our office?
+Yes
+What is your name?
+Harry Bumblemartin
+Thanks. Harry Bumblemartin, please tell me your date of birth.
+December 17 1959
+I got it, please tell me your phone number so we can contact you in the future.
+000 000 0000
+Harry Bumblemartin, which department would you like to visit?
+None of these
+When would you like to come?
+Next week
+Please select a time slot for 2017-11-27.
+0800am
+Appointment successful at Department of None of these for 2017-11-27 at 0800am
+Thank you for using our chatbot. Please also answer the next 3 questions.
+Q1: Would you use chatbot like this to make an appointment with your doctor?
+yes
+Q2: Did any question confuse you?
+The specialty choices
+Q3: Any suggestions to improve the chatbot?
+No
+Congrats, you are done! Your code is 8826328.
+Thank you
+Hi! I can help you make an appointment!
+Is this your first time visiting our office?
+Hello
+Hi! I can help you make an appointment!
+Is this your first time visiting our office?
+Yes
+What is your name?
+Daphne
+Thanks. Daphne, please tell me your date of birth.
+03/22/1989
+I got it, please tell me your phone number so we can contact you in the future.
+123-456-7890
+Daphne, which department would you like to visit?
+Psychiatry
+When would you like to come?
+I can come in tomorrow at 10:30 am
+Sorry, I didn't get that.
+When would you like to come?
+tomorrow
+Please select a time slot for 2017-11-26.
+1030am
+Appointment successful at Department of Psychiatry for 2017-11-26 at 1030am
+Thank you for using our chatbot. Please also answer the next 3 questions.
+Q1: Would you use chatbot like this to make an appointment with your doctor?
+yes
+Q2: Did any question confuse you?
+No
+Q3: Any suggestions to improve the chatbot?
+No
+Congrats, you are done! Your code is 9260112.
+Thank you.
+Hi! I can help you make an appointment!
+Is this your first time visiting our office?
+My eyesight is becoming blurry
+Hi! I can help you make an appointment!
+Is this your first time visiting our office?
+Yes
+What is your name?
+Norma Lewis
+Thanks. Norma Lewis, please tell me your date of birth.
+April 3rd, 1966
+I got it, please tell me your phone number so we can contact you in the future.
+221 467 896 22
+Norma Lewis, which department would you like to visit?
+Neurology
+When would you like to come?
+Monday August 27, 2017
+Please select a time slot for 2018-08-27.
+0900am
+Appointment successful at Department of Neurology for 2018-08-27 at 0900am
+Thank you for using our chatbot. Please also answer the next 3 questions.
+Q1: Would you use chatbot like this to make an appointment with your doctor?
+yes
+Q2: Did any question confuse you?
+no
+Q3: Any suggestions to improve the chatbot?
+An opening welcome and concluding greeting, ie..hello, goodbye
+Congrats, you are done! Your code is 9774652.
+Hi
+Hi! I can help you make an appointment!
+Is this your first time visiting our office?
+Yes
+What is your name?
+Sachin
+Thanks. Sachin, please tell me your date of birth.
+11/09/214
+I got it, please tell me your phone number so we can contact you in the future.
+6571209865
+Sachin, which department would you like to visit?
+Psychiatry
+When would you like to come?
+Friday
+Please select a time slot for 2017-12-01.
+1030am
+Appointment successful at Department of Psychiatry for 2017-12-01 at 1030am
+Thank you for using our chatbot. Please also answer the next 3 questions.
+Q1: Would you use chatbot like this to make an appointment with your doctor?
+yes
+Q2: Did any question confuse you?
+No
+Q3: Any suggestions to improve the chatbot?
+No
+Congrats, you are done! Your code is 5172046.
+HI
+Hi! I can help you make an appointment!
+Is this your first time visiting our office?
+Yes
+What is your name?
+RAJA
+Thanks. RAJA, please tell me your date of birth.
+01/05/1988
+I got it, please tell me your phone number so we can contact you in the future.
++917010383170
+RAJA, which department would you like to visit?
+Ophthalmology
+When would you like to come?
+YES
+Sorry, I didn't get that.
+When would you like to come?
+NXT WEEK
+Sorry, I didn't get that.
+When would you like to come?
+TOMMOROW
+Please select a time slot for 2017-11-27.
+1000am
+Appointment successful at Department of Ophthalmology for 2017-11-27 at 1000am
+Thank you for using our chatbot. Please also answer the next 3 questions.
+Q1: Would you use chatbot like this to make an appointment with your doctor?
+yes
+Q2: Did any question confuse you?
+NO
+Q3: Any suggestions to improve the chatbot?
+NO
+Congrats, you are done! Your code is 5321733.
+Hi
+Hi! I can help you make an appointment!
+Is this your first time visiting our office?
+Yes
+What is your name?
+Christy
+Thanks. Christy, please tell me your date of birth.
+04/03/1985
+I got it, please tell me your phone number so we can contact you in the future.
+7164098876
+Christy, which department would you like to visit?
+Psychiatry
+When would you like to come?
+Asap
+Sorry, I didn't get that.
+When would you like to come?
+12/15/2017
+Please select a time slot for 2017-12-15.
+0900am
+Appointment successful at Department of Psychiatry for 2017-12-15 at 0900am
+Thank you for using our chatbot. Please also answer the next 3 questions.
+Q1: Would you use chatbot like this to make an appointment with your doctor?
+yes
+Q2: Did any question confuse you?
+No
+Q3: Any suggestions to improve the chatbot?
+No
+Congrats, you are done! Your code is 7085308.
+Hi there
+Hi! I can help you make an appointment!
+Is this your first time visiting our office?
+no
+Please enter your name.
+John Crimpyu
+John Crimpyu, which department would you like to visit?
+Psychiatry
+When would you like to come?
+Tomorrow at 4pm
+Please select a time slot for 2017-11-30.
+1030am
+Appointment successful at Department of Psychiatry for 2017-11-30 at 1030am
+Thank you for using our chatbot. Please also answer the next 3 questions.
+Q1: Would you use chatbot like this to make an appointment with your doctor?
+yes
+Q2: Did any question confuse you?
+No
+Q3: Any suggestions to improve the chatbot?
+Nope this works just fine
+Congrats, you are done! Your code is 4649175.
+HI
+Hi! I can help you make an appointment!
+Is this your first time visiting our office?
+Yes
+What is your name?
+SANKAR
+Thanks. SANKAR, please tell me your date of birth.
+14/9/1990
+Sorry, I didn't get that.
+Thanks. SANKAR, please tell me your date of birth.
+14-09-1990
+Sorry, I didn't get that.
+Thanks. SANKAR, please tell me your date of birth.
+OK
+Sorry, I didn't get that.
+Thanks. SANKAR, please tell me your date of birth.
+14091990
+Sorry, I didn't get that.
+Thanks. SANKAR, please tell me your date of birth.
+CVVFD
+Sorry, I didn't get that.
+Thanks. SANKAR, please tell me your date of birth.
+C
+Sorry, I didn't get that.
+Thanks. SANKAR, please tell me your date of birth.
+XXF
+Sorry, I didn't get that.
+Thanks. SANKAR, please tell me your date of birth.
+XCDS
+Sorry, I didn't get that.
+Thanks. SANKAR, please tell me your date of birth.
+14-SEP-1990
+I got it, please tell me your phone number so we can contact you in the future.
+0452454545
+SANKAR, which department would you like to visit?
+Psychiatry
+When would you like to come?
+MA
+Sorry, I didn't get that.
+When would you like to come?
+NEXT WEAK
+Sorry, I didn't get that.
+When would you like to come?
+NEXT
+Sorry, I didn't get that.
+When would you like to come?
+2
+Sorry, I didn't get that.
+When would you like to come?
+5
+Sorry, I didn't get that.
+When would you like to come?
+MONDAY
+Please select a time slot for 2017-12-04.
+1000am
+Appointment successful at Department of Psychiatry for 2017-12-04 at 1000am
+Thank you for using our chatbot. Please also answer the next 3 questions.
+Q1: Would you use chatbot like this to make an appointment with your doctor?
+maybe
+Q2: Did any question confuse you?
+YES
+Q3: Any suggestions to improve the chatbot?
+NO
+Congrats, you are done! Your code is 2159193.
+hi
+Hi! I can help you make an appointment!
+Is this your first time visiting our office?
+Yes
+What is your name?
+vicky
+Thanks. vicky, please tell me your date of birth.
+june 30 1991
+I got it, please tell me your phone number so we can contact you in the future.
+9326587415
+vicky, which department would you like to visit?
+Cardiology
+When would you like to come?
+dec 10
+Please select a time slot for 2017-12-10.
+1000am
+Appointment successful at Department of Cardiology for 2017-12-10 at 1000am
+Thank you for using our chatbot. Please also answer the next 3 questions.
+Q1: Would you use chatbot like this to make an appointment with your doctor?
+no
+Q2: Did any question confuse you?
+no
+Q3: Any suggestions to improve the chatbot?
+its really good can add some background themes
+Congrats, you are done! Your code is 3891113.
+thank you
+HI
+Hi! I can help you make an appointment!
+Is this your first time visiting our office?
+Yes
+What is your name?
+TAMIL
+Thanks. TAMIL, please tell me your date of birth.
+01.04.1993
+Sorry, I didn't get that.
+Thanks. TAMIL, please tell me your date of birth.
+01.04.1993
+Sorry, I didn't get that.
+Thanks. TAMIL, please tell me your date of birth.
+APRIL,1,1993
+I got it, please tell me your phone number so we can contact you in the future.
+8883041353
+TAMIL, which department would you like to visit?
+Psychiatry
+When would you like to come?
+WHERE
+Sorry, I didn't get that.
+When would you like to come?
+WHERE
+Sorry, I didn't get that.
+When would you like to come?
+WHERE ABOUT
+Sorry, I didn't get that.
+When would you like to come?
+HLO WHERE
+Sorry, I didn't get that.
+When would you like to come?
+WHERE
+Sorry, I didn't get that.
+When would you like to come?
+Sorry, I didn't get that.
+Sorry, I didn't get that.
+When would you like to come?
+WHERE
+Sorry, I didn't get that.
+Sorry, I didn't get that.
+When would you like to come?
+HLO WHAT DOING?
+Sorry, I didn't get that.
+When would you like to come?
+SPACE TIME
+Sorry, I didn't get that.
+When would you like to come?
+HLO RLY ME
+Sorry, I didn't get that.
+When would you like to come?
+ANYTHING ELSE
+Sorry, I didn't get that.
+When would you like to come?
+3PM TO 4PM
+HI
+Hi! I can help you make an appointment!
+Is this your first time visiting our office?
+Yes
+What is your name?
+VANAROJA
+Thanks. VANAROJA, please tell me your date of birth.
+30/05/1987
+Sorry, I didn't get that.
+Thanks. VANAROJA, please tell me your date of birth.
+05/30/1987
+Sorry, I didn't get that.
+Thanks. VANAROJA, please tell me your date of birth.
+30.05.1987
+Sorry, I didn't get that.
+Thanks. VANAROJA, please tell me your date of birth.
+30
+Sorry, I didn't get that.
+Thanks. VANAROJA, please tell me your date of birth.
+1987
+I got it, please tell me your phone number so we can contact you in the future.
+9080160283
+VANAROJA, which department would you like to visit?
+Neurology
+When would you like to come?
+TODAY
+Please select a time slot for 2017-11-29.
+1000am
+Appointment successful at Department of Neurology for 2017-11-29 at 1000am
+Thank you for using our chatbot. Please also answer the next 3 questions.
+Q1: Would you use chatbot like this to make an appointment with your doctor?
+yes
+Q2: Did any question confuse you?
+NO
+Q3: Any suggestions to improve the chatbot?
+NO
+Congrats, you are done! Your code is 6436428.
+Hi I have constant migraine lately
+Hi! I can help you make an appointment!
+Is this your first time visiting our office?
+Yes
+What is your name?
+John Doe
+Thanks. John Doe, please tell me your date of birth.
+1st July 1994
+I got it, please tell me your phone number so we can contact you in the future.
+9888888888
+John Doe, which department would you like to visit?
+Ophthalmology
+When would you like to come?
+Tommorow
+Please select a time slot for 2017-11-30.
+1030am
+Appointment successful at Department of Ophthalmology for 2017-11-30 at 1030am
+Thank you for using our chatbot. Please also answer the next 3 questions.
+Q1: Would you use chatbot like this to make an appointment with your doctor?
+yes
+Q2: Did any question confuse you?
+No
+Q3: Any suggestions to improve the chatbot?
+No
+Congrats, you are done! Your code is 8588968.
+Hi
+Hi! I can help you make an appointment!
+Is this your first time visiting our office?
+Yes
+What is your name?
+My name is Prasad
+Thanks. My name is Prasad, please tell me your date of birth.
+NOV 1983
+I got it, please tell me your phone number so we can contact you in the future.
+I DONT WANT TO GIVE MY MOBILE NUMBER
+Sorry, I didn't get that.
+I got it, please tell me your phone number so we can contact you in the future.
+9650526978
+My name is Prasad, which department would you like to visit?
+Cardiology
+When would you like to come?
+TOMORROW
+Please select a time slot for 2017-11-30.
+none
+We don't other time slots available for 2017-11-30. Please try another date.
+When would you like to come?
+2:00 pm
+Please select a time slot for 2017-11-29.
+1030am
+Appointment successful at Department of Cardiology for 2017-11-29 at 1030am
+Thank you for using our chatbot. Please also answer the next 3 questions.
+Q1: Would you use chatbot like this to make an appointment with your doctor?
+maybe
+Q2: Did any question confuse you?
+yes
+Q3: Any suggestions to improve the chatbot?
+You can give some options for the patient to share his required slot
+Congrats, you are done! Your code is 6930306.
+Hello, I would like to make an appointment
+Hi! I can help you make an appointment!
+Is this your first time visiting our office?
+No
+Please enter your name.
+Edna Turnblatt
+Edna Turnblatt, which department would you like to visit?
+Ophthalmology
+When would you like to come?
+Have to have an early morning appointment as have the grandchildren later in the day
+Sorry, I didn't get that.
+When would you like to come?
+before 9 am
+tuesday or thursday
+Please select a time slot for 2017-12-05.
+0900am
+Appointment successful at Department of Ophthalmology for 2017-12-05 at 0900am
+Thank you for using our chatbot. Please also answer the next 3 questions.
+Q1: Would you use chatbot like this to make an appointment with your doctor?
+maybe
+Q2: Did any question confuse you?
+no
+Q3: Any suggestions to improve the chatbot?
+I would like an appointment for a specific physician and this was not an option
+Congrats, you are done! Your code is 3022997.
+HI
+Hi! I can help you make an appointment!
+Is this your first time visiting our office?
+NO
+Please enter your name.
+JEYA
+JEYA, which department would you like to visit?
+Psychiatry
+When would you like to come?
+JOB
+Sorry, I didn't get that.
+When would you like to come?
+FOR SURVEY
+Sorry, I didn't get that.
+When would you like to come?
+I WANT SURVEY CODE
+Sorry, I didn't get that.
+When would you like to come?
+hi
+Hi! I can help you make an appointment!
+Is this your first time visiting our office?
+Yes
+What is your name?
+vinoth
+Thanks. vinoth, please tell me your date of birth.
+1984/feb
+I got it, please tell me your phone number so we can contact you in the future.
+04547245345
+vinoth, which department would you like to visit?
+Neurology
+When would you like to come?
+ya
+Sorry, I didn't get that.
+When would you like to come?
+just checkup
+Sorry, I didn't get that.
+When would you like to come?
+yes
+Sorry, I didn't get that.
+When would you like to come?
+back bone pain
+Sorry, I didn't get that.
+When would you like to come?
+Hello
+Hi! I can help you make an appointment!
+Is this your first time visiting our office?
+Yes
+What is your name?
+Ellie
+Thanks. Ellie, please tell me your date of birth.
+01/06/1978
+I got it, please tell me your phone number so we can contact you in the future.
+01234 567896
+Ellie, which department would you like to visit?
+I am not sure, it is to do with ENT
+When would you like to come?
+ASAP
+Sorry, I didn't get that.
+When would you like to come?
+As soon as possible
+Sorry, I didn't get that.
+When would you like to come?
+Tomorrow
+Please select a time slot for 2017-11-30.
+1000am
+Appointment successful at Department of I am not sure, it is to do with ENT for 2017-11-30 at 1000am
+Thank you for using our chatbot. Please also answer the next 3 questions.
+Q1: Would you use chatbot like this to make an appointment with your doctor?
+yes
+Q2: Did any question confuse you?
+yes
+Q3: Any suggestions to improve the chatbot?
+More options for selecting the department as I wasn't sure which department to choose.
+Congrats, you are done! Your code is 5059585.
+Hello
+Hi! I can help you make an appointment!
+Is this your first time visiting our office?
+Yes
+What is your name?
+Philip
+Thanks. Philip, please tell me your date of birth.
+16th of December, 1990
+I got it, please tell me your phone number so we can contact you in the future.
++1234567894
+Philip, which department would you like to visit?
+Cardiology
+When would you like to come?
+Next week
+Please select a time slot for 2017-12-04.
+0800am
+Appointment successful at Department of Cardiology for 2017-12-04 at 0800am
+Thank you for using our chatbot. Please also answer the next 3 questions.
+Q1: Would you use chatbot like this to make an appointment with your doctor?
+yes
+Q2: Did any question confuse you?
+Yes it did
+Q3: Any suggestions to improve the chatbot?
+Yes, start with salutations to the visitor
+Congrats, you are done! Your code is 7512451.
+hello
+Hi! I can help you make an appointment!
+Is this your first time visiting our office?
+Yes
+What is your name?
+Roberta
+Thanks. Roberta, please tell me your date of birth.
+23 september 1990
+I got it, please tell me your phone number so we can contact you in the future.
++39333998742
+Roberta, which department would you like to visit?
+Psychiatry
+When would you like to come?
+when it's possible. I'm always free
+Sorry, I didn't get that.
+When would you like to come?
+tomorrow?
+Please select a time slot for 2017-11-30.
+1000am
+Appointment successful at Department of Psychiatry for 2017-11-30 at 1000am
+Thank you for using our chatbot. Please also answer the next 3 questions.
+Q1: Would you use chatbot like this to make an appointment with your doctor?
+yes
+Q2: Did any question confuse you?
+No, everything was fine
+Q3: Any suggestions to improve the chatbot?
+No suggestions, it works
+Congrats, you are done! Your code is 2259549.
+I am having severe headaches and I was wondering if I could make an appoinment
+Hi! I can help you make an appointment!
+Is this your first time visiting our office?
+Yes
+What is your name?
+Shay
+Thanks. Shay, please tell me your date of birth.
+01/02/92
+I got it, please tell me your phone number so we can contact you in the future.
+6789832269
+Shay, which department would you like to visit?
+Neurology
+When would you like to come?
+12/14/17
+Please select a time slot for 2017-12-14.
+0900am
+Appointment successful at Department of Neurology for 2017-12-14 at 0900am
+Thank you for using our chatbot. Please also answer the next 3 questions.
+Q1: Would you use chatbot like this to make an appointment with your doctor?
+yes
+Q2: Did any question confuse you?
+no
+Q3: Any suggestions to improve the chatbot?
+no
+Congrats, you are done! Your code is 2136416.
+Helo
+Hi! I can help you make an appointment!
+Is this your first time visiting our office?
+Yes
+What is your name?
+Subhi
+Thanks. Subhi, please tell me your date of birth.
+16/05/1987
+Sorry, I didn't get that.
+Thanks. Subhi, please tell me your date of birth.
+16-05-1987
+Sorry, I didn't get that.
+Thanks. Subhi, please tell me your date of birth.
+1987
+I got it, please tell me your phone number so we can contact you in the future.
+0034604417204
+Subhi, which department would you like to visit?
+Psychiatry
+When would you like to come?
+in next week
+Please select a time slot for 2017-12-04.
+0900am
+Appointment successful at Department of Psychiatry for 2017-12-04 at 0900am
+Thank you for using our chatbot. Please also answer the next 3 questions.
+Q1: Would you use chatbot like this to make an appointment with your doctor?
+yes
+Q2: Did any question confuse you?
+yes ones
+Q3: Any suggestions to improve the chatbot?
+When you would like to ask about the date of birth. this mean day/month/year, but the chatbot did not apply them it just apply the year of birth, so the question has to be "please tell me your year of birth
+Congrats, you are done! Your code is 8228258.
+Hello
+Hi! I can help you make an appointment!
+Is this your first time visiting our office?
+Yes
+What is your name?
+Bob
+Thanks. Bob, please tell me your date of birth.
+March 31st, 1984
+I got it, please tell me your phone number so we can contact you in the future.
+555-555-5555
+Sorry, I didn't get that.
+I got it, please tell me your phone number so we can contact you in the future.
+313-331-3133
+Sorry, I didn't get that.
+I got it, please tell me your phone number so we can contact you in the future.
+310-445-5355-
+Sorry, I didn't get that.
+I got it, please tell me your phone number so we can contact you in the future.
+5555555555
+Bob, which department would you like to visit?
+Psychiatry
+When would you like to come?
+As soon as possible
+Sorry, I didn't get that.
+When would you like to come?
+Tomorrow
+Please select a time slot for 2017-11-30.
+1030am
+Appointment successful at Department of Psychiatry for 2017-11-30 at 1030am
+Thank you for using our chatbot. Please also answer the next 3 questions.
+Q1: Would you use chatbot like this to make an appointment with your doctor?
+yes
+Q2: Did any question confuse you?
+No, not really
+Q3: Any suggestions to improve the chatbot?
+You should explain the format the phone number needs to be in.  Writing in standard form with dashes confused the chatbot.
+Congrats, you are done! Your code is 3984338.
+hello
+Hi! I can help you make an appointment!
+Is this your first time visiting our office?
+Yes
+What is your name?
+Joe
+Thanks. Joe, please tell me your date of birth.
+08/04/1990
+I got it, please tell me your phone number so we can contact you in the future.
+555-555-5555
+Sorry, I didn't get that.
+I got it, please tell me your phone number so we can contact you in the future.
+6782456789
+Joe, which department would you like to visit?
+Neurology
+When would you like to come?
+tomorrow
+Please select a time slot for 2017-11-30.
+0900am
+Appointment successful at Department of Neurology for 2017-11-30 at 0900am
+Thank you for using our chatbot. Please also answer the next 3 questions.
+Q1: Would you use chatbot like this to make an appointment with your doctor?
+maybe
+Q2: Did any question confuse you?
+no
+Q3: Any suggestions to improve the chatbot?
+no
+Congrats, you are done! Your code is 6761012.
+HI
+Hi! I can help you make an appointment!
+Is this your first time visiting our office?
+Yes
+What is your name?
+ASHWIN
+Thanks. ASHWIN, please tell me your date of birth.
+25-05-1995
+Sorry, I didn't get that.
+Thanks. ASHWIN, please tell me your date of birth.
+25.05.1995
+Sorry, I didn't get that.
+Thanks. ASHWIN, please tell me your date of birth.
+1995
+I got it, please tell me your phone number so we can contact you in the future.
+Hello
+Hi! I can help you make an appointment!
+Is this your first time visiting our office?
+Yes
+What is your name?
+Janny
+Thanks. Janny, please tell me your date of birth.
+5/16/2007
+I got it, please tell me your phone number so we can contact you in the future.
+8023432291
+Janny, which department would you like to visit?
+Cardiology
+When would you like to come?
+Tommorrow
+Please select a time slot for 2017-11-30.
+1030am
+Appointment successful at Department of Cardiology for 2017-11-30 at 1030am
+Thank you for using our chatbot. Please also answer the next 3 questions.
+Q1: Would you use chatbot like this to make an appointment with your doctor?
+yes
+Q2: Did any question confuse you?
+No
+Q3: Any suggestions to improve the chatbot?
+None
+Congrats, you are done! Your code is 7030341.
+Hello
+Hi! I can help you make an appointment!
+Is this your first time visiting our office?
+Yes
+What is your name?
+James
+Thanks. James, please tell me your date of birth.
+28 of may 1986
+I got it, please tell me your phone number so we can contact you in the future.
+75889408554
+James, which department would you like to visit?
+Cardiology
+When would you like to come?
+monday
+Please select a time slot for 2017-12-04.
+0900am
+Appointment successful at Department of Cardiology for 2017-12-04 at 0900am
+Thank you for using our chatbot. Please also answer the next 3 questions.
+Q1: Would you use chatbot like this to make an appointment with your doctor?
+yes
+Q2: Did any question confuse you?
+no
+Q3: Any suggestions to improve the chatbot?
+none
+Congrats, you are done! Your code is 5957065.
+I need to make an appointment
+Hi! I can help you make an appointment!
+Is this your first time visiting our office?
+No
+Please enter your name.
+Catherine Sanders
+Catherine Sanders, which department would you like to visit?
+Psychiatry
+When would you like to come?
+Today
+Please select a time slot for 2017-11-30.
+1030am
+Appointment successful at Department of Psychiatry for 2017-11-30 at 1030am
+Thank you for using our chatbot. Please also answer the next 3 questions.
+Q1: Would you use chatbot like this to make an appointment with your doctor?
+no
+Q2: Did any question confuse you?
+no
+Q3: Any suggestions to improve the chatbot?
+no
+Congrats, you are done! Your code is 6576156.
+hi
+Hi! I can help you make an appointment!
+Is this your first time visiting our office?
+yes
+What is your name?
+fili
+Thanks. fili, please tell me your date of birth.
+15/02/96
+Sorry, I didn't get that.
+Thanks. fili, please tell me your date of birth.
+15 FEb 1996
+I got it, please tell me your phone number so we can contact you in the future.
+i'd rather prefer not to
+Sorry, I didn't get that.
+I got it, please tell me your phone number so we can contact you in the future.
+no
+Sorry, I didn't get that.
+I got it, please tell me your phone number so we can contact you in the future.
+3
+Sorry, I didn't get that.
+I got it, please tell me your phone number so we can contact you in the future.
+3408475659
+fili, which department would you like to visit?
+Cardiology
+When would you like to come?
+monday
+Please select a time slot for 2017-12-04.
+0900am
+Appointment successful at Department of Cardiology for 2017-12-04 at 0900am
+Thank you for using our chatbot. Please also answer the next 3 questions.
+Q1: Would you use chatbot like this to make an appointment with your doctor?
+no
+Q2: Did any question confuse you?
+no
+Q3: Any suggestions to improve the chatbot?
+less clunky
+Congrats, you are done! Your code is 3366438.
+hi
+Hi! I can help you make an appointment!
+Is this your first time visiting our office?
+Yes
+What is your name?
+jay
+Hello?
+Hi! I can help you make an appointment!
+Is this your first time visiting our office?
+Yes
+What is your name?
+SCH
+Thanks. SCH, please tell me your date of birth.
+2/4/1979
+I got it, please tell me your phone number so we can contact you in the future.
+8885354496
+SCH, which department would you like to visit?
+Cardiology
+When would you like to come?
+Tomorrow or Monday
+Please select a time slot for 2017-12-01.
+1000am
+Appointment successful at Department of Cardiology for 2017-12-01 at 1000am
+Thank you for using our chatbot. Please also answer the next 3 questions.
+Q1: Would you use chatbot like this to make an appointment with your doctor?
+yes
+Q2: Did any question confuse you?
+No
+Q3: Any suggestions to improve the chatbot?
+No
+Congrats, you are done! Your code is 7422524.
+HI
+Hi! I can help you make an appointment!
+Is this your first time visiting our office?
+No
+Please enter your name.
+USHA
+USHA, which department would you like to visit?
+Cardiology
+When would you like to come?
+GOOD
+Sorry, I didn't get that.
+When would you like to come?
+TODAY
+Please select a time slot for 2017-11-30.
+1030am
+Appointment successful at Department of Cardiology for 2017-11-30 at 1030am
+Thank you for using our chatbot. Please also answer the next 3 questions.
+Q1: Would you use chatbot like this to make an appointment with your doctor?
+no
+Q2: Did any question confuse you?
+YES
+Q3: Any suggestions to improve the chatbot?
+YES
+Congrats, you are done! Your code is 3818943.
+HI..
+Hi! I can help you make an appointment!
+Is this your first time visiting our office?
+Yes
+What is your name?
+NISHA
+Thanks. NISHA, please tell me your date of birth.
+04-05-1992
+I got it, please tell me your phone number so we can contact you in the future.
+9265865620
+NISHA, which department would you like to visit?
+Cardiology
+When would you like to come?
+AFTER ONE MONTH
+TODAY
+Please select a time slot for 2017-11-30.
+1030am
+Appointment successful at Department of Cardiology for 2017-11-30 at 1030am
+Thank you for using our chatbot. Please also answer the next 3 questions.
+Q1: Would you use chatbot like this to make an appointment with your doctor?
+no
+Q2: Did any question confuse you?
+YES
+Q3: Any suggestions to improve the chatbot?
+NO
+Congrats, you are done! Your code is 4837088.
+HI
+Hi! I can help you make an appointment!
+Is this your first time visiting our office?
+YES
+What is your name?
+DHIVA
+Thanks. DHIVA, please tell me your date of birth.
+15.05.1994
+Sorry, I didn't get that.
+Thanks. DHIVA, please tell me your date of birth.
+FIFTTEN FIVE NINETI FIVE
+Sorry, I didn't get that.
+Thanks. DHIVA, please tell me your date of birth.
+hello
+Hi! I can help you make an appointment!
+Is this your first time visiting our office?
+Yes
+What is your name?
+roxane
+Thanks. roxane, please tell me your date of birth.
+28/04/1995
+Sorry, I didn't get that.
+Thanks. roxane, please tell me your date of birth.
+04/28/1995
+I got it, please tell me your phone number so we can contact you in the future.
+0666341252
+roxane, which department would you like to visit?
+Psychiatry
+When would you like to come?
+tomorrow
+Please select a time slot for 2017-12-02.
+1000am
+Appointment successful at Department of Psychiatry for 2017-12-02 at 1000am
+Thank you for using our chatbot. Please also answer the next 3 questions.
+Q1: Would you use chatbot like this to make an appointment with your doctor?
+yes
+Q2: Did any question confuse you?
+no
+Q3: Any suggestions to improve the chatbot?
+no
+Congrats, you are done! Your code is 1383921.
+Hi
+Hi! I can help you make an appointment!
+Is this your first time visiting our office?
+Yes
+What is your name?
+John Franks
+Thanks. John Franks, please tell me your date of birth.
+23/06/1979
+Sorry, I didn't get that.
+Thanks. John Franks, please tell me your date of birth.
+06/23/79
+I got it, please tell me your phone number so we can contact you in the future.
+0044-121-449-7460
+John Franks, which department would you like to visit?
+Neurology
+When would you like to come?
+Next Friday
+Please select a time slot for 2017-12-08.
+1030am
+Appointment successful at Department of Neurology for 2017-12-08 at 1030am
+Thank you for using our chatbot. Please also answer the next 3 questions.
+Q1: Would you use chatbot like this to make an appointment with your doctor?
+yes
+Q2: Did any question confuse you?
+No
+Q3: Any suggestions to improve the chatbot?
+Date question could accept different formats
+Congrats, you are done! Your code is 2669593.
+Hello
+Hi! I can help you make an appointment!
+Is this your first time visiting our office?
+Yes
+What is your name?
+Debby
+Thanks. Debby, please tell me your date of birth.
+13 Mar 77
+I got it, please tell me your phone number so we can contact you in the future.
+807-555-5500
+Debby, which department would you like to visit?
+Psychiatry
+When would you like to come?
+Monday
+Please select a time slot for 2017-12-04.
+1000am
+Appointment successful at Department of Psychiatry for 2017-12-04 at 1000am
+Thank you for using our chatbot. Please also answer the next 3 questions.
+Q1: Would you use chatbot like this to make an appointment with your doctor?
+yes
+Q2: Did any question confuse you?
+No
+Q3: Any suggestions to improve the chatbot?
+None at all
+Congrats, you are done! Your code is 6990319.
+hello
+Hi! I can help you make an appointment!
+Is this your first time visiting our office?
+Yes
+What is your name?
+I have something bothering me
+Thanks. I have something bothering me, please tell me your date of birth.
+Are you open for business?
+Sorry, I didn't get that.
+Thanks. I have something bothering me, please tell me your date of birth.
+01/01/1972
+I got it, please tell me your phone number so we can contact you in the future.
+i don't have a phone
+Sorry, I didn't get that.
+I got it, please tell me your phone number so we can contact you in the future.
+but I just want to make an appointment
+Sorry, I didn't get that.
+I got it, please tell me your phone number so we can contact you in the future.
+1 111 0000001
+I have something bothering me, which department would you like to visit?
+the department is not listed
+When would you like to come?
+you have not shown me whether you provide those services. You indicated departments I am not interested in
+Sorry, I didn't get that.
+When would you like to come?
+can you give me the departments again?
+Sorry, I didn't get that.
+When would you like to come?
+12/05/2017
+Please select a time slot for 2017-12-05.
+none
+We don't other time slots available for 2017-12-05. Please try another date.
+When would you like to come?
+12/05/2017
+Please select a time slot for 2017-12-05.
+1030am
+Appointment successful at Department of the department is not listed for 2017-12-05 at 1030am
+Thank you for using our chatbot. Please also answer the next 3 questions.
+Q1: Would you use chatbot like this to make an appointment with your doctor?
+no
+Q2: Did any question confuse you?
+no
+Q3: Any suggestions to improve the chatbot?
+The list of departments were limited. When I indicated that I was not interested in those department, I should have been given an option like "other" which would enable me to select a department closer to my ailment
+Congrats, you are done! Your code is 3153337.
+hai
+Hi! I can help you make an appointment!
+Is this your first time visiting our office?
+Yes
+What is your name?
+binuva
+Thanks. binuva, please tell me your date of birth.
+27/12/1986
+Sorry, I didn't get that.
+Thanks. binuva, please tell me your date of birth.
+12/27/1986
+I got it, please tell me your phone number so we can contact you in the future.
+9746916301
+binuva, which department would you like to visit?
+Psychiatry
+When would you like to come?
+hi
+Hi! I can help you make an appointment!
+Is this your first time visiting our office?
+Yes
+What is your name?
+Eric
+Thanks. Eric, please tell me your date of birth.
+05231990
+Sorry, I didn't get that.
+Thanks. Eric, please tell me your date of birth.
+05/23/1990
+I got it, please tell me your phone number so we can contact you in the future.
+417-718-3078
+Eric, which department would you like to visit?
+Psychiatry
+When would you like to come?
+today
+Please select a time slot for 2017-12-01.
+1000am
+Appointment successful at Department of Psychiatry for 2017-12-01 at 1000am
+Thank you for using our chatbot. Please also answer the next 3 questions.
+Q1: Would you use chatbot like this to make an appointment with your doctor?
+yes
+Q2: Did any question confuse you?
+no
+Q3: Any suggestions to improve the chatbot?
+no
+Congrats, you are done! Your code is 2223178.
+hi
+Hi! I can help you make an appointment!
+Is this your first time visiting our office?
+Yes
+What is your name?
+kim
+Thanks. kim, please tell me your date of birth.
+12/01/1989
+I got it, please tell me your phone number so we can contact you in the future.
+0891027410
+kim, which department would you like to visit?
+Psychiatry
+When would you like to come?
+I prefer tomorrow evening
+CAn I get the appointment
+Sorry, I didn't get that.
+When would you like to come?
+I will come tomorrow evening
+can I get the appointment
+Sorry, I didn't get that.
+When would you like to come?
+at 2:30pm
+Please select a time slot for 2017-12-02.
+1030am
+Appointment successful at Department of Psychiatry for 2017-12-02 at 1030am
+Thank you for using our chatbot. Please also answer the next 3 questions.
+Q1: Would you use chatbot like this to make an appointment with your doctor?
+no
+Q2: Did any question confuse you?
+nothing
+Q3: Any suggestions to improve the chatbot?
+Works fine
+Congrats, you are done! Your code is 6910071.
+HI
+Hi! I can help you make an appointment!
+Is this your first time visiting our office?
+Yes
+What is your name?
+ANU
+Thanks. ANU, please tell me your date of birth.
+20/01/1993
+Sorry, I didn't get that.
+Thanks. ANU, please tell me your date of birth.
+20.01.1993
+Sorry, I didn't get that.
+Thanks. ANU, please tell me your date of birth.
+JAN 20 1993
+I got it, please tell me your phone number so we can contact you in the future.
+SRY
+Sorry, I didn't get that.
+I got it, please tell me your phone number so we can contact you in the future.
+8695723186
+ANU, which department would you like to visit?
+Psychiatry
+When would you like to come?
+NO
+Sorry, I didn't get that.
+When would you like to come?
+YES
+Sorry, I didn't get that.
+When would you like to come?
+Y
+Sorry, I didn't get that.
+When would you like to come?
+AFTER ONE MONTH
+HAI
+Hi! I can help you make an appointment!
+Is this your first time visiting our office?
+Yes
+What is your name?
+VINITHA
+Thanks. VINITHA, please tell me your date of birth.
+12/08/1990
+I got it, please tell me your phone number so we can contact you in the future.
+20.01.1990
+VINITHA, which department would you like to visit?
+Neurology
+When would you like to come?
+NO
+Sorry, I didn't get that.
+When would you like to come?
+YES
+Sorry, I didn't get that.
+When would you like to come?
+SORRY
+Sorry, I didn't get that.
+When would you like to come?
+YES LIKED
+Sorry, I didn't get that.
+When would you like to come?
+ONE MONTH
+Sorry, I didn't get that.
+When would you like to come?
+hello
+Hi! I can help you make an appointment!
+Is this your first time visiting our office?
+Yes
+What is your name?
+mary
+Thanks. mary, please tell me your date of birth.
+11101986
+Sorry, I didn't get that.
+Thanks. mary, please tell me your date of birth.
+11/10/1986
+I got it, please tell me your phone number so we can contact you in the future.
+999-999-9999
+Sorry, I didn't get that.
+I got it, please tell me your phone number so we can contact you in the future.
+9999999999
+mary, which department would you like to visit?
+Neurology
+When would you like to come?
+one week after
+Sorry, I didn't get that.
+When would you like to come?
+tomorrow
+Please select a time slot for 2017-12-03.
+none
+We don't other time slots available for 2017-12-03. Please try another date.
+When would you like to come?
+2017-12-10
+Sorry, I didn't get that.
+When would you like to come?
+tomorrow
+Please select a time slot for 2017-12-03.
+1030am
+Appointment successful at Department of Neurology for 2017-12-03 at 1030am
+Thank you for using our chatbot. Please also answer the next 3 questions.
+Q1: Would you use chatbot like this to make an appointment with your doctor?
+maybe
+Q2: Did any question confuse you?
+no
+Q3: Any suggestions to improve the chatbot?
+no
+Congrats, you are done! Your code is 6861997.
+thank you
+Hello
+Hi! I can help you make an appointment!
+Is this your first time visiting our office?
+Yes
+What is your name?
+Adam West
+Thanks. Adam West, please tell me your date of birth.
+January 1, 1950
+Sorry, I didn't get that.
+Thanks. Adam West, please tell me your date of birth.
+1/1/50
+I got it, please tell me your phone number so we can contact you in the future.
+123-456-7890
+Adam West, which department would you like to visit?
+Psychiatry
+When would you like to come?
+as soon as possible
+Sorry, I didn't get that.
+When would you like to come?
+today
+Please select a time slot for 2017-12-02.
+1000am
+Appointment successful at Department of Psychiatry for 2017-12-02 at 1000am
+Thank you for using our chatbot. Please also answer the next 3 questions.
+Q1: Would you use chatbot like this to make an appointment with your doctor?
+maybe
+Q2: Did any question confuse you?
+no
+Q3: Any suggestions to improve the chatbot?
+Update birthdate question to accept variations (for example, I wrote January 1, 1950 and it did not understand that).
+Congrats, you are done! Your code is 5350365.
+i have lot of pimples
+Hi! I can help you make an appointment!
+Is this your first time visiting our office?
+Yes
+What is your name?
+ma
+Thanks. ma, please tell me your date of birth.
+01/02/1995
+I got it, please tell me your phone number so we can contact you in the future.
+1234567891
+ma, which department would you like to visit?
+Ophthalmology
+When would you like to come?
+weekends
+any time
+Sorry, I didn't get that.
+When would you like to come?
+any time
+Sorry, I didn't get that.
+When would you like to come?
+tomorrow
+Please select a time slot for 2017-12-03.
+0900am
+Appointment successful at Department of Ophthalmology for 2017-12-03 at 0900am
+Thank you for using our chatbot. Please also answer the next 3 questions.
+Q1: Would you use chatbot like this to make an appointment with your doctor?
+yes
+Q2: Did any question confuse you?
+no
+no
+Q3: Any suggestions to improve the chatbot?
+Q3: Any suggestions to improve the chatbot?
+not at all confusing
+Congrats, you are done! Your code is 1518218.
+yes
+Hi! I can help you make an appointment!
+Is this your first time visiting our office?
+rashes
+What is your name?
+ma
+Thanks. ma, please tell me your date of birth.
+12/12/1995
+I got it, please tell me your phone number so we can contact you in the future.
+1234567891
+ma, which department would you like to visit?
+Cardiology
+When would you like to come?
+today
+Please select a time slot for 2017-12-02.
+1030am
+Appointment successful at Department of Cardiology for 2017-12-02 at 1030am
+Thank you for using our chatbot. Please also answer the next 3 questions.
+Q1: Would you use chatbot like this to make an appointment with your doctor?
+yes
+Q2: Did any question confuse you?
+yes
+Q3: Any suggestions to improve the chatbot?
+fast reply
+Congrats, you are done! Your code is 4509928.
+Hello
+Hi! I can help you make an appointment!
+Is this your first time visiting our office?
+Yes
+What is your name?
+Mashema
+Thanks. Mashema, please tell me your date of birth.
+02/21/1986
+I got it, please tell me your phone number so we can contact you in the future.
+256-368-2222
+Mashema, which department would you like to visit?
+Neurology
+When would you like to come?
+Tomorrow
+Please select a time slot for 2017-12-03.
+0900am
+Appointment successful at Department of Neurology for 2017-12-03 at 0900am
+Thank you for using our chatbot. Please also answer the next 3 questions.
+Q1: Would you use chatbot like this to make an appointment with your doctor?
+yes
+Q2: Did any question confuse you?
+no
+Q3: Any suggestions to improve the chatbot?
+Everything was great
+Congrats, you are done! Your code is 5758404.
+I would like to see a doctor about my anxiety and depression
+Hi! I can help you make an appointment!
+Is this your first time visiting our office?
+Yes
+What is your name?
+Billy Bob
+Thanks. Billy Bob, please tell me your date of birth.
+April 1, 1970
+Sorry, I didn't get that.
+Thanks. Billy Bob, please tell me your date of birth.
+April 1 1970
+I got it, please tell me your phone number so we can contact you in the future.
+803-867-5309
+Billy Bob, which department would you like to visit?
+Psychiatry
+When would you like to come?
+as soon as possible
+Sorry, I didn't get that.
+When would you like to come?
+the next available appointment
+Sorry, I didn't get that.
+When would you like to come?
+friday at noon
+Please select a time slot for 2017-12-08.
+1030am
+Appointment successful at Department of Psychiatry for 2017-12-08 at 1030am
+Thank you for using our chatbot. Please also answer the next 3 questions.
+Q1: Would you use chatbot like this to make an appointment with your doctor?
+yes
+Q2: Did any question confuse you?
+no
+Q3: Any suggestions to improve the chatbot?
+train it to recognize more responses
+Congrats, you are done! Your code is 7761241.
+Hello, I need to make a doctor appointment. I have severe headaches
+Hi! I can help you make an appointment!
+Is this your first time visiting our office?
+Yes
+What is your name?
+Sarah
+Thanks. Sarah, please tell me your date of birth.
+January 1 1977
+I got it, please tell me your phone number so we can contact you in the future.
+555-123-1234
+Sarah, which department would you like to visit?
+Neurology
+When would you like to come?
+Friday morning
+Friday
+Please select a time slot for 2017-12-08.
+0900am
+Appointment successful at Department of Neurology for 2017-12-08 at 0900am
+Thank you for using our chatbot. Please also answer the next 3 questions.
+Q1: Would you use chatbot like this to make an appointment with your doctor?
+maybe
+Q2: Did any question confuse you?
+no
+Q3: Any suggestions to improve the chatbot?
+Instead of asking "When would you like to make the appointment" phrase it so that the bot is asking for a day of the week.
+Congrats, you are done! Your code is 2418561.
+hi
+Hi! I can help you make an appointment!
+Is this your first time visiting our office?
+No
+Please enter your name.
+Anish W
+Anish W, which department would you like to visit?
+Neurology
+When would you like to come?
+no need
+Sorry, I didn't get that.
+When would you like to come?
+now no need
+Please select a time slot for 2017-12-02.
+0900am
+Appointment successful at Department of Neurology for 2017-12-02 at 0900am
+Thank you for using our chatbot. Please also answer the next 3 questions.
+Q1: Would you use chatbot like this to make an appointment with your doctor?
+maybe
+Q2: Did any question confuse you?
+no
+Q3: Any suggestions to improve the chatbot?
+no
+Congrats, you are done! Your code is 2296068.
+hi
+Hi! I can help you make an appointment!
+Is this your first time visiting our office?
+Yes
+What is your name?
+john
+Thanks. john, please tell me your date of birth.
+7th of july 1984
+I got it, please tell me your phone number so we can contact you in the future.
+i have no number
+Sorry, I didn't get that.
+I got it, please tell me your phone number so we can contact you in the future.
+i dont have phone
+Sorry, I didn't get that.
+I got it, please tell me your phone number so we can contact you in the future.
+1234567891
+john, which department would you like to visit?
+Ophthalmology
+When would you like to come?
+today evening at 7 pm
+Please select a time slot for 2017-12-02.
+none
+We don't other time slots available for 2017-12-02. Please try another date.
+When would you like to come?
+7 pm
+Please select a time slot for 2017-12-02.
+0800am
+Appointment successful at Department of Ophthalmology for 2017-12-02 at 0800am
+Thank you for using our chatbot. Please also answer the next 3 questions.
+Q1: Would you use chatbot like this to make an appointment with your doctor?
+yes
+Q2: Did any question confuse you?
+no
+Q3: Any suggestions to improve the chatbot?
+excellent chat system
+Congrats, you are done! Your code is 2712896.
+hi!
+Hi! I can help you make an appointment!
+Is this your first time visiting our office?
+yes
+What is your name?
+ez
+Thanks. ez, please tell me your date of birth.
+04/15/80
+I got it, please tell me your phone number so we can contact you in the future.
+8032657849
+ez, which department would you like to visit?
+Psychiatry
+When would you like to come?
+soonest available appointment
+Sorry, I didn't get that.
+When would you like to come?
+tomorrow
+Please select a time slot for 2017-12-03.
+0800am
+Appointment successful at Department of Psychiatry for 2017-12-03 at 0800am
+Thank you for using our chatbot. Please also answer the next 3 questions.
+Q1: Would you use chatbot like this to make an appointment with your doctor?
+yes
+Q2: Did any question confuse you?
+no
+Q3: Any suggestions to improve the chatbot?
+none
+Congrats, you are done! Your code is 7027159.
+hello
+Hi! I can help you make an appointment!
+Is this your first time visiting our office?
+Yes
+What is your name?
+michelle
+Thanks. michelle, please tell me your date of birth.
+November 16
+I got it, please tell me your phone number so we can contact you in the future.
+3422223023
+michelle, which department would you like to visit?
+Psychiatry
+When would you like to come?
+as soon as possible
+Sorry, I didn't get that.
+When would you like to come?
+this week
+Please select a time slot for 2017-11-27.
+0800am
+Appointment successful at Department of Psychiatry for 2017-11-27 at 0800am
+Thank you for using our chatbot. Please also answer the next 3 questions.
+Q1: Would you use chatbot like this to make an appointment with your doctor?
+no
+Q2: Did any question confuse you?
+nopd
+Q3: Any suggestions to improve the chatbot?
+none
+Congrats, you are done! Your code is 2469743.
+hi
+Hi! I can help you make an appointment!
+Is this your first time visiting our office?
+Yes
+What is your name?
+maya
+Thanks. maya, please tell me your date of birth.
+01011986
+Sorry, I didn't get that.
+Thanks. maya, please tell me your date of birth.
+1st january 1986
+I got it, please tell me your phone number so we can contact you in the future.
+9633373863
+maya, which department would you like to visit?
+Psychiatry
+When would you like to come?
+After two weeks
+Hello
+Hi! I can help you make an appointment!
+Is this your first time visiting our office?
+Yes
+What is your name?
+Vivian Gray
+Thanks. Vivian Gray, please tell me your date of birth.
+1/1/01
+I got it, please tell me your phone number so we can contact you in the future.
+123-456-6789
+Vivian Gray, which department would you like to visit?
+Cardiology
+When would you like to come?
+Today
+Please select a time slot for 2017-12-03.
+1030am
+Appointment successful at Department of Cardiology for 2017-12-03 at 1030am
+Thank you for using our chatbot. Please also answer the next 3 questions.
+Q1: Would you use chatbot like this to make an appointment with your doctor?
+yes
+Q2: Did any question confuse you?
+No
+Q3: Any suggestions to improve the chatbot?
+The chatbot should be more doctor like by asking for symptoms and give you preferences of what you should do.
+Congrats, you are done! Your code is 9

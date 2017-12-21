@@ -7,12 +7,13 @@ public class Detection {
 	public static void main(String[] args) throws FileNotFoundException {
 		Map<Integer, Message> idMap = null;
 		Map<String, LinkedList<Response>> qAndAMap = null;
-		//idMap = processLog("CCRALog.txt");
-		//store("CCRA", idMap);
-		//idMap = (Map<Integer, Message>) read("CCRA");
-		//tallyQAndA(idMap, "CCRAResponsesMap");
+		//idMap = processLog("DALog.txt");
+		//store("DA", idMap);
+		//idMap = (Map<Integer, Message>) read("DA");
+		//tallyQAndA(idMap, "DAResponsesMap");
 		qAndAMap = (Map<String, LinkedList<Response>>) read("DAResponsesMap");
-		findOutliers(qAndAMap, 10);
+		//findOutliers(qAndAMap, 10);
+		kmeans(qAndAMap, 2, 1000);
 		//Message test = idMap.get(1231);
 		//System.out.println(test.toString());
 	}
@@ -88,7 +89,8 @@ public class Detection {
 		return idMap;
 	}
 	
-	public static void tallyQAndA(Map<Integer, Message> idMap, String fileName) {
+	public static void tallyQAndA(Map<Integer, Message> idMap, String fileName) throws IOException {
+		BufferedWriter writer = new BufferedWriter(new FileWriter("DAResponsesMap.txt"));
 		Map<String, LinkedList<Response>> overallMap = new HashMap<String, LinkedList<Response>>();
 		for (int i : idMap.keySet()) {
 			Message m = idMap.get(i);
@@ -114,10 +116,12 @@ public class Detection {
 				}
 				for (Response r : qaMap.get(q)) {
 					overallMap.get(temp).add(r);
+					//writer.write(r.toString());
+					//writer.newLine();
 				}
 			}
 		}
-		
+		//writer.close();
 		store(fileName, overallMap);
 		
 		String toPrint = "";
@@ -125,6 +129,8 @@ public class Detection {
 			toPrint += key + "\t" + overallMap.get(key).toString() + "\n";
 		}
 		System.out.println(toPrint);
+		writer.write(toPrint);
+		writer.close();
 	}
 	
 	public static void findOutliers(Map<String, LinkedList<Response>> qaMap, int cutOffPercentage) {
@@ -215,5 +221,122 @@ public class Detection {
 			}
 			System.out.println(q + "\t" + lengthOutliers.toString());
 		}
+	}
+	
+	public static void kmeans(Map<String, LinkedList<Response>> qaMap, int k, int iteration) {
+		assert k > 1;
+		int randomInt;
+		LinkedList<Response> l;
+		Random r = new Random();
+		for (String q : qaMap.keySet()) {
+			double minVariation = Double.MAX_VALUE;
+			LinkedList<LinkedList<Response>> finalCluster = new LinkedList<>();
+			for (int itr = 0; itr < iteration; itr++) {
+				LinkedList<LinkedList<Response>> cluster = new LinkedList<>();
+				double totalVariation = 0;
+				l = new LinkedList<>(qaMap.get(q));
+				// Choose initial cluster
+				for (int i = 0; i < k; i++) {
+					//System.out.println(l.size());
+					randomInt = r.nextInt(l.size());
+					Response ini = l.get(randomInt);
+					l.remove(ini);
+					cluster.add(new LinkedList<>());
+					cluster.get(i).add(new Response(ini.getTotalLength(), ini.getNumberOfTokens(), ini.getNumberOfDigits(), ini.getNumberOfLetters()));
+					cluster.get(i).add(ini);
+				}
+				// Assign Cluster
+				for (Response res : l) {
+					int pos = 0;
+					double minDist = Double.MAX_VALUE;
+					for (int i = 0; i < k; i++) {
+						double dist = res.eDistance(cluster.get(i).getFirst());
+						if (dist < minDist) {
+							pos = i;
+							minDist = dist;
+						}
+					}
+					cluster.get(pos).add(res);
+					int a = (res.getTotalLength() + cluster.get(pos).getFirst().getTotalLength())/2;
+					int b = (res.getNumberOfTokens() + cluster.get(pos).getFirst().getNumberOfTokens())/2;
+					int c = (res.getNumberOfDigits() + cluster.get(pos).getFirst().getNumberOfDigits())/2;
+					int d = (res.getNumberOfLetters() + cluster.get(pos).getFirst().getNumberOfLetters())/2;
+					cluster.get(pos).set(0, new Response(a, b, c, d));
+				}
+				
+				for (LinkedList<Response> cl : cluster) {
+					Response mean = cl.getFirst();
+					for (Response member : cl) {
+						totalVariation += mean.eDistance(member);
+					}
+				}
+				
+				if (totalVariation < minVariation) {
+					minVariation = totalVariation;
+					finalCluster = cluster;
+				}
+			}
+			System.out.println(q);
+	        for (LinkedList<Response> sets : finalCluster) {
+	            System.out.println(sets.toString());
+	        }
+	        System.out.println();
+		}
+		
+	}
+	
+	private static int minimum(int a, int b, int c) {
+		int mi;
+		mi = a;
+		if (b < mi) {
+			mi = b;
+	    }
+	    if (c < mi) {
+	      mi = c;
+	    }
+	    return mi;
+	}
+
+	public static int lDistance(String s, String t) {
+		s = s.toLowerCase();
+		t = t.toLowerCase();
+		int d[][]; // matrix
+		int n; // length of s
+		int m; // length of t
+		int i; // iterates through s
+		int j; // iterates through t
+		char s_i; // ith character of s
+		char t_j; // jth character of t
+		int cost; // cost
+	    n = s.length();
+	    m = t.length();
+	    if (n == 0) {
+	    	return m;
+	    }
+	    if (m == 0) {
+	    	return n;
+	    }
+	    d = new int[n+1][m+1];
+	    for (i = 0; i <= n; i++) {
+	    	d[i][0] = i;
+	    }
+	    for (j = 0; j <= m; j++) {
+	    	d[0][j] = j;
+	    }
+	    for (i = 1; i <= n; i++) {
+	    	s_i = s.charAt(i - 1);
+	    	for (j = 1; j <= m; j++) {
+
+	    		t_j = t.charAt(j - 1);
+		        if (s_i == t_j) {
+		          cost = 0;
+		        }
+		        else {
+		          cost = 1;
+		        }
+		        d[i][j] = minimum(d[i-1][j]+1, d[i][j-1]+1, d[i-1][j-1] + cost);
+	    	}
+	    }
+	    return d[n][m];
 	}
 }
