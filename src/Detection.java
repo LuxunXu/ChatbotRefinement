@@ -4,16 +4,19 @@ import java.util.*;
 public class Detection {
 
 	@SuppressWarnings("unchecked")
-	public static void main(String[] args) throws FileNotFoundException {
+	public static void main(String[] args) throws IOException {
 		Map<Integer, Message> idMap = null;
 		Map<String, LinkedList<Response>> qAndAMap = null;
-		idMap = processLog("DALog.txt");
+		//idMap = processLog("DALog.txt");
 		//store("DA", idMap);
 		//idMap = (Map<Integer, Message>) read("DA");
 		//tallyQAndA(idMap, "DAResponsesMap");
 		qAndAMap = (Map<String, LinkedList<Response>>) read("DAResponsesMap");
-		//findOutliers(qAndAMap, 10);
-		kmeans(qAndAMap, 2, 1000);
+		/*for (String q : qAndAMap.keySet()) {
+			kmeans(q, qAndAMap.get(q), 5, 5000);
+			break; // For testing only the first question
+		}*/
+		findOutliers(qAndAMap);
 		//Message test = idMap.get(1231);
 		//System.out.println(test.toString());
 	}
@@ -47,7 +50,8 @@ public class Detection {
 		}
 	}
 	
-	public static Map<Integer, Message> processLog(String fileName) throws FileNotFoundException {
+	// Return an SDFUserID Message map
+	public static Map<Integer, Message> processLog(String fileName) throws IOException {
 		int countLine = 1;
 		File f = new File(fileName);
 		Scanner sc = new Scanner(f);
@@ -89,6 +93,7 @@ public class Detection {
 		return idMap;
 	}
 	
+	// Combine all answer to one question, get rid of SDFUserID
 	public static void tallyQAndA(Map<Integer, Message> idMap, String fileName) throws IOException {
 		BufferedWriter writer = new BufferedWriter(new FileWriter("DAResponsesMap.txt"));
 		Map<String, LinkedList<Response>> overallMap = new HashMap<String, LinkedList<Response>>();
@@ -133,7 +138,8 @@ public class Detection {
 		writer.close();
 	}
 	
-	public static void findOutliers(Map<String, LinkedList<Response>> qaMap, int cutOffPercentage) {
+	// This method is out-dated and should not be used.
+	public static void clusterByLength(Map<String, LinkedList<Response>> qaMap, int cutOffPercentage) {
 		/*
 		String toPrint = "";
 		for (String key : qaMap.keySet()) {
@@ -185,7 +191,7 @@ public class Detection {
 		System.out.println();
 		System.out.println("----------------------------------------------------------");
 		System.out.println();
-		System.out.println("Outliers by number of words:");
+		System.out.println("Clusters by number of words:");
 		for (String q : qaMap.keySet()) {
 			//System.out.println(q);
 			Set<Response> lengthOutliers = new HashSet<Response>();
@@ -224,33 +230,34 @@ public class Detection {
 		}
 	}
 	
-	public static void kmeans(Map<String, LinkedList<Response>> qaMap, int k, int iteration) {
+	public static void kmeans(String q, LinkedList<Response> list, int k, int iteration) {
 		assert k > 1;
 		int randomInt;
-		LinkedList<Response> l;
 		Random r = new Random();
-		for (String q : qaMap.keySet()) {
+		LinkedList<Response> l;
+	
+		for (int kCount = 2; kCount <= k; kCount++) {
 			double minVariation = Double.MAX_VALUE;
 			LinkedList<LinkedList<Response>> finalCluster = new LinkedList<>();
 			for (int itr = 0; itr < iteration; itr++) {
 				LinkedList<LinkedList<Response>> cluster = new LinkedList<>();
 				double totalVariation = 0;
-				l = new LinkedList<>(qaMap.get(q));
+				l = new LinkedList<>(list);
 				// Choose initial cluster
-				for (int i = 0; i < k; i++) {
+				for (int i = 0; i < kCount; i++) {
 					//System.out.println(l.size());
 					randomInt = r.nextInt(l.size());
 					Response ini = l.get(randomInt);
 					l.remove(ini);
 					cluster.add(new LinkedList<>());
-					cluster.get(i).add(new Response(ini.getTotalLength(), ini.getNumberOfTokens(), ini.getNumberOfDigits(), ini.getNumberOfLetters()));
+					cluster.get(i).add(new Response(i+"", ini.getTotalLength(), ini.getNumberOfTokens(), ini.getNumberOfDigits(), ini.getNumberOfLetters()));
 					cluster.get(i).add(ini);
 				}
 				// Assign Cluster
 				for (Response res : l) {
 					int pos = 0;
 					double minDist = Double.MAX_VALUE;
-					for (int i = 0; i < k; i++) {
+					for (int i = 0; i < kCount; i++) {
 						double dist = res.eDistance(cluster.get(i).getFirst());
 						if (dist < minDist) {
 							pos = i;
@@ -258,11 +265,12 @@ public class Detection {
 						}
 					}
 					cluster.get(pos).add(res);
+					String s = pos+"";
 					int a = (res.getTotalLength() + cluster.get(pos).getFirst().getTotalLength())/2;
 					int b = (res.getNumberOfTokens() + cluster.get(pos).getFirst().getNumberOfTokens())/2;
 					int c = (res.getNumberOfDigits() + cluster.get(pos).getFirst().getNumberOfDigits())/2;
 					int d = (res.getNumberOfLetters() + cluster.get(pos).getFirst().getNumberOfLetters())/2;
-					cluster.get(pos).set(0, new Response(a, b, c, d));
+					cluster.get(pos).set(0, new Response(s, a, b, c, d));
 				}
 				
 				for (LinkedList<Response> cl : cluster) {
@@ -271,73 +279,75 @@ public class Detection {
 						totalVariation += mean.eDistance(member);
 					}
 				}
-				
 				if (totalVariation < minVariation) {
 					minVariation = totalVariation;
 					finalCluster = cluster;
 				}
 			}
-			System.out.println(q);
+			System.out.println(q + "\t" + kCount + "\t" + minVariation);
 	        for (LinkedList<Response> sets : finalCluster) {
 	            System.out.println(sets.toString());
 	        }
 	        System.out.println();
+	        
+	        // Print inter-cluster distance
+	        double[][] interDistance = new double[kCount][kCount];
+	        for (int i = 0; i < kCount; ++i) {
+	        	for (int j = 0; j < kCount; ++j) {
+		        	double dist = finalCluster.get(i).getFirst().eDistance(finalCluster.get(j).getFirst());
+		        	interDistance[i][j] = dist;
+		        }
+	        }
+	        
+	        for (int row = 0; row < interDistance.length; row++) {
+	        	String head = "";
+            	String data = row+"";
+            	double total = 0.0;
+	            for (int col = 0; col < interDistance[row].length; col++) {
+            		head += "\t" + col;
+	            	data += "\t" + interDistance[row][col];
+	            	total += interDistance[row][col];
+	            }
+	            if (row == 0) {
+	            	System.out.println(head + "\tTotal");
+	            }
+	            System.out.println(data + "\t" + total);
+	        }
+	        System.out.println();
 		}
+		System.out.println();
 		
 	}
 	
-	private static int minimum(int a, int b, int c) {
-		int mi;
-		mi = a;
-		if (b < mi) {
-			mi = b;
-	    }
-	    if (c < mi) {
-	      mi = c;
-	    }
-	    return mi;
+	public static void findOutliers(Map<String, LinkedList<Response>> qAndAMap) {
+		Map<String, LinkedList<Response>> qaMap = new HashMap<>(qAndAMap);
+		LinkedList<Response> l;
+		for (String q : qaMap.keySet()) {
+			Map<String, LinkedList<Response>> entityMap = new HashMap<>();
+			l = new LinkedList<>(qaMap.get(q));
+			for (Response r : l) {
+				String entity, entityName;
+				if (r.getJSON().getJSONObject("entities").length() > 0) {
+					entity = r.getJSON().getJSONObject("entities").keySet().toString();
+					entityName = entity.substring(1, entity.length() - 1);
+				} else {
+					entityName = "No Entity";
+				}
+				if (!entityMap.containsKey(entityName)) {
+					entityMap.put(entityName, new LinkedList<Response>());
+				}
+				entityMap.get(entityName).add(r);
+			}
+			
+			System.out.println(q);
+			for (String s : entityMap.keySet()) {
+				System.out.println(s + "\t" + entityMap.get(s));
+			}
+			System.out.println();
+		}
 	}
-
-	public static int lDistance(String s, String t) {
-		s = s.toLowerCase();
-		t = t.toLowerCase();
-		int d[][]; // matrix
-		int n; // length of s
-		int m; // length of t
-		int i; // iterates through s
-		int j; // iterates through t
-		char s_i; // ith character of s
-		char t_j; // jth character of t
-		int cost; // cost
-	    n = s.length();
-	    m = t.length();
-	    if (n == 0) {
-	    	return m;
-	    }
-	    if (m == 0) {
-	    	return n;
-	    }
-	    d = new int[n+1][m+1];
-	    for (i = 0; i <= n; i++) {
-	    	d[i][0] = i;
-	    }
-	    for (j = 0; j <= m; j++) {
-	    	d[0][j] = j;
-	    }
-	    for (i = 1; i <= n; i++) {
-	    	s_i = s.charAt(i - 1);
-	    	for (j = 1; j <= m; j++) {
-
-	    		t_j = t.charAt(j - 1);
-		        if (s_i == t_j) {
-		          cost = 0;
-		        }
-		        else {
-		          cost = 1;
-		        }
-		        d[i][j] = minimum(d[i-1][j]+1, d[i][j-1]+1, d[i-1][j-1] + cost);
-	    	}
-	    }
-	    return d[n][m];
+	
+	public static void findPatterns() {
+		
 	}
 }

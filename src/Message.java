@@ -3,7 +3,7 @@ import java.util.*;
 
 public class Message implements Serializable{
 	/**
-	 * 
+	 * Message is the map of Question and List of its corresponding Responses.
 	 */
 	private static final long serialVersionUID = 874087594914412994L;
 	public Map<String, LinkedList<Response>> qAndAMap;
