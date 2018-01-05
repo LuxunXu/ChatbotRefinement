@@ -11,6 +11,8 @@ public class Response implements Serializable{
 	 */
 	private static final long serialVersionUID = 8129883885917500627L;
 	private String response;
+	
+	//Parameters
 	private int totalLength;
 	private int numberOfTokens;
 	private int numberOfDigits = 0;
