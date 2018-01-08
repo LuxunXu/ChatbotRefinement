@@ -2,16 +2,35 @@ import java.io.*;
 import java.net.*;
 import java.text.DateFormat;
 import java.text.SimpleDateFormat;
-import java.util.Date;
+import java.util.*;
 
 import org.json.*;
 
 public class Testing {
 
+	@SuppressWarnings("unchecked")
 	public static void main(String[] args) throws IOException {
-		String response = "nothing in the afternoon?".replaceAll("\\s", "%20");
+		String response = "ana winter".replaceAll("\\s", "%20");
 		JSONObject test = getJObject(response);
-		System.out.println(test.getJSONObject("entities").keySet().toString());
+		//System.out.println(test.getJSONObject("entities").getJSONArray("yesno").getJSONObject(0).getDouble("confidence"));
+		
+		Map<String, LinkedList<Response>> qAndAMap = null;
+		qAndAMap = (Map<String, LinkedList<Response>>) read("DAResponsesMap");
+		ResponseVector rv = null;
+		for (String s : qAndAMap.keySet()) {
+			System.out.println(s);
+			rv = new ResponseVector(qAndAMap.get(s));
+			Set<String> seen = new HashSet<>();
+			for (String r1 : rv.getVectorMap().keySet()) {
+				for (String r2 : rv.getVectorMap().keySet()) {
+					if (!r1.equals(r2) && rv.biCosineSimilarity(r1, r2) != 0 && !seen.contains(r2)) {
+						System.out.println(r1.toString() + " --- " + r2.toString() + "\t" + rv.biCosineSimilarity(r1, r2));
+					}
+				}
+				seen.add(r1);
+			}
+			System.out.println();
+		}
 	}
 	
 	public static JSONObject getJObject(String response) throws IOException {
@@ -34,5 +53,22 @@ public class Testing {
         in.close();
         System.out.println(output);
 		return get;
+	}
+	
+	public static Object read(String fileName) {
+		try {
+			Object obj = null;
+			ObjectInputStream is = new ObjectInputStream(new FileInputStream(fileName));
+			obj = is.readObject();
+			is.close();
+			return obj;
+		} catch (FileNotFoundException e) {
+			e.printStackTrace();
+		} catch (IOException e) {
+			e.printStackTrace();
+		} catch (ClassNotFoundException e) {
+			e.printStackTrace();
+		}
+		return null;
 	}
 }
