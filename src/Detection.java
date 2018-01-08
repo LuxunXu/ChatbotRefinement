@@ -13,7 +13,7 @@ public class Detection {
 		//tallyQAndA(idMap, "DAResponsesMap");
 		qAndAMap = (Map<String, LinkedList<Response>>) read("DAResponsesMap");
 		//findOutliers(qAndAMap, 10);
-		kmeans(qAndAMap, 2, 1000);
+		kmeans(qAndAMap, 5, 1000);
 		//Message test = idMap.get(1231);
 		//System.out.println(test.toString());
 	}
