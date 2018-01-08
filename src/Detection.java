@@ -235,6 +235,7 @@ public class Detection {
 		int randomInt;
 		Random r = new Random();
 		LinkedList<Response> l;
+		double currentVariation = Double.MAX_VALUE;
 	
 		for (int kCount = 2; kCount <= k; kCount++) {
 			try {
@@ -285,12 +286,25 @@ public class Detection {
 						finalCluster = cluster;
 					}
 				}
-				System.out.println(q + "\t" + kCount + "\t" + minVariation);
-		        for (LinkedList<Response> sets : finalCluster) {
-		            System.out.println(sets.toString());
-		        }
-		        System.out.println();
-		        
+				//System.out.println(minVariation + "  " + currentVariation);
+				if (minVariation == 0.0) {
+					System.out.println("Kmeans cluster:");
+					//System.out.println(q + "\t" + kCount + "\t" + minVariation);
+			        for (LinkedList<Response> sets : finalCluster) {
+			            System.out.println(sets.toString());
+			        }
+					break;
+				} else if ((minVariation * 2) < currentVariation) {
+					currentVariation = minVariation;
+				} else {
+					System.out.println("Kmeans cluster:");
+					//System.out.println(q + "\t" + kCount + "\t" + minVariation);
+			        for (LinkedList<Response> sets : finalCluster) {
+			            System.out.println(sets.toString());
+			        }
+					break;
+				}
+				//System.out.println();
 		        // Print inter-cluster distance
 		        /*
 		        double[][] interDistance = new double[kCount][kCount];
@@ -315,7 +329,7 @@ public class Detection {
 		            }
 		            System.out.println(data + "\t" + total);
 		        }*/
-		        System.out.println();
+		        //System.out.println();
 			} catch (IllegalArgumentException e) {
 				break;
 			}
@@ -374,11 +388,12 @@ public class Detection {
 			}
 			System.out.println("Outlier List:\t" + outliersList + "\n");
 			
-			System.out.println("Possible patterns:\t");
+			System.out.println("Possible patterns:");
 			findPatterns(outliersList);
 			System.out.println();
-			System.out.println();
-			//kmeans(q, outliersList, 5, 5000);
+			kmeans(q, outliersList, 10, 5000);
+			System.out.println("--------------------------------------------------------------------------------------------");
+			System.out.println();		
 		}
 	}
 	
@@ -391,7 +406,7 @@ public class Detection {
 			found = false;
 			for (Set<String> g : group) {
 				for (String s : g) {
-					if (!r1.equals(s) && rv.biCosineSimilarity(r1, s) != 0) {
+					if (!r1.equals(s) && rv.biCosineSimilarity(r1, s) != 0 && !seen.contains(r1)) {
 						g.add(r1);
 						found = true;
 						break;
