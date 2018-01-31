@@ -1,0 +1,27 @@
+SDFuserid	message	sendReceive
+1156	HI	1
+1156	Hi! I can help you make an appointment! 	0
+1156	 Is this your first time visiting our office?	0
+1156	Yes 	1
+1156	What is your name?	0
+1156	MALAR	1
+1156	Thanks. MALAR, please tell me your date of birth.	0
+1156	22/8/1995	1
+1156	Sorry, I didn't get that.	0
+1156	Thanks. MALAR, please tell me your date of birth.	0
+1156	23	1
+1156	Sorry, I didn't get that.	0
+1156	Thanks. MALAR, please tell me your date of birth.	0
+1156	23-9-1995	1
+1156	Sorry, I didn't get that.	0
+1156	Thanks. MALAR, please tell me your date of birth.	0
+1156	1994	1
+1156	I got it, please tell me your phone number so we can contact you in the future.	0
+1156	NOTHING	1
+1156	Sorry, I didn't get that.	0
+1156	I got it, please tell me your phone number so we can contact you in the future.	0
+1157	HI	1
+1157	Hi! I can help you make an appointment! 	0
+1157	 Is this your first time visiting our office?	0
+1157	Yes 	1
+1157	What is your name?	0
