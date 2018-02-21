@@ -2,13 +2,19 @@ package readDatabase;
 
 import java.io.BufferedWriter;
 import java.io.File;
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
+import java.io.FileOutputStream;
 import java.io.FileWriter;
 import java.io.IOException;
+import java.io.ObjectInputStream;
+import java.io.ObjectOutputStream;
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
+import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.LinkedList;
 import java.util.Map;
@@ -22,16 +28,17 @@ import test.ResponseVector;
 
 public class AllInOne {
 
+	@SuppressWarnings("unchecked")
 	public static void main(String[] args) throws IOException {
 		// TODO Auto-generated method stub
 		
-		int choice = 2;
+		int choice = 1;
 		if (choice == 1) {
 			String dbURL = "jdbc:mysql://demo.smartbot360.com:3306";
 			String currentDB = "CHATBOTDEMO";
 			String username = "mwile001";
 			String password = "SDFd3143!!!";
-			//String tableName = "DoctorAppointmentResponseCluster";
+			String logFileName = "DALog.txt";
 			
 			
 			Connection conn = null;
@@ -42,7 +49,6 @@ public class AllInOne {
 			String sql = "SELECT l.SDFuserid, l.message, l.sendReceive from CHATBOTDEMO.chatLog l " + 
 					"JOIN (SELECT DISTINCT d.SDFuserid FROM CHATBOTDEMO.DoctorAppointmentExecution d) s on s.SDFuserid = l.SDFuserid " + 
 					"WHERE l.chatbotFunctionId='DoctorAppointment' ORDER BY l.SDFuserid, l.sentTime;";
-			String logFileName = "DALog.txt";
 			BufferedWriter out = new BufferedWriter(new FileWriter(logFileName));
 			out.write("SDFuserid|message|sendReceive\n");
 			try {
@@ -62,6 +68,9 @@ public class AllInOne {
 			Map<String, LinkedList<Response>> qAndAMap = processLog(logFileName);
 			convertToVector(qAndAMap);
 		} else if (choice == 2) {
+			Map<String, LinkedList<Response>> qAndAMap = (Map<String, LinkedList<Response>>) read("DAResponseMap");
+			convertToVector(qAndAMap);
+		} else if (choice == 3) {
 			String dbURL = "jdbc:mysql://demo.smartbot360.com:3306";
 			String currentDB = "CHATBOTDEMO";
 			String username = "mwile001";
@@ -162,6 +171,8 @@ public class AllInOne {
 				}
 			}
 		}
+		
+		store("DAResponsesMap", overallMap);
 		//writer.close();
 		
 		String toPrint = "";
@@ -178,6 +189,7 @@ public class AllInOne {
 	public static void convertToVector(Map<String, LinkedList<Response>> qAndAMap) throws IOException {
 		BufferedWriter writer = null;
 		BufferedWriter writer1 = null;
+		BufferedWriter writer2 = null;
 		LinkedList<Response> l = null;
 		ResponseVector rv = null;
 		int count = 0;
@@ -185,9 +197,11 @@ public class AllInOne {
 			//System.out.println(s.substring(0,s.length() - 1));
 			writer = new BufferedWriter(new FileWriter(s.substring(0,s.length() - 1) + "-Vector"));
 			writer1 = new BufferedWriter(new FileWriter(s.substring(0,s.length() - 1) + "-ResponseList"));
+			writer2 = new BufferedWriter(new FileWriter(s.substring(0,s.length() - 1) + "-PreCluster"));
 			l = qAndAMap.get(s);
 			count = 0;
 			rv = new ResponseVector(l);
+			Map<Integer, ArrayList<Integer>> preCluster = new HashMap<>();
 			for (Response r : l) {
 				//System.out.println(rv.getVector(r.toString()));
 				//System.out.println(count + "\t" + r.toString());
@@ -200,21 +214,37 @@ public class AllInOne {
 				//yesno, datatime, department, phone_number
 				if (j.has("entities") && j.getJSONObject("entities").has("yesno")) {
 					writer.write(j.getJSONObject("entities").getJSONArray("yesno").getJSONObject(0).getDouble("confidence") + " ");
+					if (!preCluster.containsKey(1)) {
+						preCluster.put(1, new ArrayList<>());
+					}
+					preCluster.get(1).add(count);
 				} else {
 					writer.write("0 ");
 				}
 				if (j.has("entities") && j.getJSONObject("entities").has("datetime")) {
 					writer.write(j.getJSONObject("entities").getJSONArray("datetime").getJSONObject(0).getDouble("confidence") + " ");
+					if (!preCluster.containsKey(2)) {
+						preCluster.put(2, new ArrayList<>());
+					}
+					preCluster.get(2).add(count);
 				} else {
 					writer.write("0 ");
 				}
 				if (j.has("entities") && j.getJSONObject("entities").has("department")) {
 					writer.write(j.getJSONObject("entities").getJSONArray("department").getJSONObject(0).getDouble("confidence") + " ");
+					if (!preCluster.containsKey(3)) {
+						preCluster.put(3, new ArrayList<>());
+					}
+					preCluster.get(3).add(count);
 				} else {
 					writer.write("0 ");
 				}
 				if (j.has("entities") && j.getJSONObject("entities").has("phone_number")) {
 					writer.write(j.getJSONObject("entities").getJSONArray("phone_number").getJSONObject(0).getDouble("confidence") + " ");
+					if (!preCluster.containsKey(4)) {
+						preCluster.put(4, new ArrayList<>());
+					}
+					preCluster.get(4).add(count);
 				} else {
 					writer.write("0 ");
 				}
@@ -224,8 +254,44 @@ public class AllInOne {
 				writer.newLine();
 			}
 			//break;
+			for (Integer i : preCluster.keySet()) {
+				for (Integer j : preCluster.get(i)) {
+					writer2.write(j + " ");
+				}
+				writer2.newLine();
+			}
 			writer.close();
 			writer1.close();
+			writer2.close();
+		}
+	}
+	
+	public static Object read(String fileName) {
+		try {
+			Object obj = null;
+			ObjectInputStream is = new ObjectInputStream(new FileInputStream(fileName));
+			obj = is.readObject();
+			is.close();
+			return obj;
+		} catch (FileNotFoundException e) {
+			e.printStackTrace();
+		} catch (IOException e) {
+			e.printStackTrace();
+		} catch (ClassNotFoundException e) {
+			e.printStackTrace();
+		}
+		return null;
+	}
+	
+	public static void store(String fileName, Object obj) {
+		try {
+			ObjectOutputStream os = new ObjectOutputStream(new FileOutputStream(fileName));
+			os.writeObject(obj);
+			os.close();
+		} catch (FileNotFoundException e) {
+			e.printStackTrace();
+		} catch (IOException e) {
+			e.printStackTrace();
 		}
 	}
 }
