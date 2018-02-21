@@ -13,11 +13,11 @@ public class Detection {
 		//idMap = (Map<Integer, Message>) read("DA");
 		//tallyQAndA(idMap, "DAResponsesMap");
 		qAndAMap = (Map<String, LinkedList<Response>>) read("DAResponsesMap");
-		/*for (String q : qAndAMap.keySet()) {
+		for (String q : qAndAMap.keySet()) {
 			kmeans(q, qAndAMap.get(q), 5, 5000);
-			break; // For testing only the first question
-		}*/
-		findOutliers(qAndAMap);
+			//break; // For testing only the first question
+		}
+		//findOutliers(qAndAMap);
 		//Message test = idMap.get(1231);
 		//System.out.println(test.toString());
 	}
