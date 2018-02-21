@@ -32,7 +32,7 @@ public class AllInOne {
 	public static void main(String[] args) throws IOException {
 		// TODO Auto-generated method stub
 		
-		int choice = 1;
+		int choice = 3;
 		if (choice == 1) {
 			String dbURL = "jdbc:mysql://demo.smartbot360.com:3306";
 			String currentDB = "CHATBOTDEMO";
@@ -68,7 +68,7 @@ public class AllInOne {
 			Map<String, LinkedList<Response>> qAndAMap = processLog(logFileName);
 			convertToVector(qAndAMap);
 		} else if (choice == 2) {
-			Map<String, LinkedList<Response>> qAndAMap = (Map<String, LinkedList<Response>>) read("DAResponseMap");
+			Map<String, LinkedList<Response>> qAndAMap = (Map<String, LinkedList<Response>>) read("DAResponsesMap");
 			convertToVector(qAndAMap);
 		} else if (choice == 3) {
 			String dbURL = "jdbc:mysql://demo.smartbot360.com:3306";
@@ -84,14 +84,37 @@ public class AllInOne {
 			String sql = "INSERT INTO CHATBOTDEMO.DAResponseCluster VALUES (?, ?, ?, ?, ?);";
 			try {
 				conn = DriverManager.getConnection(dbURL + "/" + currentDB, username, password);
-				st = conn.prepareStatement(sql);
-				st.setInt(1, 2);
-				st.setString(2, "Hello");
-				st.setInt(3, 1);
-				st.setString(4, "Greetings");
-				st.setInt(5, 1);
-				st.execute();
-				st.close();
+				Scanner sc = new Scanner(new File("Cluster-i got it, please tell me your phone number so we can contact you in the future.txt"));
+				String line = "";
+				int count = 0;
+				while(sc.hasNextLine()) {
+					count++;
+					line = sc.nextLine();
+					String[] tokens = line.split("\\|");
+					int goodOrBad;
+					if (tokens[0].equals("g")) {
+						goodOrBad = 1;
+					} else {
+						goodOrBad = 0;
+					}
+					for(int i = 1; i < tokens.length; i++) {
+						String response = tokens[i];
+						st = conn.prepareStatement(sql);
+						st.setInt(1, 11);
+						if (response.startsWith("IsRepresentative")) {
+							st.setString(2, response.substring(17));
+							st.setInt(3, count);
+							st.setInt(4, 1);
+						} else {
+							st.setString(2, response);
+							st.setInt(3, count);
+							st.setInt(4, 0);
+						}
+						st.setInt(5, goodOrBad);
+						st.execute();
+						st.close();
+					}
+				} 
 			} catch (SQLException el) {
 				el.printStackTrace();
 			}
@@ -194,7 +217,7 @@ public class AllInOne {
 		ResponseVector rv = null;
 		int count = 0;
 		for (String s : qAndAMap.keySet()) {
-			//System.out.println(s.substring(0,s.length() - 1));
+			//System.out.println(s);
 			writer = new BufferedWriter(new FileWriter(s.substring(0,s.length() - 1) + "-Vector"));
 			writer1 = new BufferedWriter(new FileWriter(s.substring(0,s.length() - 1) + "-ResponseList"));
 			writer2 = new BufferedWriter(new FileWriter(s.substring(0,s.length() - 1) + "-PreCluster"));
@@ -202,9 +225,11 @@ public class AllInOne {
 			count = 0;
 			rv = new ResponseVector(l);
 			Map<Integer, ArrayList<Integer>> preCluster = new HashMap<>();
+			boolean needAdd = true;
 			for (Response r : l) {
 				//System.out.println(rv.getVector(r.toString()));
 				//System.out.println(count + "\t" + r.toString());
+				needAdd = true;
 				writer1.write(r.toString() + "\n");
 				count++;
 				//writer.write(r.toString() + ": ");
@@ -218,6 +243,7 @@ public class AllInOne {
 						preCluster.put(1, new ArrayList<>());
 					}
 					preCluster.get(1).add(count);
+					needAdd = false;
 				} else {
 					writer.write("0 ");
 				}
@@ -227,6 +253,7 @@ public class AllInOne {
 						preCluster.put(2, new ArrayList<>());
 					}
 					preCluster.get(2).add(count);
+					needAdd = false;
 				} else {
 					writer.write("0 ");
 				}
@@ -236,6 +263,7 @@ public class AllInOne {
 						preCluster.put(3, new ArrayList<>());
 					}
 					preCluster.get(3).add(count);
+					needAdd = false;
 				} else {
 					writer.write("0 ");
 				}
@@ -245,8 +273,15 @@ public class AllInOne {
 						preCluster.put(4, new ArrayList<>());
 					}
 					preCluster.get(4).add(count);
+					needAdd = false;
 				} else {
 					writer.write("0 ");
+				}
+				if (needAdd) {
+					if (!preCluster.containsKey(5)) {
+						preCluster.put(5, new ArrayList<>());
+					}
+					preCluster.get(5).add(count);
 				}
 				for (Integer i : rv.getVector(r.toString())) {
 					writer.write(i + " ");

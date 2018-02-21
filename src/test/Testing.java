@@ -11,11 +11,12 @@ public class Testing {
 
 	@SuppressWarnings("unchecked")
 	public static void main(String[] args) throws IOException {
-		System.out.println(1/0);
-		String response = "i need neurology".replaceAll("\\s", "%20");
+		String response = "20-Jan-1990".replaceAll("\\s", "%20");
 		JSONObject test = getJObject(response);
+		//System.out.println(test.toString());
 		//System.out.println(test.getJSONObject("entities").getJSONArray("yesno").getJSONObject(0).getDouble("confidence"));
 		
+		/*
 		Map<String, LinkedList<Response>> qAndAMap = null;
 		qAndAMap = (Map<String, LinkedList<Response>>) read("DAResponsesMap");
 		ResponseVector rv = null;
@@ -32,7 +33,7 @@ public class Testing {
 				seen.add(r1);
 			}
 			System.out.println();
-		}
+		}*/
 	}
 	
 	public static JSONObject getJObject(String response) throws IOException {

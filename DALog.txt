@@ -3301,15 +3301,15 @@ SDFuserid|message|sendReceive
 2798|is this your first time visiting our office?|0
 2798|yes|1
 2798|what is your name?|0
-2798|g?khan|1
-2798|thanks. g?khan, please tell me your date of birth.|0
+2798|gökhan|1
+2798|thanks. gökhan, please tell me your date of birth.|0
 2798|01.01.1981|1
 2798|i got it, please tell me your phone number so we can contact you in the future.|0
 2798|i live in germany|1
 2798|sorry, i didn't get that.|0
 2798|i got it, please tell me your phone number so we can contact you in the future.|0
 2798|0 160 99 10 57 22|1
-2798|g?khan, which department would you like to visit?|0
+2798|gökhan, which department would you like to visit?|0
 2798|cardiology|1
 2798|when would you like to come?|0
 2798|wednesday|1
@@ -3380,3 +3380,28 @@ SDFuserid|message|sendReceive
 2801|q3: any suggestions to improve the chatbot?|0
 2801|filter out any word that isn't a name when entering your name. i tried to use friendly chatter such as 'nice to meet you' and it included it in my name. it is very fast and simple and i could see me using it to schedule appointments.|1
 2801|congrats, you are done! your code is 2192875.|0
+2807|hello|1
+2807|hi! i can help you make an appointment!|0
+2807|is this your first time visiting our office?|0
+2807|yes|1
+2807|what is your name?|0
+2807|stan|1
+2807|thanks. stan, please tell me your date of birth.|0
+2807|4/18/1988|1
+2807|i got it, please tell me your phone number so we can contact you in the future.|0
+2807|777-545-3354|1
+2807|stan, which department would you like to visit?|0
+2807|psychiatry|1
+2807|when would you like to come?|0
+2807|tomorrow|1
+2807|please select a time slot for 2018-02-01.|0
+2807|1030am|1
+2807|appointment successful at department of psychiatry for 2018-02-01 at 1030am|0
+2807|thank you for using our chatbot. please also answer the next 3 questions.|0
+2807|q1: would you use chatbot like this to make an appointment with your doctor?|0
+2807|yes|1
+2807|q2: did any question confuse you?|0
+2807|no|1
+2807|q3: any suggestions to improve the chatbot?|0
+2807|looks good|1
+2807|congrats, you are done! your code is 1088156.|0
