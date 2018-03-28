@@ -18,7 +18,7 @@ public class ResponseVector implements Serializable{
 		this.vectorMap = new HashMap<String, ArrayList<Integer>>();
 		Set<String> vocab = new HashSet<>();
 		for (Response r : responseList) {
-			String[] tokens = r.getResponse().split("\\s");
+			String[] tokens = r.toString().split("\\W");
 			for (String token : tokens) {
 				vocab.add(token);
 			}
@@ -30,7 +30,7 @@ public class ResponseVector implements Serializable{
 				for (int i = 0; i < vocabList.size(); ++i) {
 					this.vectorMap.get(r.toString()).add(0);
 				}
-				String[] tokens = r.getResponse().split("\\s");
+				String[] tokens = r.toString().split("\\W");
 				for (String token : tokens) {
 					int index = this.vocabList.indexOf(token);
 					int count = this.vectorMap.get(r.toString()).get(index);
@@ -42,14 +42,14 @@ public class ResponseVector implements Serializable{
 		this.bigramVectorMap = new HashMap<String, ArrayList<Integer>>();
 		Set<String> bigramVocab = new HashSet<>();
 		for (Response r : responseList) {
-			String[] tokens = r.getResponse().split("\\s");
+			String[] tokens = r.toString().split("\\W");
 			for (int i = 0; i < tokens.length - 1; i++) {
 				bigramVocab.add(tokens[i] + " " + tokens[i+1]);
 			}
 		}
 		this.bigramVocabList = new ArrayList<>(bigramVocab);
 		for (Response r : responseList) {
-			String[] tokens = r.getResponse().split("\\s");
+			String[] tokens = r.toString().split("\\W");
 			if (!this.bigramVectorMap.containsKey(r.toString()) && tokens.length > 1) {
 				this.bigramVectorMap.put(r.toString(), new ArrayList<>());
 				for (int i = 0; i < bigramVocabList.size(); ++i) {

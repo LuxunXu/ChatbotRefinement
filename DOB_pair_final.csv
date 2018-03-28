@@ -1,0 +1,501 @@
+Response one,Response two,Similarity
+"1/6/82","3569",dissimilar
+"27/12/1986","02/08/1979",similar
+"01/30/75","3569",dissimilar
+"07/dec/1987","1994",dissimilar
+"march 14","june 6 1966",dissimilar
+"fiftten five nineti five","01/01/1990",dissimilar
+"1/1/01","03051969",dissimilar
+"april 1, 1970","16th of december, 1990",dissimilar
+"12/01/1989","01.04.1993",similar
+"are you open for business?","12/27/1986",dissimilar
+"12/22/1980","3569",dissimilar
+"july 17, 1983","1984/feb",dissimilar
+"8/5/1996","06/07/1990",similar
+"4/4/1980","8th dec 1988",dissimilar
+"09/08/1994","07/20/92",similar
+"9/15/1995","6 th june",dissimilar
+"03/22/1989","1/1/91",similar
+"20.01.1993","12/12/1995",similar
+"july 17, 1983","05-23-1992",similar
+"14091990","20/11/1995",dissimilar
+"fiftten five nineti five","10/27/96",dissimilar
+"6 th june","28 of may 1986",dissimilar
+"2/4/1979","bye bye i don't know",dissimilar
+"6th may","01.04.1993",dissimilar
+"13 mar 77","01-09-1976",similar
+"18th september 1988","28 nov 1999",similar
+"can you please help.","30.05.1987",dissimilar
+"20.01.1993","12/08/1990",similar
+"2nd feb 1982","1/6/82",dissimilar
+"fiftten five nineti five","08/23/96",dissimilar
+"02/13/1995","november 11 1991",dissimilar
+"1/1/90","1987",dissimilar
+"05231990","02/13/1995",dissimilar
+"xxf","5/16/2007",dissimilar
+"4/4/1980","06081984",dissimilar
+"6/10/1967","01.04.1993",similar
+"01/01/71","jan 2nd, 1990",dissimilar
+"10/27/96","30.05.1987",similar
+"julu 3rd 1993","july 17, 1983",dissimilar
+"1/1/11","09/01/1985",similar
+"6/12/1984","08/23/96",similar
+"1990","november 11 1991",dissimilar
+"23","08/07/1980",dissimilar
+"march 14","03051969",dissimilar
+"1984/feb","07/20/92",dissimilar
+"01/01/1972","5th february 1995",dissimilar
+"august 16th 1990","ok",dissimilar
+"11/09/214","1987",dissimilar
+"04-05-1992","6th may 2000",dissimilar
+"june 4 1994","september 1, 1985",similar
+"january 1, 1990","nov 1983",dissimilar
+"18th september 1988","4/10/1993",dissimilar
+"11/09/214","july 8 1990",dissimilar
+"28/04/1995","01/06/1978",similar
+"1994","august 16th 1990",dissimilar
+"01/02/92","5/16/2007",similar
+"01/01/1972","01/01/71",similar
+"04-05-1992","march 14",dissimilar
+"04-05-1992","3/4/88",similar
+"15/02/96","xxf",dissimilar
+"cvvfd","1984/feb",dissimilar
+"12/12/1995","june 12 1988",dissimilar
+"1990","4/18/1988",dissimilar
+"03/20/1997","xxf",dissimilar
+"26 november","july 8 1990",dissimilar
+"27, august, 1995","xcds",dissimilar
+"3/4/88","01/01/71",similar
+"1-31-1982","30.05.1987",similar
+"march 5th, 1974","01/30/75",dissimilar
+"01/28/1998","01/01/71",similar
+"april,1,1993","1/1/91",dissimilar
+"01/23/88","10/23/74",similar
+"i have had this pain since this weekend!","01 sep 1976",dissimilar
+"6 may 2000","09/01",dissimilar
+"1/1/11","01/06/1978",similar
+"06/07/1990","jan 1 1977",dissimilar
+"1/1/1980","november 11 1991",dissimilar
+"16/08/1990","1984/feb",dissimilar
+"12/22/1980","01/05/1988",similar
+"august","01/01/01",dissimilar
+"20/01/1993","01/06/1978",similar
+"9/11/1966","20.01.1993",similar
+"05/23/1990","2nd feb 1982",dissimilar
+"23/06/1979","16-05-1987",similar
+"27-05-1995","march 31st, 1984",dissimilar
+"14091990","xxf",dissimilar
+"28/04/1995","07/05/1978",similar
+"fiftten five nineti five","july 3rd 1993",dissimilar
+"01 sep 1976","december 17 1959",similar
+"fiftten five nineti five","25-05-1995",dissimilar
+"01/28/1998","28 nov 1999",dissimilar
+"august 15 1990","11/09/214",dissimilar
+"march 5th, 1974","november 16",dissimilar
+"1/2/1977","25.05.1995",similar
+"9/11/1966","1987",dissimilar
+"10/27/96","july 24 1991",dissimilar
+"23/08/1990","1990",dissimilar
+"january 1, 1995","07/20/92",dissimilar
+"15/02/96","01/01/71",similar
+"16/08/1990","4/18/1988",similar
+"are you open for business?","01-09-1976",dissimilar
+"11101986","01 sep 1976",dissimilar
+"can you please help.","january 1, 1950",dissimilar
+"30.05.1987","july 8 1990",dissimilar
+"nov 11 1980","june 4 1994",similar
+"23/06/1979","1st january 1986",dissimilar
+"01 sep 1976","1/1/91",dissimilar
+"1/1/1980","25.05.1995",similar
+"april 1, 1970","1/1/11",dissimilar
+"05231990","bye bye i don't know",dissimilar
+"01/01/1965","01-09-1976",similar
+"27, august, 1995","25.05.1995",dissimilar
+"06/24/1988","1987",dissimilar
+"01/01/1990","1st january 1986",dissimilar
+"12/01/1989","14/9/1990",similar
+"06081984","march 5 1969",dissimilar
+"15/08/90","01/01/01",similar
+"08/23/96","02/13/1995",similar
+"january 1, 1950","july 8 1990",similar
+"15/08/90","05/08/1997",similar
+"january 1, 1995","1995",dissimilar
+"my feet smells very bad","7/8/1992",dissimilar
+"07/dec/1987","november 16",dissimilar
+"july 24 1991","jan 1 1977",similar
+"2/4/1979","05/30/1987",similar
+"june 12 1988","august 16th 1990",similar
+"23-9-1995","july 24 1991",dissimilar
+"28/04/1995","06/07/1990",similar
+"04-05-1992","julu 3rd 1993",dissimilar
+"my feet smells very bad","16th of december, 1990",dissimilar
+"1-31-1982","1994",dissimilar
+"3/4/88","august 16th 1990",dissimilar
+"23","01-09-1976",dissimilar
+"november 16","1994",dissimilar
+"10/27/96","april 12th, 1980",dissimilar
+"9/11/1966","28 nov 1999",dissimilar
+"6/12/1984","nov 1983",dissimilar
+"06/23/79","07/05/1978",similar
+"01011990","10/01/97",dissimilar
+"04/28/1995","6/10/1967",similar
+"07/dec/1987","14-09-1990",dissimilar
+"05231990","8th dec 1988",dissimilar
+"nov 11 1980","c",dissimilar
+"august","11101986",dissimilar
+"bye bye i don't know","26 november",dissimilar
+"march 15 1979","cvvfd",dissimilar
+"23-9-1995","05/30/1987",similar
+"1st january 1986","1/1/1901",dissimilar
+"3/4/88","feb 23 1993",dissimilar
+"27-05-1995","6th may",dissimilar
+"28/04/1995","26 november",dissimilar
+"jan 1 1977","september 1, 1985",similar
+"january 1, 1990","julu 3rd 1993",dissimilar
+"1/1/1980","01/01/71",similar
+"january 1st 1990","28 of may 1986",similar
+"april 3rd, 1966","1987",dissimilar
+"09/01/1985","23-9-1995",similar
+"04/28/1995","ok",dissimilar
+"07/05/1978","3/4/88",similar
+"6/10/1967","02/21/1986",similar
+"7/8/1992","01.04.1993",similar
+"04/15/80","15th april 1980",dissimilar
+"2nd feb 1982","1/1/1901",dissimilar
+"01/28/1998","1987",dissimilar
+"12/22/1980","30",dissimilar
+"05/23/1990","01/01/01",similar
+"20.01.1993","01/01/71",similar
+"01/01/1965","march 31st, 1984",dissimilar
+"feb 19 1963","14-sep-1990",similar
+"june 4 1994","1995",dissimilar
+"can you please help.","26/11/1991",dissimilar
+"13 mar 77","02/21/1986",dissimilar
+"08/23/96","6 may 2000",dissimilar
+"july 3rd 1993","01/05/1988",dissimilar
+"05-23-1992","16-05-1987",similar
+"25-05-1995","20/11/1995",similar
+"23/08/1990","01/02/92",similar
+"15 feb 1996","02/21/1986",dissimilar
+"6 th june","september 1, 1985",dissimilar
+"01/01/1990","05231919",dissimilar
+"12/12/1995","1/2/1977",similar
+"27/12/1986","8/5/1996",similar
+"28/04/1995","01/23/88",similar
+"09/08/1994","xcds",dissimilar
+"04-05-1992","jan 2nd, 1990",dissimilar
+"07/dec/1987","feb 23 1993",similar
+"august 15 1990","jan 2nd, 1990",similar
+"09/01/1985","cvvfd",dissimilar
+"01 sep 1976","4/18/1988",dissimilar
+"23","16/08/1990",dissimilar
+"23/06/1979","09/08/1994",similar
+"07/dec/1987","11101986",dissimilar
+"are you open for business?","6th may 2000",dissimilar
+"2/4/1979","3/4/88",similar
+"march 14","09/01",similar
+"16/08/1990","04/03/1985",similar
+"01/30/75","10/01/97",similar
+"01/28/1998","01 sep 1976",dissimilar
+"23/08/1990","april 12th, 1980",dissimilar
+"01/23/88","09/01/1985",similar
+"01/01/01","20/11/1995",similar
+"8/5/1996","april 12th, 1980",dissimilar
+"december 17 1959","30",dissimilar
+"july 24 1991","07/20/92",similar
+"01/05/1988","xxf",dissimilar
+"8th dec 1988","ok",dissimilar
+"august 15 1990","jan 2nd, 1990",similar
+"september 5th 1987","4/10/1993",dissimilar
+"05231990","23 september 1990",dissimilar
+"c","july 8 1990",dissimilar
+"9/12/84","july 8 1990",dissimilar
+"23/06/1979","july 17, 1983",dissimilar
+"2/4/1979","9/11/1966",similar
+"20/01/1993","03051969",dissimilar
+"01/30/75","c",dissimilar
+"8/5/1996","4/18/1988",similar
+"1987","1/1/91",dissimilar
+"1/1/1980","1st july 1994",dissimilar
+"04/28/1995","22/8/1995",similar
+"july 17, 1983","01.01.1981",dissimilar
+"2/4/1979","1/1/71",similar
+"march 15 1979","12/22/1980",dissimilar
+"1/21/1972","25-05-1995",similar
+"can you please help.","3/4/88",dissimilar
+"feb 19 1963","july 17, 1983",similar
+"15/02/96","6 th june",dissimilar
+"6 may 2000","1/1/91",dissimilar
+"6/12/1984","1995",dissimilar
+"1/1/11","01/21/1981",similar
+"8/17/93","09/08/1994",similar
+"05231990","april 1 1970",dissimilar
+"8/17/93","05/23/1990",similar
+"06/23/79","01 sep 1976",dissimilar
+"6th may","march 31st, 1984",dissimilar
+"23/08/1990","november 11 1991",dissimilar
+"15/02/96","9/11/1966",similar
+"7/8/1992","xxf",dissimilar
+"09/01","10/23/74",dissimilar
+"04/03/1985","july 8 1990",dissimilar
+"02/21/1986","1/1/1980",similar
+"12/12/1995","1990",dissimilar
+"15/02/96","20/01/1993",similar
+"01/02/1995","feb 23 1993",dissimilar
+"1/1/50","august 16th 1990",dissimilar
+"03/20/1997","9/12/84",similar
+"09/01","nov 1983",similar
+"7th of july 1984","09/01",dissimilar
+"15 feb 1996","09/01/1985",dissimilar
+"9/11/1966","11101986",dissimilar
+"april,1,1993","02/13/1995",dissimilar
+"1-31-1982","7/8/1992",similar
+"june 12 1988","8th dec 1988",similar
+"14091990","1st july 1994",dissimilar
+"january 1, 1990","01/01/01",dissimilar
+"9/12/84","07/20/92",similar
+"11101986","01/30/75",dissimilar
+"15/04/1980","june 6 1966",dissimilar
+"03/20/1997","june 4 1994",dissimilar
+"07/05/1978","01/21/1981",similar
+"03/20/1997","06081984",dissimilar
+"01/23/88","5-2-1995",similar
+"6 th june","june 4 1994",dissimilar
+"i have had this pain since this weekend!","august 16th 1990",dissimilar
+"22/8/1995","28 nov 1999",dissimilar
+"1/1/1980","7/8/1992",similar
+"can you please help.","16-05-1987",dissimilar
+"04-05-1992","01/01/71",similar
+"12/12/1995","06081984",dissimilar
+"27-05-1995","04/03/1985",similar
+"september 5th 1987","01.04.1993",dissimilar
+"ok","3569",dissimilar
+"15/08/90","august 15 1990",dissimilar
+"27, august, 1995","feb 23 1993",similar
+"april 12th, 1980","03051969",dissimilar
+"2/4/1979","1/2/1977",similar
+"23/06/1979","julu 3rd 1993",dissimilar
+"04-05-1992","1/2/1977",similar
+"23/08/1990","4/10/1993",similar
+"01/23/88","27, august, 1995",dissimilar
+"02/08/1979","04/03/1985",similar
+"september 5th 1987","9/12/84",dissimilar
+"07/05/1978","15th april 1980",dissimilar
+"03/20/1997","14091990",dissimilar
+"january 1, 1990","august 15 1990",similar
+"its 2nd of may 1992","july 24 1991",similar
+"cvvfd","xcds",dissimilar
+"08/07/1980","xcds",dissimilar
+"june 4 1994","01/06/1978",dissimilar
+"april 3rd, 1966","04/03/1985",dissimilar
+"bye bye i don't know","03051969",dissimilar
+"december 17 1959","01/01/01",dissimilar
+"12/01/1989","march 31st, 1984",dissimilar
+"10/01/97","1st july 1994",dissimilar
+"07/05/1978","01.01.1981",similar
+"12/08/1990","30/05/1987",similar
+"july 17, 1983","september 1, 1985",similar
+"april 3rd, 1966","1984/feb",dissimilar
+"02/21/1986","1990",dissimilar
+"are you open for business?","27-05-1995",dissimilar
+"07/dec/1987","june 12 1988",similar
+"9/12/84","april,1,1993",dissimilar
+"27, august, 1995","03/20/1997",dissimilar
+"05/23/1990","april 3rd, 1966",dissimilar
+"july 17, 1983","c",dissimilar
+"july 8 1990","28 of may 1986",similar
+"january 2nd","july 24 1991",dissimilar
+"july 17, 1983","10/27/96",dissimilar
+"27, august, 1995","08/07/1980",dissimilar
+"23","december 17 1959",dissimilar
+"jan 20 1993","april 1 1970",similar
+"march 14","4/18/1988",dissimilar
+"07/05/1978","6th may",dissimilar
+"14/9/1990","june 30 1991",dissimilar
+"23","14-sep-1990",dissimilar
+"4/10/1993","23 september 1990",dissimilar
+"06/24/1988","1994",dissimilar
+"01/21/1981","01 sep 1976",dissimilar
+"26/11/1991","14-sep-1990",dissimilar
+"28/04/1995","april 3rd, 1966",dissimilar
+"julu 3rd 1993","07/20/92",dissimilar
+"3/4/88","1995",dissimilar
+"5-2-1995","16th of december, 1990",dissimilar
+"16/08/1990","25-05-1995",similar
+"01 sep 1976","15th april 1980",similar
+"bye bye i don't know","5/16/2007",dissimilar
+"06/24/1988","9/12/84",similar
+"15 feb 1996","23/06/1979",dissimilar
+"1/1/71","20/11/1995",similar
+"feb 19 1963","01-09-1976",dissimilar
+"23/06/1979","01/02/92",similar
+"01/01/1990","cvvfd",dissimilar
+"01/30/75","july 8 1990",dissimilar
+"01 sep 1976","10/23/74",dissimilar
+"july 3rd 1993","26 november",dissimilar
+"23-9-1995","30/05/1987",similar
+"01/01/1965","26 november",dissimilar
+"10/1/1984","02/13/1995",similar
+"01/02/1995","03051969",dissimilar
+"1/1/1901","6th may 2000",dissimilar
+"01 sep 1976","1st july 1994",dissimilar
+"jan 20 1993","april 1 1970",similar
+"january 1st 1990","ok",dissimilar
+"12/01/1989","july 3rd 1993",dissimilar
+"can you please help.","bye bye i don't know",dissimilar
+"its 2nd of may 1992","cvvfd",dissimilar
+"27/12/1986","10/1/1984",similar
+"20/01/1993","august 15 1990",dissimilar
+"ok","16-05-1987",dissimilar
+"03/22/1989","1984/feb",dissimilar
+"07/05/1978","june 4 1994",dissimilar
+"6th may 2000","nov 1983",dissimilar
+"01 sep 1976","05/30/1987",dissimilar
+"can you please help.","1/1/1980",dissimilar
+"jan 20 1993","03051969",dissimilar
+"13 mar 77","6th may",dissimilar
+"23/06/1979","10/27/96",similar
+"1994","december 17 1959",dissimilar
+"04-05-1992","10/1/1984",similar
+"05231990","1987",dissimilar
+"12/12/1995","jan 1 1977",dissimilar
+"january 1, 1990","3/4/88",dissimilar
+"1/1/90","6 may 2000",dissimilar
+"28/04/1995","july 24 1991",dissimilar
+"august","7th of july 1984",dissimilar
+"12/22/1980","28 of may 1986",dissimilar
+"12/27/1986","january 1, 1995",dissimilar
+"6th may 2000","01.04.1993",dissimilar
+"05231990","12/08/1990",dissimilar
+"12/01/1989","xxf",dissimilar
+"6/12/1984","25.05.1995",similar
+"01-09-1976","05-23-1992",similar
+"julu 3rd 1993","12/08/1990",dissimilar
+"23/06/1979","march 5th, 1974",dissimilar
+"1/1/50","8/5/1996",similar
+"08/07/1980","05/30/1987",similar
+"august 16th 1990","9/12/84",dissimilar
+"1-31-1982","03051969",dissimilar
+"20.01.1993","julu 3rd 1993",dissimilar
+"01/02/92","08/04/1990",similar
+"20.01.1993","16/05/1987",similar
+"06/23/79","02/21/1986",similar
+"01/21/1981","6 th june",dissimilar
+"6 may 2000","1/1/91",dissimilar
+"6 may 2000","1st july 1994",similar
+"6/12/1984","jan 2nd, 1990",dissimilar
+"27/12/1986","28 of may 1986",dissimilar
+"12/12/1995","20/11/1995",similar
+"its 2nd of may 1992","march 5 1969",similar
+"cvvfd","1987",dissimilar
+"11101986","july 17, 1983",dissimilar
+"1/1/11","01-09-1976",similar
+"1/1/1980","01 sep 1976",dissimilar
+"1/1/50","january 1 1977",dissimilar
+"7th of july 1984","10/27/96",dissimilar
+"7/8/1992","july 8 1990",dissimilar
+"11101986","25.05.1995",dissimilar
+"22/8/1995","6 may 2000",dissimilar
+"my feet smells very bad","14091990",dissimilar
+"i have had this pain since this weekend!","1/2/1977",dissimilar
+"10/23/74","30/05/1987",similar
+"1994","01-09-1976",dissimilar
+"nov 11 1980","1990",dissimilar
+"15 feb 1996","09/01",dissimilar
+"07/05/1978","23/08/1990",similar
+"bye bye i don't know","1/21/1972",dissimilar
+"04/15/80","bye bye i don't know",dissimilar
+"i have had this pain since this weekend!","july 24 1991",dissimilar
+"05/23/1990","5/16/2007",similar
+"2nd feb 1982","09/01",dissimilar
+"22/8/1995","feb 23 1993",dissimilar
+"bye bye i don't know","30.05.1987",dissimilar
+"01/21/1981","14-09-1990",similar
+"august 16th 1990","10/28/1987",dissimilar
+"15.05.1994","6 th june",dissimilar
+"are you open for business?","06/07/1990",dissimilar
+"05/23/1990","c",dissimilar
+"8/17/93","january 2nd",dissimilar
+"11-01-1997","1995",dissimilar
+"15.05.1994","01/01/01",similar
+"18th september 1988","june 30 1991",similar
+"6/10/1967","1990",dissimilar
+"7/8/1986","23 september 1990",dissimilar
+"1/1/50","1/1/1901",similar
+"14-09-1990","14-sep-1990",dissimilar
+"fiftten five nineti five","12/08/1990",dissimilar
+"09/01/1985","ok",dissimilar
+"august 15 1990","c",dissimilar
+"november 16","4/18/1988",dissimilar
+"01/01/1972","05-23-1992",similar
+"14-09-1990","jan 1 1977",dissimilar
+"8/17/93","09/08/1994",similar
+"04/28/1995","09/01/1985",similar
+"15/08/90","01/01/1965",similar
+"23","5th february 1995",dissimilar
+"15th april 1980","5th february 1995",similar
+"1994","4/10/1993",dissimilar
+"march 15 1979","6/12/1984",dissimilar
+"8/17/93","1/1/91",similar
+"august","1/1/71",dissimilar
+"1/1/1901","02/08/1979",similar
+"august 15 1990","06081984",dissimilar
+"12/12/1995","4/4/1980",dissimilar
+"15/08/90","01/21/1981",dissimilar
+"august 15 1990","xcds",dissimilar
+"1/1/90","14/9/1990",similar
+"15 feb 1996","feb 23 1993",similar
+"8/17/93","20.01.1993",similar
+"bye bye i don't know","12/08/1990",dissimilar
+"20/01/1993","01/05/1988",similar
+"january 2nd","01-09-1976",dissimilar
+"09/08/1994","c",dissimilar
+"1/1/50","1/6/82",similar
+"january 1, 1995","march 31st, 1984",similar
+"can you please help.","11-01-1997",dissimilar
+"05-23-1992","14-09-1990",similar
+"2/4/1979","i have had this pain since this weekend!",dissimilar
+"january 1, 1950","16th of december, 1990",similar
+"12/27/1986","1st january 1986",dissimilar
+"01/01/1965","12/08/1990",similar
+"are you open for business?","7/8/1992",dissimilar
+"bye bye i don't know","xcds",dissimilar
+"23/08/1990","6th may",dissimilar
+"its 2nd of may 1992","26 november",dissimilar
+"10/1/1984","8/5/1996",similar
+"09/01/1985","15/04/1980",similar
+"my feet smells very bad","3569",dissimilar
+"01/01/1965","1995",dissimilar
+"i have had this pain since this weekend!","03/20/1997",dissimilar
+"july 17, 1983","01/05/1988",dissimilar
+"02/21/1986","01-09-1976",similar
+"7/8/1986","15th april 1980",dissimilar
+"feb 23 1993","12/22/1980",dissimilar
+"30/05/1987","10/28/1987",similar
+"3/4/88","30/05/1987",similar
+"8th dec 1988","1st july 1994",similar
+"05231990","11101986",dissimilar
+"26 november","03051969",dissimilar
+"1/6/82","7/8/1992",similar
+"01/23/88","1/1/1980",similar
+"are you open for business?","january 1, 1950",dissimilar
+"july 24 1991","december 17 1959",similar
+"are you open for business?","01/01/1965",dissimilar
+"01/01/1965","30",dissimilar
+"23-9-1995","april 3rd, 1966",dissimilar
+"9/15/1995","01/23/88",similar
+"1/21/1972","jan 1 1977",dissimilar
+"01/23/88","6th may",dissimilar
+"january 1, 1950","14-sep-1990",similar
+"07/dec/1987","02/08/1979",dissimilar
+"6th may 2000","02/08/1979",dissimilar
+"06/07/1990","1/1/71",similar
+"january 1, 1950","1/1/1980",dissimilar
+"january 2nd","1/21/1972",dissimilar
+"7/8/1992","11/09/214",similar
+"11/09/214","14/9/1990",dissimilar
+"23-9-1995","10/28/1987",similar
+"i have had this pain since this weekend!","1/2/1977",dissimilar
+"do you understand what i am saying?","march 14",dissimilar
+"june 30 1991","01.04.1993",dissimilar
+"jan 20 1993","january 1 1977",similar

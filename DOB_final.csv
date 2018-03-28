@@ -1,0 +1,202 @@
+Response	Validity
+"10/22/78"	valid
+"15/02/96"	valid
+"15 feb 1996"	valid
+"07/dec/1987"	valid
+"2/4/1979"	valid
+"can you please help."	invalid
+"i have had this pain since this weekend!"	invalid
+"do you understand what i am saying?"	invalid
+"04-05-1992"	valid
+"15.05.1994"	valid
+"fiftten five nineti five"	invalid
+"28/04/1995"	valid
+"04/28/1995"	valid
+"23/06/1979"	valid
+"06/23/79"	valid
+"8/17/93"	valid
+"march 15 1979"	valid
+"13 mar 77"	valid
+"01011990"	invalid
+"january 1st 1990"	valid
+"are you open for business?"	invalid
+"01/01/1972"	valid
+"01/01/1990"	valid
+"27/12/1986"	valid
+"12/27/1986"	valid
+"11-01-1997"	valid
+"05231990"	invalid
+"05/23/1990"	valid
+"9/11/1966"	valid
+"12/01/1989"	valid
+"6/10/1967"	valid
+"august"	invalid
+"20/01/1993"	valid
+"20.01.1993"	valid
+"jan 20 1993"	valid
+"11101986"	invalid
+"11/10/1986"	valid
+"january 1, 1950"	valid
+"1/1/50"	valid
+"01/02/1995"	valid
+"12/12/1995"	valid
+"march 5th, 1974"	valid
+"02/21/1986"	valid
+"9/15/1995"	valid
+"april 1, 1970"	valid
+"april 1 1970"	valid
+"september 5th 1987"	valid
+"january 1 1977"	valid
+"7th of july 1984"	valid
+"7/8/1986"	valid
+"04/15/80"	valid
+"10/1/1984"	valid
+"november 16"	invalid
+"01011986"	valid
+"1st january 1986"	valid
+"1/1/01"	valid
+"01/23/88"	valid
+"january 1, 1990"	valid
+"january 1, 1990"	valid
+"1/1/90"	valid
+"09/08/1994"	valid
+"07/05/1978"	valid
+"27-05-1995"	valid
+"27, august, 1995"	valid
+"18th september 1988"	valid
+"15/08/90"	valid
+"august 15 1990"	valid
+"julu 3rd 1993"	valid
+"july 3rd 1993"	valid
+"january 2nd"	invalid
+"01/28/1998"	valid
+"january 1, 1995"	valid
+"6/12/1984"	valid
+"01/30/75"	valid
+"06/24/1988"	valid
+"1/1/11"	valid
+"bye bye i don't know"	invalid
+"2nd feb 1982"	valid
+"june 12 1988"	valid
+"4/4/1980"	valid
+"09/01/1985"	valid
+"feb 19 1963"	valid
+"3/4/88"	valid
+"1/1/1901"	valid
+"08/23/96"	valid
+"july 17, 1983"	valid
+"01/21/1981"	valid
+"1/21/1972"	valid
+"01/01/1965"	valid
+"march 14"	invalid
+"03/20/1997"	valid
+"1-31-1982"	valid
+"22/8/1995"	valid
+"23"	invalid
+"23-9-1995"	valid
+"1994"	invalid
+"feb 23 1993"	valid
+"12/22/1980"	valid
+"6 may 2000"	valid
+"6th may 2000"	valid
+"nov 11 1980"	valid
+"its 2nd of may 1992"	valid
+"8/5/1996"	valid
+"09/01"	invalid
+"1/6/82"	valid
+"06081984"	invalid
+"6 th june"	invalid
+"1/1/1980"	valid
+"june 4 1994"	valid
+"10/27/96"	valid
+"06/07/1990"	valid
+"08/07/1980"	valid
+"28 nov 1999"	valid
+"1/2/1977"	valid
+"23/08/1990"	valid
+"1990"	invalid
+"6th may"	invalid
+"4/10/1993"	valid
+"8th dec 1988"	valid
+"16/08/1990"	valid
+"august 16th 1990"	valid
+"01-09-1976"	valid
+"01 sep 1976"	valid
+"15/04/1980"	valid
+"15th april 1980"	valid
+"26/11/1991"	valid
+"26 november"	invalid
+"02/08/1979"	valid
+"05231919"	invalid
+"05-23-1992"	valid
+"05/08/1997"	valid
+"april 12th, 1980"	valid
+"my feet smells very bad"	invalid
+"5-2-1995"	valid
+"5th february 1995"	valid
+"july 24 1991"	valid
+"7/8/1992"	valid
+"december 17 1959"	valid
+"03/22/1989"	valid
+"april 3rd, 1966"	valid
+"11/09/214"	invalid
+"01/05/1988"	valid
+"04/03/1985"	valid
+"9/12/84"	valid
+"14/9/1990"	valid
+"14-09-1990"	valid
+"ok"	invalid
+"14091990"	invalid
+"cvvfd"	invalid
+"c"	invalid
+"xxf"	invalid
+"xcds"	invalid
+"14-sep-1990"	valid
+"10/23/74"	valid
+"12/08/1990"	valid
+"10/01/97"	valid
+"june 30 1991"	valid
+"01/01/71"	valid
+"1/1/71"	valid
+"01.04.1993"	valid
+"01.04.1993"	valid
+"april,1,1993"	valid
+"30/05/1987"	valid
+"05/30/1987"	valid
+"30.05.1987"	valid
+"30"	invalid
+"1987"	invalid
+"1st july 1994"	valid
+"02/13/1995"	valid
+"jan 1 1977"	valid
+"nov 1983"	invalid
+"november 11 1991"	valid
+"1/1/91"	valid
+"1984/feb"	invalid
+"10/28/1987"	valid
+"01/06/1978"	valid
+"3569"	invalid
+"03051969"	invalid
+"march 5 1969"	valid
+"16th of december, 1990"	valid
+"01/01/01"	valid
+"23 september 1990"	valid
+"01/02/92"	valid
+"07/20/92"	valid
+"16/05/1987"	valid
+"16-05-1987"	valid
+"1987"	invalid
+"september 1, 1985"	valid
+"march 31st, 1984"	valid
+"01.01.1981"	valid
+"july 8 1990"	valid
+"jan 2nd, 1990"	valid
+"08/04/1990"	valid
+"4/18/1988"	valid
+"25-05-1995"	valid
+"25.05.1995"	valid
+"1995"	invalid
+"june 6 1966"	valid
+"20/11/1995"	valid
+"5/16/2007"	valid
+"28 of may 1986"	valid

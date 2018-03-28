@@ -22,6 +22,8 @@ import java.util.Scanner;
 
 import org.json.JSONObject;
 
+import com.vader.sentiment.analyzer.SentimentAnalyzer;
+
 import test.Message;
 import test.Response;
 import test.ResponseVector;
@@ -46,17 +48,17 @@ public class AllInOne {
 			
 			// Get Log
 			
-			String sql = "SELECT l.SDFuserid, l.message, l.sendReceive from CHATBOTDEMO.chatLog l " + 
+			String sql = "SELECT l.SDFuserid, l.message, l.sendReceive, l.sentTime from CHATBOTDEMO.chatLog l " + 
 					"JOIN (SELECT DISTINCT d.SDFuserid FROM CHATBOTDEMO.DoctorAppointmentExecution d) s on s.SDFuserid = l.SDFuserid " + 
 					"WHERE l.chatbotFunctionId='DoctorAppointment' ORDER BY l.SDFuserid, l.sentTime;";
 			BufferedWriter out = new BufferedWriter(new FileWriter(logFileName));
-			out.write("SDFuserid|message|sendReceive\n");
+			out.write("SDFuserid|message|sendReceive|sentTime\n");
 			try {
 				conn = DriverManager.getConnection(dbURL + "/" + currentDB, username, password);
 				st = conn.prepareStatement(sql);
 				ResultSet rs = st.executeQuery();
 				while (rs.next()) {
-					out.write(rs.getString("SDFuserid").trim() + "|" + rs.getString("message").toLowerCase().trim().replaceAll("\n", " ") + "|" + rs.getString("sendReceive").trim() + "\n");
+					out.write(rs.getString("SDFuserid").trim() + "|" + rs.getString("message").toLowerCase().trim().replaceAll("\n", " ") + "|" + rs.getString("sendReceive").trim() + "|" + rs.getString("sentTime").substring(11, 19) + "\n");
 				}
 				rs.close();
 				st.close();
@@ -65,12 +67,13 @@ public class AllInOne {
 				el.printStackTrace();
 			}
 			
-			Map<String, LinkedList<Response>> qAndAMap = processLog(logFileName);
-			convertToVector(qAndAMap);
 		} else if (choice == 2) {
-			Map<String, LinkedList<Response>> qAndAMap = (Map<String, LinkedList<Response>>) read("DAResponsesMap");
+			Map<String, LinkedList<Response>> qAndAMap = processLog("DALog.txt");
 			convertToVector(qAndAMap);
 		} else if (choice == 3) {
+			Map<String, LinkedList<Response>> qAndAMap = (Map<String, LinkedList<Response>>) read("DAResponsesMap");
+			convertToVector(qAndAMap);
+		} else if (choice == 4) {
 			String dbURL = "jdbc:mysql://demo.smartbot360.com:3306";
 			String currentDB = "CHATBOTDEMO";
 			String username = "mwile001";
@@ -118,6 +121,12 @@ public class AllInOne {
 			} catch (SQLException el) {
 				el.printStackTrace();
 			}
+		} else if(choice == 5) {
+			String sentence = "i have had this pain since this weekend!";
+			System.out.println(sentence);
+	        SentimentAnalyzer sa = new SentimentAnalyzer(sentence);
+	        sa.analyze();
+	        System.out.println(sa.getPolarity());
 		}
 	}
 	
@@ -128,12 +137,18 @@ public class AllInOne {
 		int currentID = 0;
 		Map<Integer, Message> idMap= new HashMap<Integer, Message>();
 		LinkedList<String> qaPair = new LinkedList<String>();
+		String previousTime = "";
+		int nodeCount = 1;
+		String prevQ = "";
 		while(sc.hasNextLine()) {
+			//System.out.println(prevQ);
 			line = sc.nextLine();
 			String[] tokens = line.split("\\|");
 			//System.out.println(line);
 			int id = Integer.parseInt(tokens[0]);
+			String curTime = tokens[3];
 			if (currentID != id) {
+				nodeCount = 1;
 				System.out.println(id);
 				currentID = id;
 				idMap.put(id, new Message());
@@ -148,17 +163,23 @@ public class AllInOne {
 				}
 			}
 			if (qaPair.size() == 2) {
+				if (qaPair.get(0).equals(prevQ)) {
+					nodeCount++;
+				} else {
+					nodeCount = 1;
+				}
+				prevQ = qaPair.get(0);
 				if (!idMap.get(id).getMap().containsKey(qaPair.get(0))) {
 					idMap.get(id).getMap().put(qaPair.get(0), new LinkedList<Response>());
-					Response r = new Response(qaPair.get(1));
-					//System.out.println(r.getJSON().toString());
+					Response r = new Response(qaPair.get(1), getTime(previousTime, curTime), nodeCount);
 					idMap.get(id).getMap().get(qaPair.get(0)).add(r);
 				} else {
-					Response r = new Response(qaPair.get(1));
+					Response r = new Response(qaPair.get(1), getTime(previousTime, curTime), nodeCount);
 					idMap.get(id).getMap().get(qaPair.get(0)).add(r);
 				}
 				qaPair = new LinkedList<String>();
 			}
+			previousTime = curTime;
 		}
 		
 		//System.out.println(idMap);
@@ -227,15 +248,15 @@ public class AllInOne {
 			Map<Integer, ArrayList<Integer>> preCluster = new HashMap<>();
 			boolean needAdd = true;
 			for (Response r : l) {
-				//System.out.println(rv.getVector(r.toString()));
-				//System.out.println(count + "\t" + r.toString());
 				needAdd = true;
 				writer1.write(r.toString() + "\n");
 				count++;
-				//writer.write(r.toString() + ": ");
-				writer.write(r.getNumberOfDigits() + " " + r.getNumberOfLetters() + " " + r.getNumberOfTokens() + " " + r.getTotalLength() + " ");
+				writer.write(r.getNumberOfDigits() + " " + r.getNumberOfLetters() + " " + r.getNumberOfTokens() + " " + r.getTotalLength() + " " + r.getTime() + " " + r.getNodeCount() + " ");
+				String sentence = r.toString();
+		        SentimentAnalyzer sa = new SentimentAnalyzer(sentence);
+		        sa.analyze();
+		        writer.write(sa.getPolarity().get("compound") + " ");
 				JSONObject j = r.getJSON();
-				//System.out.println(j.toString());
 				//yesno, datatime, department, phone_number
 				if (j.has("entities") && j.getJSONObject("entities").has("yesno")) {
 					writer.write(j.getJSONObject("entities").getJSONArray("yesno").getJSONObject(0).getDouble("confidence") + " ");
@@ -328,6 +349,18 @@ public class AllInOne {
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
+	}
+	
+	public static int getTime(String before, String now) {
+		int time = 0;
+		time += (Integer.parseInt(now.substring(0, 2)) - Integer.parseInt(before.substring(0, 2)))*60*60;
+		time += (Integer.parseInt(now.substring(3, 5)) - Integer.parseInt(before.substring(3, 5)))*60;
+		time += (Integer.parseInt(now.substring(6)) - Integer.parseInt(before.substring(6)));
+		//System.out.println(before + " " + now + ": " + time);
+		if(time < 0) {
+			return 5;
+		}
+		return time;
 	}
 }
 

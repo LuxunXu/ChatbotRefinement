@@ -11,7 +11,7 @@ public class Testing {
 
 	@SuppressWarnings("unchecked")
 	public static void main(String[] args) throws IOException {
-		String response = "20-Jan-1990".replaceAll("\\s", "%20");
+		String response = "23-9-1995".replaceAll("\\s", "%20");
 		JSONObject test = getJObject(response);
 		//System.out.println(test.toString());
 		//System.out.println(test.getJSONObject("entities").getJSONArray("yesno").getJSONObject(0).getDouble("confidence"));
